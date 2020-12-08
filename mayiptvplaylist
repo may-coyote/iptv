@@ -28,3 +28,51 @@ https://www.doo2you.com/new-tv/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/wp.png",Workpoint TV
 https://www.doo2you.com/workpoint-tv/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nation.png",Nation Channel
+https://www.doo2you.com/nation/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/one.png",One HD
+https://www.doo2you.com/one/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/8.png",CH 8
+https://www.doo2you.com/ch-8/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/thairath.png",ไทยรัฐ TV
+https://www.doo2you.com/thairath/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/amarin.png",Amarin TV
+https://www.doo2you.com/amarin-tv/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/pptv.png",PPTV HD
+https://www.doo2you.com/pptv/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/new1logo.png",News 1
+https://www.doo2you.com/news-1/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/voice.png",Voice TV
+https://www.doo2you.com/voice-tv/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/v2h.png",V2H
+https://www.doo2you.com/v2h-2tv/
+
+---------------------------------------------------------------------------------------Movie--------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
+https://we-play.tv/watching/tv/hbo-hd
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD (Backup)
+https://www.doomovie-hd.com/?r=tv_view&id=41
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
+https://we-play.tv/watching/tv/hbo-hits
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits (Backup)
+https://www.doomovie-hd.com/?r=tv_view&id=43
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Signature
+https://we-play.tv/watching/tv/hbo-signature
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
+https://we-play.tv/watching/tv/hbo-family
+

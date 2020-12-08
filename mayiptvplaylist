@@ -23,6 +23,9 @@ https://www.doo2you.com/thai-pbs/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/TNN24.png",TNN 16
 https://www.doo2you.com/tnn16/
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
+https://we-play.tv/watching/tv/true4u
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/newtv.png",NEW TV
 https://www.doo2you.com/new-tv/
 
@@ -120,3 +123,23 @@ https://www.doo2you.com/tvb-thai/
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",Paramount Channel
 https://we-play.tv/watching/tv/paramount-channel
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM
+https://we-play.tv/watching/tv/ccm
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM (Backup)
+https://www.doofree88.com/live/celestial-classic-movies
+
+---------------------------------------------------------------------------------------Entertainment-----------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD
+https://we-play.tv/watching/tv/history-hd
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",History H2
+https://we-play.tv/watching/tv/history-h2
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png",TLC
+https://we-play.tv/watching/tv/tlc-hd
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
+https://we-play.tv/watching/tv/true-xzyte

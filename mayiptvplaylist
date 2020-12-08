@@ -97,8 +97,11 @@ https://www.doomovie-hd.com/?r=tv_view&id=36
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies (EN)
 https://www.doo2you.com/fox-action-movies/
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies
-https://we-play.tv/watching/tv/fox-family-movies
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies (TH)
+https://www.doomovie-hd.com/?r=tv_view&id=125
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies (EN)
+https://www.doomovie-hd.com/?r=tv_view&id=126
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
 https://www.doo2you.com/fox-thai/
@@ -130,6 +133,12 @@ https://we-play.tv/watching/tv/ccm
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM (Backup)
 https://www.doofree88.com/live/celestial-classic-movies
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITS.png",Hits
+https://www.doomovie-hd.com/?r=tv_view&id=233
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITSMOVIE.png",Hits Movies
+https://www.doomovie-hd.com/?r=tv_view&id=234
+
 ---------------------------------------------------------------------------------------Entertainment-----------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD
@@ -138,8 +147,91 @@ https://we-play.tv/watching/tv/history-hd
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",History H2
 https://we-play.tv/watching/tv/history-h2
 
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png",TLC
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",TLC
 https://we-play.tv/watching/tv/tlc-hd
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
 https://we-play.tv/watching/tv/true-xzyte
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png",Fox Life
+https://we-play.tv/watching/tv/fox-life
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/foodnetwork.png",Food Network
+https://we-play.tv/watching/tv/food-network
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",Afn
+https://we-play.tv/watching/tv/asian-food-channel
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/24_Blue_Ant_Ent.png",Blueant Entertainment
+https://we-play.tv/watching/tv/blueant-entertainment
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/25_Blue_Ant_Ex.png",Blueant Extreme
+https://we-play.tv/watching/tv/blueant-extreme
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//WakuWakuJapan.png",Waku Waku Japan
+https://we-play.tv/watching/tv/waku-waku-japan
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2F1dd95b24-9fb7-474d-bc4d-af3a6df84302.png&w=320&h=240",KMTV
+https://we-play.tv/watching/tv/kmtv
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",TVN
+https://we-play.tv/watching/tv/tvn
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/03_Animal-Planet.jpg",Animal Planet
+https://we-play.tv/watching/tv/animal-planet
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LoveNature4K.png",Love Nature 4K
+https://we-play.tv/watching/tv/lovenature-4k
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",Discovery Channel
+https://we-play.tv/watching/tv/discovery-channel
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",Discovery Asia
+https://we-play.tv/watching/tv/discovery-asia
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
+https://we-play.tv/watching/tv/nat-geo-wild
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/46_National_Geographic_HD.png",National Geographic
+https://we-play.tv/watching/tv/national-geographic
+
+---------------------------------------------------------------------------------------Sports------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True Premier Football HD 1
+https://www.doo2you.com/true-premier-hd-1/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True Premier Football HD 1 (Backup)
+https://www.doo2you.com/true-premier-hd-1-backup/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True Premier Football HD 2
+https://www.doo2you.com/true-premier-hd-2/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True Premier Football HD 3
+https://www.doo2you.com/true-premier-hd-3/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True Premier Football HD 4
+https://www.doo2you.com/true-premier-hd-4/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png",True Premier Football HD 5
+https://www.doomovie-hd.com/?r=tv_view&id=155
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd1.png",True Sports HD 1
+https://we-play.tv/watching/tv/true-sports-hd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd2.png",True Sports HD 2
+https://we-play.tv/watching/tv/true-sports-hd-2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd3.png",True Sports HD 3
+https://we-play.tv/watching/tv/true-sports-hd-3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport2.png",True Sports 2
+https://www.doo2you.com/true-sport-2/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport5.png",True Sports 5
+https://we-play.tv/watching/tv/true-sports-5
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport6.png",True Sports 6
+https://we-play.tv/watching/tv/true-sports-6
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport7.png",True Sports 7
+https://we-play.tv/watching/tv/true-sports-7

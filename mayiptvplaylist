@@ -260,5 +260,35 @@ https://www.doo2you.com/fox-sports-2/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/FOXSports3.png",Fox Sports HD 3
 https://www.doo2you.com/fox-sports-3/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/BTSport1HD.png",BT Sports HD 1
+https://www.doo2you.com/bt-sports-1/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/BTSport2HD.png",BT Sports HD 2
+https://www.doo2you.com/bt-sports-2/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/BTSport3HD.png",BT Sports HD 3
+https://www.doo2you.com/bt-sports-3/
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",3BB Sports 1
 https://we-play.tv/watching/tv/3bb-sports-1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsEpl.png",Sky Sports EPL
+https://www.doo2you.com/sky-sports-epl/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsPremiere.png",Sky Sports Premiere
+https://www.doo2you.com/sky-sports-premiere/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsAction.png",Sky Sports Action
+https://www.doo2you.com/sky-sports-action/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsFootball.png",Sky Sports Football
+https://www.doo2you.com/sky-sports-football/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsMix.png",Sky Sports Mix
+https://www.doo2you.com/sky-sports-mix/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsMainEvent.png",Sky Sports Main Event
+https://www.doo2you.com/sky-sports-main-event/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsBundesliga1.png",Sky Sports Bundesliga
+https://www.doo2you.com/sky-bundesliga/

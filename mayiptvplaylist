@@ -1,5 +1,7 @@
 #EXTM3U
 
+----------------------------------------------------------------------------------Digital TV---------------------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/3hd.png",3 HD
 https://www.doo2you.com/ch3-hd/
 
@@ -9,5 +11,20 @@ https://www.doo2you.com/ch5-hd/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/7hd.png",7 HD
 https://www.doo2you.com/ch7-hd/
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/mcothd.png",Mcot HD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/mcothd.png",MCOT HD
 https://www.doo2you.com/mcot-hd/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nbt.png",NBT
+https://www.doo2you.com/nbt/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/tpbs.png",Thai PBS
+https://www.doo2you.com/thai-pbs/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/TNN24.png",TNN 16
+https://www.doo2you.com/tnn16/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/newtv.png",NEW TV
+https://www.doo2you.com/new-tv/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/wp.png",Workpoint TV
+https://www.doo2you.com/workpoint-tv/

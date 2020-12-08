@@ -292,3 +292,23 @@ https://www.doo2you.com/sky-sports-main-event/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsBundesliga1.png",Sky Sports Bundesliga
 https://www.doo2you.com/sky-bundesliga/
+
+---------------------------------------------------------------------------------------Cartoon------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",Cartoon Network
+https://we-play.tv/watching/tv/cartoon-network
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
+https://we-play.tv/watching/tv/true-spark-play
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
+https://we-play.tv/watching/tv/true-spark-jump
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",Disney Channel
+https://www.doomovie-hd.com/?r=tv_view&id=86
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
+https://we-play.tv/watching/tv/cartoon-club
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0175_long.png",Aniplus
+https://we-play.tv/watching/tv/aniplus

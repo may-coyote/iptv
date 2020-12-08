@@ -235,3 +235,30 @@ https://we-play.tv/watching/tv/true-sports-6
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport7.png",True Sports 7
 https://we-play.tv/watching/tv/true-sports-7
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSportTennis.png",True Tennis HD
+https://www.doo2you.com/true-sport-tennis/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/NBAPremiumTVHD.png",NBA TV
+https://www.doo2you.com/nba-premium-tv/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/GolfChannel.png",Golf Channel HD
+https://www.doo2you.com/golf-channel/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/beinsporthd1.png",Bein Sports HD 1
+https://www.doomovie-hd.com/?r=tv_view&id=18
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/beinsporthd2.png",Bein Sports HD 2
+https://www.doomovie-hd.com/?r=tv_view&id=19
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/FOXSports1.png",Fox Sports HD 1
+https://www.doo2you.com/fox-sports-hd/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/FOXSports2.png",Fox Sports HD 2
+https://www.doo2you.com/fox-sports-2/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/FOXSports3.png",Fox Sports HD 3
+https://www.doo2you.com/fox-sports-3/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",3BB Sports 1
+https://we-play.tv/watching/tv/3bb-sports-1

@@ -59,87 +59,87 @@ https://www.doo2you.com/voice-tv/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/v2h.png",V2H
 https://www.doo2you.com/v2h-2tv/
 
----------------------------------------------------------------------------------------Movie--------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------Movies--------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
 https://we-play.tv/watching/tv/hbo-hd
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD (Backup)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD (Backup)
 https://www.doomovie-hd.com/?r=tv_view&id=41
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits (Backup)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits (Backup)
 https://www.doomovie-hd.com/?r=tv_view&id=43
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Signature
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Signature
 https://we-play.tv/watching/tv/hbo-signature
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
 https://we-play.tv/watching/tv/hbo-family
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
 https://we-play.tv/watching/tv/red-by-hbo
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
+#EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
 https://we-play.tv/watching/tv/cinemax
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (TH)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (TH)
 https://www.doomovie-hd.com/?r=tv_view&id=39
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (EN)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (EN)
 https://www.doomovie-hd.com/?r=tv_view&id=38
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies (TH)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies (TH)
 https://www.doomovie-hd.com/?r=tv_view&id=36
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies (EN)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies (EN)
 https://www.doo2you.com/fox-action-movies/
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies (TH)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies (TH)
 https://www.doomovie-hd.com/?r=tv_view&id=125
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies (EN)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies (EN)
 https://www.doomovie-hd.com/?r=tv_view&id=126
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
 https://www.doo2you.com/fox-thai/
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV
 https://we-play.tv/watching/tv/warner-tv
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://doo2you.com/icon/AXNHD.png",AXN HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/AXNHD.png",AXN HD
 https://www.doo2you.com/axn/
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
 https://we-play.tv/watching/tv/true-film-hd
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://doo2you.com/icon/truethaifirm.png",True Thai Film
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/truethaifirm.png",True Thai Film
 https://www.doo2you.com/true-film-hd/
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doofree88.com/storage/live/3zZzoIQEwwib4mRw4PhKS28py6f5FgfeBL0At4dO.png",True Asian Series HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/3zZzoIQEwwib4mRw4PhKS28py6f5FgfeBL0At4dO.png",True Asian Series HD
 https://www.doo2you.com/true-asia-series-hd/
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://doo2you.com/icon/tvb.png",TVB ไทย
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",TVB ไทย
 https://www.doo2you.com/tvb-thai/
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",Paramount Channel
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",Paramount Channel
 https://we-play.tv/watching/tv/paramount-channel
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM
 https://we-play.tv/watching/tv/ccm
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM (Backup)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM (Backup)
 https://www.doofree88.com/live/celestial-classic-movies
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITS.png",Hits
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITS.png",Hits
 https://www.doomovie-hd.com/?r=tv_view&id=233
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITSMOVIE.png",Hits Movies
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITSMOVIE.png",Hits Movies
 https://www.doomovie-hd.com/?r=tv_view&id=234
 
----------------------------------------------------------------------------------------Entertainment-----------------------------------------------------------------------------
+-------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD
 https://we-play.tv/watching/tv/history-hd
@@ -296,7 +296,7 @@ https://www.doo2you.com/sky-sports-main-event/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsBundesliga1.png",Sky Sports Bundesliga
 https://www.doo2you.com/sky-bundesliga/
 
----------------------------------------------------------------------------------------Cartoon------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------Cartoons-----------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",Cartoon Network
 https://we-play.tv/watching/tv/cartoon-network
@@ -355,3 +355,65 @@ https://www.all-movie.tv/Avengers%20Infinity%20War
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1556167682_avengers-endgame_cpver.jpg",The Avengers End Game (2019)
 https://www.all-movie.tv/Avengers%20EndGame
+
+-------------------------------------------------------------------------------------VOD Series-----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.1 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=1
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.2 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=2
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.3 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=3
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.4 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=4
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.5 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=5
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.6 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=6
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.7 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=7
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.8 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=8
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.9 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=9
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.10 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=10
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.11 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=11
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.12 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=12
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.13 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=13
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.14 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=14
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.15 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=15
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.16 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=16
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.17 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=17
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.18 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=18
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.19 ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=19
+
+#EXTINF:-1 group-title="VOD Series" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5ee46ca21b405b5f7aebbc03ac655729.jpg",Stairway to Heaven EP.20 (END) ฝากรักไว้ที่ปลายฟ้า
+https://www.doomovie-hd.com/?r=movie_view&id=22126&disc=20

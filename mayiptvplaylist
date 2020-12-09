@@ -341,6 +341,21 @@ https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Trilogy-----------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Rambo-First-Blood-(1982)-%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%9A%E0%B9%89-1_cover.jpg",Rambo 1 นักรบเดนตาย 1 (1982)
+https://www.all-movie.tv/Rambo%20First%20Blood%20%281982%29
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/38e751b3dece627039016a426ad363ce.jpg",Rambo 2 นักรบเดนตาย 2 (1985)
+https://www.all-movie.tv/Rambo%202%20First%20Blood%20Part%20II%20%281985%29
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/6c6e6758d3e18d0d70686e088a666478.jpg",Rambo 3 นักรบเดนตาย 3 (1988)
+https://www.all-movie.tv/Rambo%203%20%281988%29
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1d61ebb711dd194a162f495ae4e80baf.jpg",Rambo 4 นักรบพันธุ์เดือด (2008)
+https://www.all-movie.tv/Rambo%204%20%282008%29
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1568974843_rambo-5_cover.jpg",Rambo 5 นักรบคนสุดท้าย (2019)
+https://www.all-movie.tv/Rambo%205%20Last%20Blood
+
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/5e87f17b9a06029fdbc41f712c8ea44f.jpg",Iron Man 1 (2008)
 https://www.all-movie.tv/Iron%20Man%201
 

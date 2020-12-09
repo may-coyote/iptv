@@ -318,6 +318,15 @@ https://we-play.tv/watching/tv/aniplus
 
 -------------------------------------------------------------------------------------VOD Movies-----------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607499581_1.jpg",Anchorman : The Legend of Ron Burgundy (2004)
+https://www.all-movie.tv/Anchorman:%20The%20Legend%20of%20Ron%20Burgundy%20%282004%29
+
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607503117_1.jpg",Anchorman 2 : The Legend Continues (2013)
+https://www.all-movie.tv/Anchorman%202:%20The%20Legend%20Continues%20%282013%29
+
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1599103958_01.jpg",Tenet (2020)
+https://www.all-movie.tv/Tenet%20%282020%29
+
 #EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606478144_cover1.jpg",The Call สายตรงต่ออดีต
 https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95
 
@@ -329,9 +338,6 @@ https://www.all-movie.tv/The%20Christmas%20Chronicles%202%20%282020%29
 
 #EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607147939_cover1.jpg",Mank (2020)
 https://www.all-movie.tv/Mank%20%282020%29
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1599103958_01.jpg",Tenet (2020)
-https://www.all-movie.tv/Tenet%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Trilogy-----------------------------------------------------------------------------------
 

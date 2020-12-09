@@ -119,7 +119,7 @@ https://we-play.tv/watching/tv/true-film-hd
 https://www.doo2you.com/true-film-hd/
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doofree88.com/storage/live/3zZzoIQEwwib4mRw4PhKS28py6f5FgfeBL0At4dO.png",True Asian Series HD
-https://we-play.tv/watching/tv/true-asian-series-hd
+https://www.doo2you.com/true-asia-series-hd/
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://doo2you.com/icon/tvb.png",TVB ไทย
 https://www.doo2you.com/tvb-thai/
@@ -194,6 +194,9 @@ https://we-play.tv/watching/tv/nat-geo-wild
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/46_National_Geographic_HD.png",National Geographic
 https://we-play.tv/watching/tv/national-geographic
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/BBCLifeStyle.png",BBC Lifestyle
+https://www.doo2you.com/bbc-life-style/
 
 ---------------------------------------------------------------------------------------Sports------------------------------------------------------------------------------------
 
@@ -313,6 +316,39 @@ https://we-play.tv/watching/tv/cartoon-club
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0175_long.png",Aniplus
 https://we-play.tv/watching/tv/aniplus
 
--------------------------------------------------------------------------------------VOD Asian-----------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------VOD Movies-----------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606478144_cover1.jpg",The Call สายตรงต่ออดีต
+https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95
 
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1542954565_the-christmas-chronicles_cover.jpg",The Christmas Chronicles 1 ผจญภัยพิทักษ์คริสต์มาส
+https://www.all-movie.tv/The%20Christmas%20Chronicles
+
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606306876_cover1.jpg",The Christmas Chronicles 2 ผจญภัยพิทักษ์คริสต์มาส ภาค 2
+https://www.all-movie.tv/The%20Christmas%20Chronicles%202%20%282020%29
+
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607147939_cover1.jpg",Mank (2020)
+https://www.all-movie.tv/Mank%20%282020%29
+
+-------------------------------------------------------------------------------------VOD Trilogy-----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/5e87f17b9a06029fdbc41f712c8ea44f.jpg",Iron Man 1 (2008)
+https://www.all-movie.tv/Iron%20Man%201
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/bc06497d0221de1904af1b80d8ce0646.jpg",Iron Man 2 (2010)
+https://www.all-movie.tv/Iron%20Man%202
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/d6db74e2d9ca55fa7d49402c4885696b.jpg",Iron Man 3 (2013)
+https://www.all-movie.tv/Iron%20man%203
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.doofree88.com/storage/images/2019/5/W7eIa7S6qcP7Yq6DDDUYZlbuDQKmMdIGY98Xm0HD.jpg",The Avengers 1 (2012)
+https://www.doofree88.com/movie/the-avengers-1%e0%b8%94%e0%b8%b4-%e0%b9%80%e0%b8%ad%e0%b9%80%e0%b8%a7%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%aa-aKztvELLSv
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.doofree88.com/storage/images/2019/6/5ysgkRlqn33Vb6tnKLET4pEesqaULoVr9K3KglOI.jpg",The Avengers 2 Age of Ultron (2015)
+https://www.doofree88.com/movie/the-avengers-2age-of-ultron%e0%b8%94%e0%b8%b4-%e0%b8%ad%e0%b9%80%e0%b8%a7%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%aa%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%a8%e0%b8%b6%e0%b8%81-mPKmAkUFID
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1524797881_avengers-infinity-war_cover.jpg",The Avengers Infinity War (2018)
+https://www.all-movie.tv/Avengers%20Infinity%20War
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1556167682_avengers-endgame_cpver.jpg",The Avengers End Game (2019)
+https://www.all-movie.tv/Avengers%20EndGame

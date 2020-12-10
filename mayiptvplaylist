@@ -318,6 +318,15 @@ https://we-play.tv/watching/tv/aniplus
 
 -------------------------------------------------------------------------------------VOD Movies-----------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1601348693_01.jpg",คมเฉือนคม (1976)
+https://www.all-movie.tv/%E0%B8%84%E0%B8%A1%E0%B9%80%E0%B8%89%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A1%20%281976%29
+
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1600425511_01.jpg",เล่นใหญ่ ใจเกินร้อย (2019)
+https://www.all-movie.tv/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2
+
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1538035107_wanted-2008_cover.jpg",Wanted (2008)
+https://www.all-movie.tv/Wanted%202008
+
 #EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607499581_1.jpg",Anchorman : The Legend of Ron Burgundy (2004)
 https://www.all-movie.tv/Anchorman:%20The%20Legend%20of%20Ron%20Burgundy%20%282004%29
 

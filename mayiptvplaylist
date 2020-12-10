@@ -318,6 +318,12 @@ https://we-play.tv/watching/tv/aniplus
 
 -------------------------------------------------------------------------------------VOD Movies-----------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1605263140_cover3.jpg",Jingle Jangle A Christmas Journey (2020)
+https://www.all-movie.tv/Jingle%20Jangle%20A%20Christmas%20Journey%20%282020%29
+
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1603882299_cover3.png",Holidate (2020)
+https://www.all-movie.tv/Holidate%20%282020%29
+
 #EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1601348693_01.jpg",คมเฉือนคม (1976)
 https://www.all-movie.tv/%E0%B8%84%E0%B8%A1%E0%B9%80%E0%B8%89%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A1%20%281976%29
 

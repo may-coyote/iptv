@@ -318,6 +318,15 @@ https://we-play.tv/watching/tv/aniplus
 
 -------------------------------------------------------------------------------------VOD Movies-----------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/680570656136b8250d1f8816a5acda32.jpg",แม่เบี้ย (Uncut Version) (2015)
+https://www.all-movie.tv/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%95%E0%B8%B1%E0%B8%94%20%282015%29
+
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1554362350_cover8.jpg",จันดารา ปฐมบท (Uncut Version) (2012)
+https://www.all-movie.tv/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%20%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%20%28Uncut%20Version%29
+
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1554362689_cover9.jpg",จันดารา ปัจฉิมบท (Uncut Version) (2013)
+https://www.all-movie.tv/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%20%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9A%E0%B8%97%20%28Uncut%20Version%29
+
 #EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1570445487_cover1.jpg",หอ หึ หึ (1992)
 https://www.all-movie.tv/%E0%B8%AB%E0%B8%AD%20%E0%B8%AB%E0%B8%B6%20%E0%B8%AB%E0%B8%B6
 
@@ -332,6 +341,9 @@ https://www.all-movie.tv/%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%80%E0%B8%8B%E0%B9%88%
 
 #EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/808c3419fbfdef27f4a69dcb16bcecb4.jpg",ฉลาดเกมส์โกง (2017)
 https://www.all-movie.tv/%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87%20%282017%29
+
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569923028_2519_cover.jpg",ชุมแพ (2519)
+https://www.all-movie.tv/%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B9%81%E0%B8%9E%20%282519%29
 
 #EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1601347343_01.jpg",สิงห์สั่งป่า (1978)
 https://www.all-movie.tv/%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B9%88%E0%B8%B2%20%281978%29

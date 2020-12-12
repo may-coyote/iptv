@@ -356,8 +356,20 @@ https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Trilogy-----------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/01a3f79288ad472f1bfac161d5a4b19b.jpg",Die Hard Collection
-https://www.doomovie-hd.com/?r=movie_view&id=22293
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/34951.jpg",Die Hard 1 นรกระฟ้า (1988)
+https://www.all-movie.tv/Die%20Hard%20%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9F%E0%B9%89%E0%B8%B2%20%281988%29
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/34949.jpg",Die Hard 2 อึดเต็มพิกัด (1990)
+https://www.all-movie.tv/Die%20Hard%202%20%E0%B8%94%E0%B8%B2%E0%B8%A2%20%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%202%20%E0%B8%AD%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%20%281990%29
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/34947.jpg",Die Hard 3 แค้นได้ก็ตายยาก (1995)
+https://www.all-movie.tv/Die%20Hard%20with%20a%20Vengeance%20%E0%B8%94%E0%B8%B2%E0%B8%A2%20%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%203%20%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%81%E0%B9%87%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%81%20%281995%29
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/34944.jpg",Die Hard 4.0 ปลุกอึด...ตายยาก (2007)
+https://www.all-movie.tv/Live%20Free%20or%20Die%20Hard%20%E0%B8%94%E0%B8%B2%E0%B8%A2%20%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%204.0%20%E0%B8%9B%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%AD%E0%B8%B6%E0%B8%94...%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%81%20(2007)
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1016.jpg",Die Hard 5 วันดีมหาวินาศ คนอึดตายยาก (2013)
+https://www.all-movie.tv/A%20Good%20Day%20to%20Die%20Hard%20%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8%20%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B6%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%81%20(2013)
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/a3aad68a34181b2ca1e4a97e23ea1df2.jpg",สองคนสองคม (2002)
 https://www.all-movie.tv/%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A1

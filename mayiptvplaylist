@@ -356,6 +356,9 @@ https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Trilogy-----------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/01a3f79288ad472f1bfac161d5a4b19b.jpg",Die Hard Collection
+https://www.doomovie-hd.com/?r=movie_view&id=22293
+
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/a3aad68a34181b2ca1e4a97e23ea1df2.jpg",สองคนสองคม (2002)
 https://www.all-movie.tv/%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A1
 

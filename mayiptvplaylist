@@ -296,7 +296,7 @@ https://www.doo2you.com/sky-sports-main-event/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsBundesliga1.png",Sky Sports Bundesliga
 https://www.doo2you.com/sky-bundesliga/
 
----------------------------------------------------------------------------------------Cartoons-----------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------Kids----------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",Cartoon Network
 https://we-play.tv/watching/tv/cartoon-network
@@ -316,85 +316,87 @@ https://we-play.tv/watching/tv/cartoon-club
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0175_long.png",Aniplus
 https://we-play.tv/watching/tv/aniplus
 
--------------------------------------------------------------------------------------VOD Movies-----------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------VOD Inter Movies-----------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/680570656136b8250d1f8816a5acda32.jpg",แม่เบี้ย (Uncut Version) (2015)
-https://www.all-movie.tv/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%95%E0%B8%B1%E0%B8%94%20%282015%29
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1554362350_cover8.jpg",จันดารา ปฐมบท (Uncut Version) (2012)
-https://www.all-movie.tv/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%20%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%20%28Uncut%20Version%29
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1554362689_cover9.jpg",จันดารา ปัจฉิมบท (Uncut Version) (2013)
-https://www.all-movie.tv/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%20%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9A%E0%B8%97%20%28Uncut%20Version%29
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1570445487_cover1.jpg",หอ หึ หึ (1992)
-https://www.all-movie.tv/%E0%B8%AB%E0%B8%AD%20%E0%B8%AB%E0%B8%B6%20%E0%B8%AB%E0%B8%B6
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1545124294_2499.png",2499 อันธพาลครองเมือง (1997)
-https://www.all-movie.tv/2499%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%9E%E0%B8%B2%E0%B8%A5%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%9E%E0%B8%B2%E0%B8%A5-2012_cover.jpg",อันธพาล (2012)
-https://www.all-movie.tv/%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%9E%E0%B8%B2%E0%B8%A5
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1597113825_01.jpg",เกมส์เซ่นผี (2020)
-https://www.all-movie.tv/%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%80%E0%B8%8B%E0%B9%88%E0%B8%99%E0%B8%9C%E0%B8%B5%20%282020%29
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/808c3419fbfdef27f4a69dcb16bcecb4.jpg",ฉลาดเกมส์โกง (2017)
-https://www.all-movie.tv/%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87%20%282017%29
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569923028_2519_cover.jpg",ชุมแพ (2519)
-https://www.all-movie.tv/%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B9%81%E0%B8%9E%20%282519%29
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1601347343_01.jpg",สิงห์สั่งป่า (1978)
-https://www.all-movie.tv/%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B9%88%E0%B8%B2%20%281978%29
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1590045033_654.jpg",ฮาร์ทบีท เสี่ยงนัก...รักมั้ยลุง (2019)
-https://www.all-movie.tv/%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%9A%E0%B8%B5%E0%B8%97%20%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B8%81...%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B9%89%E0%B8%A2%E0%B8%A5%E0%B8%B8%E0%B8%87
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1602830518_1.jpg",รถไฟฟ้า มาหานะเธอ (2009)
-https://www.all-movie.tv/%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%20%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%B0%E0%B9%80%E0%B8%98%E0%B8%AD
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607745404_1.jpg",The 2nd (2020)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607745404_1.jpg",The 2nd (2020)
 https://www.all-movie.tv/The%202nd%20%282020%29
 
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607689793_cover1.jpg",The Prom (2020)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607689793_cover1.jpg",The Prom (2020)
 https://www.all-movie.tv/The%20Prom%20%282020%29
 
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1605263140_cover3.jpg",Jingle Jangle A Christmas Journey (2020)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1605263140_cover3.jpg",Jingle Jangle A Christmas Journey (2020)
 https://www.all-movie.tv/Jingle%20Jangle%20A%20Christmas%20Journey%20%282020%29
 
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1603882299_cover3.png",Holidate (2020)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1603882299_cover3.png",Holidate (2020)
 https://www.all-movie.tv/Holidate%20%282020%29
 
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1601348693_01.jpg",คมเฉือนคม (1976)
-https://www.all-movie.tv/%E0%B8%84%E0%B8%A1%E0%B9%80%E0%B8%89%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A1%20%281976%29
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1600425511_01.jpg",เล่นใหญ่ ใจเกินร้อย (2019)
-https://www.all-movie.tv/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1538035107_wanted-2008_cover.jpg",Wanted (2008)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1538035107_wanted-2008_cover.jpg",Wanted (2008)
 https://www.all-movie.tv/Wanted%202008
 
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607499581_1.jpg",Anchorman : The Legend of Ron Burgundy (2004)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607499581_1.jpg",Anchorman : The Legend of Ron Burgundy (2004)
 https://www.all-movie.tv/Anchorman:%20The%20Legend%20of%20Ron%20Burgundy%20%282004%29
 
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607503117_1.jpg",Anchorman 2 : The Legend Continues (2013)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607503117_1.jpg",Anchorman 2 : The Legend Continues (2013)
 https://www.all-movie.tv/Anchorman%202:%20The%20Legend%20Continues%20%282013%29
 
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1599103958_01.jpg",Tenet (2020)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1599103958_01.jpg",Tenet (2020)
 https://www.all-movie.tv/Tenet%20%282020%29
 
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606478144_cover1.jpg",The Call สายตรงต่ออดีต
-https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95
-
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1542954565_the-christmas-chronicles_cover.jpg",The Christmas Chronicles 1 ผจญภัยพิทักษ์คริสต์มาส
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1542954565_the-christmas-chronicles_cover.jpg",The Christmas Chronicles 1 ผจญภัยพิทักษ์คริสต์มาส (2019)
 https://www.all-movie.tv/The%20Christmas%20Chronicles
 
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606306876_cover1.jpg",The Christmas Chronicles 2 ผจญภัยพิทักษ์คริสต์มาส ภาค 2
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606306876_cover1.jpg",The Christmas Chronicles 2 ผจญภัยพิทักษ์คริสต์มาส ภาค 2 (2020)
 https://www.all-movie.tv/The%20Christmas%20Chronicles%202%20%282020%29
 
-#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607147939_cover1.jpg",Mank (2020)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607147939_cover1.jpg",Mank (2020)
 https://www.all-movie.tv/Mank%20%282020%29
+
+-------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/680570656136b8250d1f8816a5acda32.jpg",แม่เบี้ย (Uncut Version) (2015)
+https://www.all-movie.tv/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%95%E0%B8%B1%E0%B8%94%20%282015%29
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1554362350_cover8.jpg",จันดารา ปฐมบท (Uncut Version) (2012)
+https://www.all-movie.tv/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%20%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%20%28Uncut%20Version%29
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1554362689_cover9.jpg",จันดารา ปัจฉิมบท (Uncut Version) (2013)
+https://www.all-movie.tv/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%20%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9A%E0%B8%97%20%28Uncut%20Version%29
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1570445487_cover1.jpg",หอ หึ หึ (1992)
+https://www.all-movie.tv/%E0%B8%AB%E0%B8%AD%20%E0%B8%AB%E0%B8%B6%20%E0%B8%AB%E0%B8%B6
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1545124294_2499.png",2499 อันธพาลครองเมือง (1997)
+https://www.all-movie.tv/2499%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%9E%E0%B8%B2%E0%B8%A5%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%9E%E0%B8%B2%E0%B8%A5-2012_cover.jpg",อันธพาล (2012)
+https://www.all-movie.tv/%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%9E%E0%B8%B2%E0%B8%A5
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1597113825_01.jpg",เกมส์เซ่นผี (2020)
+https://www.all-movie.tv/%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%80%E0%B8%8B%E0%B9%88%E0%B8%99%E0%B8%9C%E0%B8%B5%20%282020%29
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/808c3419fbfdef27f4a69dcb16bcecb4.jpg",ฉลาดเกมส์โกง (2017)
+https://www.all-movie.tv/%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87%20%282017%29
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569923028_2519_cover.jpg",ชุมแพ (1976)
+https://www.all-movie.tv/%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B9%81%E0%B8%9E%20%282519%29
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1601347343_01.jpg",สิงห์สั่งป่า (1978)
+https://www.all-movie.tv/%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B9%88%E0%B8%B2%20%281978%29
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1601348693_01.jpg",คมเฉือนคม (1976)
+https://www.all-movie.tv/%E0%B8%84%E0%B8%A1%E0%B9%80%E0%B8%89%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A1%20%281976%29
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1590045033_654.jpg",ฮาร์ทบีท เสี่ยงนัก...รักมั้ยลุง (2019)
+https://www.all-movie.tv/%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%9A%E0%B8%B5%E0%B8%97%20%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B8%81...%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B9%89%E0%B8%A2%E0%B8%A5%E0%B8%B8%E0%B8%87
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1602830518_1.jpg",รถไฟฟ้า มาหานะเธอ (2009)
+https://www.all-movie.tv/%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%20%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%B0%E0%B9%80%E0%B8%98%E0%B8%AD
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606478144_cover1.jpg",The Call สายตรงต่ออดีต (2020)
+https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1600425511_01.jpg",เล่นใหญ่ ใจเกินร้อย (2019)
+https://www.all-movie.tv/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2
 
 -------------------------------------------------------------------------------------VOD Trilogy-----------------------------------------------------------------------------------
 
@@ -457,7 +459,3 @@ https://www.all-movie.tv/Avengers%20Infinity%20War
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1556167682_avengers-endgame_cpver.jpg",The Avengers End Game (2019)
 https://www.all-movie.tv/Avengers%20EndGame
-
--------------------------------------------------------------------------------------VOD Series-----------------------------------------------------------------------------------
-
-

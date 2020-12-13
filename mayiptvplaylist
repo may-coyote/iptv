@@ -318,6 +318,9 @@ https://we-play.tv/watching/tv/aniplus
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606708993_cover1.jpg",Don't Listen เสียงสั่งหลอน (2020)
+https://www.all-movie.tv/Dont%20Listen%20%282020%29
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607759678_1.jpg",Torbaaz หัวใจไม่ยอมล้ม (2020)
 https://www.all-movie.tv/Torbaaz%20%282020%29
 

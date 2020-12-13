@@ -316,7 +316,10 @@ https://we-play.tv/watching/tv/cartoon-club
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0175_long.png",Aniplus
 https://we-play.tv/watching/tv/aniplus
 
--------------------------------------------------------------------------------------VOD Inter Movies-----------------------------------------------------------------------------
+-------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607759678_1.jpg",Torbaaz หัวใจไม่ยอมล้ม (2020)
+https://www.all-movie.tv/Torbaaz%20%282020%29
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1607745404_1.jpg",The 2nd (2020)
 https://www.all-movie.tv/The%202nd%20%282020%29

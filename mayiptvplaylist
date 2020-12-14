@@ -318,6 +318,9 @@ https://we-play.tv/watching/tv/aniplus
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1603876640_1.jpg",Little Monsters (2019)
+https://www.all-movie.tv/Little%20Monsters%20%282019%29
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606708993_cover1.jpg",Don't Listen เสียงสั่งหลอน (2020)
 https://www.all-movie.tv/Dont%20Listen%20%282020%29
 
@@ -465,3 +468,9 @@ https://www.all-movie.tv/Avengers%20Infinity%20War
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1556167682_avengers-endgame_cpver.jpg",The Avengers End Game (2019)
 https://www.all-movie.tv/Avengers%20EndGame
+
+-------------------------------------------------------------------------------------VOD Cartoon----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Cartoon" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1563692186_001.jpg",One Piece Season 20 (2019)
+https://www.all-movie.tv/One%20Piece%20SEASON%2020
+

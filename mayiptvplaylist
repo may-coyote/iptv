@@ -318,6 +318,9 @@ https://we-play.tv/watching/tv/aniplus
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1604125977_1.jpg",White Chicks จับคู่ป่วนมาแต่งอึ๋ม (2004)
+https://www.all-movie.tv/White%20Chicks%20(2004)
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608009867_1.jpg",Mousehunt น.หนูฤทธิ์เดชป่วนโลก (1997)
 https://www.all-movie.tv/Mousehunt%20%281997%29
 

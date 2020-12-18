@@ -44,11 +44,17 @@ https://www.doo2you.com/tnn16/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
 https://we-play.tv/watching/tv/true4u
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
+https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/newtv.png",NEW TV
 https://www.doo2you.com/new-tv/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/wp.png",Workpoint TV
 https://www.doo2you.com/workpoint-tv/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/wp.png",Workpoint TV
+https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nation.png",Nation Channel
 https://www.doo2you.com/nation/
@@ -64,6 +70,9 @@ https://www.we-play.tv/watching/tv/one-hd
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/8.png",CH 8
 https://www.doo2you.com/ch-8/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/8.png",CH 8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/thairath.png",ไทยรัฐ TV
 https://www.doo2you.com/thairath/
@@ -166,6 +175,9 @@ https://www.doo2you.com/true-asia-series-hd/
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",TVB ไทย
 https://www.doo2you.com/tvb-thai/
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",TVB ไทย
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",Paramount Channel
 https://we-play.tv/watching/tv/paramount-channel
 
@@ -181,13 +193,25 @@ https://www.doomovie-hd.com/?r=tv_view&id=233
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITSMOVIE.png",Hits Movies
 https://www.doomovie-hd.com/?r=tv_view&id=234
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/BvY9tl2.png",FWMOV
+https://www.fwiptv.cc/player_demo.php?channel=89782",referer:"
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/bYGohUG.png",FWSOV
+https://www.fwiptv.cc/player_demo.php?channel=89781",referer:"
+
 -------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD
 https://we-play.tv/watching/tv/history-hd
 
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD
+https://doomovie.com/live/history
+
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",History H2
 https://we-play.tv/watching/tv/history-h2
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",History H2
+https://doomovie.com/live/h2
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",TLC
 https://we-play.tv/watching/tv/tlc-hd
@@ -228,7 +252,7 @@ https://we-play.tv/watching/tv/lovenature-4k
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://imgcloud.fwiptv.cc/postor/20200314124605Discovery%20Channel.jpg",Discovery Channel
 https://we-play.tv/watching/tv/discovery-channel
 
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",Discovery Asia
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://sv1.picz.in.th/images/2020/12/17/juBAvq.jpg",Discovery Asia
 https://we-play.tv/watching/tv/discovery-asia
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
@@ -239,6 +263,18 @@ https://we-play.tv/watching/tv/national-geographic
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/BBCLifeStyle.png",BBC Lifestyle
 https://www.doo2you.com/bbc-life-style/
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Lifestyle
+https://doomovie.com/live/bbc-earth
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",True Explore Life
+https://doomovie.com/live/explore-life
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",True Explore SCi
+https://doomovie.com/live/explore-sci
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",True Explore Wild
+https://doomovie.com/live/explore-wild
 
 ---------------------------------------------------------------------------------------Sports------------------------------------------------------------------------------------
 
@@ -346,17 +382,32 @@ https://we-play.tv/watching/tv/cartoon-network
 #EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
 https://we-play.tv/watching/tv/true-spark-play
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
+https://doomovie.com/live/spark-play
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
 https://we-play.tv/watching/tv/true-spark-jump
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
+https://doomovie.com/live/spark-jump
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",Disney Channel
 https://www.doomovie-hd.com/?r=tv_view&id=86
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doofree88.com/storage/live/SmO5GAyUQg3nsosglN9AkhbBNvGJM7ec7a3hCkOM.png",Disney XD
+https://doomovie.com/live/disney-xd
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
 https://we-play.tv/watching/tv/cartoon-club
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://sv1.picz.in.th/images/2020/12/18/jua97E.jpg",Animax
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0175_long.png",Aniplus
 https://we-play.tv/watching/tv/aniplus
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/eQHvpkV.png",FWTOON
+https://www.fwiptv.cc/player_demo.php?channel=89780",referer:"
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 

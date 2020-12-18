@@ -360,6 +360,27 @@ https://we-play.tv/watching/tv/aniplus
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608021177_1.jpg",Inkheart เปิดตำนานอิงค์ฮาร์ทมหัศจรรย์ทะลุโลก (2008)
+https://www.all-movie.tv/Inkheart%20%282008%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608020768_1.jpg",King Arthur ศึกจอมราชันย์ อัศวินล้างปฐพี (2004)
+https://www.all-movie.tv/King%20Arthur%20%282004%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608100988_1.jpg",You Me and Dupree ฉัน เธอและเกลอแสบนายดูพรี (2006)
+https://www.all-movie.tv/You%20Me%20and%20Dupree%20%282006%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608199661_1.jpg",Bram Stokers Dracula เฉือนคมคนพันธุ์โหด (1992)
+https://www.all-movie.tv/Bram%20Stokers%20Dracula%20%281992%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608199063_1.jpg",We Own the Night เฉือนคมคนพันธุ์โหด (2007)
+https://www.all-movie.tv/We%20Own%20the%20Night%20%282007%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1602648929_1.jpg",Double Team คู่โหดมหาประลัย (1997)
+https://www.all-movie.tv/Double%20Team%20%281997%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608130617_cover1.jpg",Asteroid ผ่าโลกโลกาวินาศ (1997)
+https://www.all-movie.tv/Asteroid%20%281997%29
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1604125977_1.jpg",White Chicks จับคู่ป่วนมาแต่งอึ๋ม (2004)
 https://www.all-movie.tv/White%20Chicks%20(2004)
 
@@ -480,6 +501,18 @@ https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%
 https://www.all-movie.tv/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2
 
 -------------------------------------------------------------------------------------VOD Trilogy-----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608174850_1.jpg",Tremors 1 ทูตนรกล้านปี (1990)
+https://www.all-movie.tv/Tremors%20%281990%29
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608175730_1.jpg",Tremors 2 Aftershocks ทูตนรกล้านปี 2 (1996)
+https://www.all-movie.tv/Tremors%20II:%20Aftershocks%20%281996%29
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608176192_1.jpg",Tremors 3 Back to Perfection ทูตนรกล้านปี 3 (2001)
+https://www.all-movie.tv/Tremors%203:%20Back%20to%20Perfection%20%282001%29
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608176624_1.jpg",Tremors 4 The Legend Begins ย้อนรอยจอมเขมือบ (2004)
+https://www.all-movie.tv/Tremors%204%20The%20Legend%20Begins%20%282004%29
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/34951.jpg",Die Hard 1 นรกระฟ้า (1988)
 https://www.all-movie.tv/Die%20Hard%20%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9F%E0%B9%89%E0%B8%B2%20%281988%29

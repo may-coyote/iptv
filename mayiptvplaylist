@@ -806,8 +806,35 @@ https://streamhee.com/2015_new/24.James.Bond.007.Spectre.2015/24.James.Bond.007.
 
 -------------------------------------------------------------------------------------Sweet Home Season 1----------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.1 (2020)
-https://streamhee.com/2015_new/24.James.Bond.007.Spectre.2015/24.James.Bond.007.Spectre.2015.1080P.mp4.m3u8
+#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.1
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/T/EP01.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.2
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/T/EP02.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.3
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/T/EP03.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.4
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/T/EP04.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.5
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/T/EP05.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.6
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/T/EP06.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.7
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/T/EP07.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.8
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/T/EP08.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.9
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/T/EP09.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.10 (END)
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/T/EP10.mp4/index.m3u8
 
 -------------------------------------------------------------------------------------One Piece Season 1-----------------------------------------------------------------------------------
 

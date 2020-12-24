@@ -247,6 +247,9 @@ https://www.doomovie-hd.com/?r=tv_view&id=234
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/yz6jzjz.png",Movie HD 1
 http://203.154.243.89:1423",referer:"
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/thrill.png",Thrill
+https://www.fwiptv.cc/player_demo.php?channel=718
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/BvY9tl2.png",FWMOV
 https://www.fwiptv.cc/player_demo.php?channel=89782",referer:"
 
@@ -330,25 +333,40 @@ https://doomovie.com/live/explore-sci
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",True Explore Wild
 https://doomovie.com/live/explore-wild
 
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.234.in.th/images/2020/11/20/samrujrok.png",สำรวจโลก
+https://cdn6.goprimetime.info/feed/LC8/index.m3u8
+
 ---------------------------------------------------------------------------------------Sports------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True Premier Football HD 1
 https://www.doo2you.com/true-premier-hd-1/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True Premier Football HD 1 (Backup)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True Premier Football HD 1
 https://www.doo2you.com/true-premier-hd-1-backup/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True Premier Football HD 2
 https://www.doo2you.com/true-premier-hd-2/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True Premier Football HD 2
+https://doomovie.com/live/premier-football-hd-2
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True Premier Football HD 3
 https://www.doo2you.com/true-premier-hd-3/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True Premier Football HD 3
+https://doomovie.com/live/premier-football-hd-3
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True Premier Football HD 4
 https://www.doo2you.com/true-premier-hd-4/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True Premier Football HD 4
+https://doomovie.com/live/premier-football-hd-4
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png",True Premier Football HD 5
-https://www.doomovie-hd.com/?r=tv_view&id=155
+https://doomovie.com/live/premier-football-hd-5
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png",True Premier Football HD 5
+https://doofootball.livestream-cdn.com/iptv/epl-5.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd1.png",True Sports HD 1
 https://we-play.tv/watching/tv/true-sports-hd
@@ -358,6 +376,9 @@ https://we-play.tv/watching/tv/true-sports-hd-2
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd3.png",True Sports HD 3
 https://we-play.tv/watching/tv/true-sports-hd-3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/tsphd4.png",True Sports HD 4
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport2.png",True Sports 2
 https://www.doo2you.com/true-sport-2/
@@ -428,6 +449,24 @@ https://www.doo2you.com/sky-sports-main-event/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsBundesliga1.png",Sky Sports Bundesliga
 https://www.doo2you.com/sky-bundesliga/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/astro1.png",Astro Sports 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/astro2.png",Astro Sports 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/astro3.png",Astro Sports 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/Rounded_20201110_093002.png",Astro Sports 4
+https://doofootball.livestream-cdn.com/iptv/my-asp4.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/12/09/Rounded_20201117_113717.png",WWE Network
+http://77.83.117.60:8888/02_WWE_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/12/09/Rounded_20201117_113717.png",WWE Network
+http://cdnak19.cast4u.info:80/channels/4/10804.m3u8
+
 ---------------------------------------------------------------------------------------Kids----------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",Cartoon Network
@@ -446,7 +485,10 @@ https://we-play.tv/watching/tv/true-spark-jump
 https://doomovie.com/live/spark-jump
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",Disney Channel
-https://www.doomovie-hd.com/?r=tv_view&id=86
+http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/20/disneyxd.png",Disney XD
+https://doomovie.com/live/disney-xd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
 https://we-play.tv/watching/tv/cartoon-club
@@ -460,8 +502,11 @@ https://we-play.tv/watching/tv/aniplus
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/eQHvpkV.png",FWTOON
 https://www.fwiptv.cc/player_demo.php?channel=89780",referer:"
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://sv1.picz.in.th/images/2020/12/18/juaKtS.jpg",ฺBoomerang
-https://www.fwiptv.cc/player_demo.php?channel=709",referer:"
+#EXTINF:-1 group-title="Kids" tvg-logo="https://sv1.picz.in.th/images/2020/12/18/juaKtS.jpg",Boomerang
+http://27.254.130.61/live01/ch18.m3u8?p=st
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/20/nickelodeon.png",Nickelodeon
+https://www.we-play.tv/watching/tv/nickelodeon
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 

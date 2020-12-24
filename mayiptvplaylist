@@ -688,6 +688,9 @@ https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1670.M
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91GhvgAQTvL._AC_SL1500_.jpg",James Bond 007 For Your Eyes Only (1981)
 https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1668.MP4/index.m3u8
 
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81YsN7aQKzL._AC_SL1500_.jpg",James Bond 007 Octopussy (1983)
+https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1664.MP4/index.m3u8
+
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608174850_1.jpg",Tremors 1 ทูตนรกล้านปี (1990)
 https://www.all-movie.tv/Tremors%20%281990%29
 

@@ -92,6 +92,12 @@ https://www.doo2you.com/pptv/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/pptv.png",PPTV HD
 https://www.we-play.tv/watching/tv/pptv-hd
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/gmm.png",GMM 25
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/mono29.png",Mono 29
+https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/new1logo.png",News 1
 https://www.doo2you.com/news-1/
 
@@ -109,20 +115,20 @@ https://we-play.tv/watching/tv/hbo-hd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
 http://45.182.127.235:8000/play/a0b6
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD (Backup)
-https://www.doomovie-hd.com/?r=tv_view&id=41
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2020/12/14/jlarqS.jpg",HBO 2 HD
-http://45.182.127.235:8000/play/a0b7
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits (Backup)
-https://www.doomovie-hd.com/?r=tv_view&id=43
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBO Signature
 https://we-play.tv/watching/tv/hbo-signature
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
 https://we-play.tv/watching/tv/hbo-family
@@ -130,14 +136,20 @@ https://we-play.tv/watching/tv/hbo-family
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
 http://45.182.127.235:8000/play/a0b9
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
+https://we-play.tv/watching/tv/red-by-hbo
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2020/12/14/jlarqS.jpg",HBO 2 HD
+http://45.182.127.235:8000/play/a0b7
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2020/12/14/jla88n.jpg",HBO Plus
 http://45.182.127.235:8000/play/a0b8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2020/12/14/jlanBQ.jpg",HBO Xtreme
 http://45.182.127.235:8000/play/a0ba
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
-https://we-play.tv/watching/tv/red-by-hbo
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
 https://we-play.tv/watching/tv/cinemax
@@ -181,14 +193,26 @@ https://www.we-play.tv/watching/tv/fox-thai
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV
 https://we-play.tv/watching/tv/warner-tv
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV
+https://doomovie.com/live/warner-tv-hd
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/AXNHD.png",AXN HD
 https://www.doo2you.com/axn/
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
 https://we-play.tv/watching/tv/true-film-hd
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/filmhd2.png",True Film HD 2
+https://doomovie.com/live/film-hd-2
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/truethaifirm.png",True Thai Film
 https://www.doo2you.com/true-film-hd/
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/25/Rounded_20201125_085433.png",True Series
+https://doofootball.livestream-cdn.com/iptv/sd-series.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/3zZzoIQEwwib4mRw4PhKS28py6f5FgfeBL0At4dO.png",True Asian Series HD
+https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/3zZzoIQEwwib4mRw4PhKS28py6f5FgfeBL0At4dO.png",True Asian Series HD
 https://www.doo2you.com/true-asia-series-hd/
@@ -205,11 +229,17 @@ https://we-play.tv/watching/tv/paramount-channel
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM
 https://we-play.tv/watching/tv/ccm
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM (Backup)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM
 https://www.doofree88.com/live/celestial-classic-movies
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITS.png",Hits
+https://www.we-play.tv/watching/tv/hits
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITS.png",Hits
 https://www.doomovie-hd.com/?r=tv_view&id=233
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITSMOVIE.png",Hits Movies
+http://77.83.117.60:8888/02_HITSMOVIE_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITSMOVIE.png",Hits Movies
 https://www.doomovie-hd.com/?r=tv_view&id=234

@@ -510,6 +510,9 @@ https://www.we-play.tv/watching/tv/nickelodeon
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1547018250_sweet-home_cover.jpg",Sweet Home คืนสยองวิมานสวรรค์ (2015)
+https://www.all-movie.tv/Sweet%20Home
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608021177_1.jpg",Inkheart เปิดตำนานอิงค์ฮาร์ทมหัศจรรย์ทะลุโลก (2008)
 https://www.all-movie.tv/Inkheart%20%282008%29
 
@@ -799,6 +802,11 @@ https://streamhee.com/2008_new/22.James.Bond.007.Quantum.Of.Solace.2008/22.James
 https://streamhee.com/2012_new/23.James.Bond.007.Skyfall.2012/23.James.Bond.007.Skyfall.2012.1080P.mp4.m3u8
 
 #EXTINF:-1 group-title="James Bond 007 Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/th/2/2a/Spectre_Thai_poster.jpg",24. Spectre (2015)
+https://streamhee.com/2015_new/24.James.Bond.007.Spectre.2015/24.James.Bond.007.Spectre.2015.1080P.mp4.m3u8
+
+-------------------------------------------------------------------------------------Sweet Home Season 1----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Sweet Home Season 1" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608297720_cover1.jpg",EP.1 (2020)
 https://streamhee.com/2015_new/24.James.Bond.007.Spectre.2015/24.James.Bond.007.Spectre.2015.1080P.mp4.m3u8
 
 -------------------------------------------------------------------------------------One Piece Season 1-----------------------------------------------------------------------------------

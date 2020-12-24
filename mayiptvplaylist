@@ -472,6 +472,9 @@ http://cdnak19.cast4u.info:80/channels/4/10804.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",Cartoon Network
 https://we-play.tv/watching/tv/cartoon-network
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://sv1.picz.in.th/images/2020/12/18/juaKtS.jpg",Boomerang
+http://27.254.130.61/live01/ch18.m3u8?p=st
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
 https://we-play.tv/watching/tv/true-spark-play
 
@@ -501,9 +504,6 @@ https://we-play.tv/watching/tv/aniplus
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/eQHvpkV.png",FWTOON
 https://www.fwiptv.cc/player_demo.php?channel=89780",referer:"
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://sv1.picz.in.th/images/2020/12/18/juaKtS.jpg",Boomerang
-http://27.254.130.61/live01/ch18.m3u8?p=st
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/20/nickelodeon.png",Nickelodeon
 https://www.we-play.tv/watching/tv/nickelodeon
@@ -651,6 +651,42 @@ https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%
 https://www.all-movie.tv/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2
 
 -------------------------------------------------------------------------------------VOD Trilogy-----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91H7nJWknIL._SY445_.jpg",James Bond 007 Dr.No (1962)
+https://streamhee.com/1962_new/James.Bond.007.Dr.No.1962.V-1/James.Bond.007.Dr.No.1962.V-1.1080P.mp4.m3u8
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51AW9MSS45L._SY445_.jpg",James Bond 007 From Russia with Love (1963)
+https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1688.MP4/index.m3u8
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/31306.jpg",James Bond 007 Goldfinger (1964)
+https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1686.MP4/index.m3u8
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://movie-online.org/wp-content/uploads/2019/11/Thunderball-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C-007-1965-James-Bond-007-%E0%B8%A0%E0%B8%B2%E0%B8%84-4.jpg",James Bond 007 Thunderball (1965)
+https://www.all-movie.tv/Thunderball%20%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%20007%20%281965%29%20%28James%20Bond%20007%20%E0%B8%A0%E0%B8%B2%E0%B8%84%204%29
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51P6bPmLKKL._SY445_.jpg",James Bond 007 You Only Live Twice (1967)
+https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1682.MP4/index.m3u8
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://jamesbondradio.com/wp-content/uploads/2016/02/On-Her-Majestys-Secret-Service.jpg",James Bond 007 On Her Majesty's Secret Service (1969)
+https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1680.MP4/index.m3u8
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51jiqlWyW4L._SY445_.jpg",James Bond 007 Diamonds Are Forever (1971)
+https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1678.MP4/index.m3u8
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81bc8CIaAwL._SL1500_.jpg",James Bond 007 Live and Let Die (1973)
+https://streamhee.com/1973_new/James.Bond.007.Live.And.Let.Die.1973.V-1/James.Bond.007.Live.And.Let.Die.1973.V-1.1080P.mp4.m3u8
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.vojkuhd.com/wp-content/uploads/2017/02/James-Bond-007-The-Man-with-the-Golden-Gun-1974-%E0%B9%80%E0%B8%88%E0%B8%A1%E0%B8%AA%E0%B9%8C-%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-007-%E0%B8%A0%E0%B8%B2%E0%B8%84-9.jpg",James Bond 007 The Man with the Golden Gun (1974)
+https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1674.MP4/index.m3u8
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81i9dwqmXIL._SL1500_.jpg",James Bond 007 The Spy Who Loved Me (1977)
+https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1672.MP4/index.m3u8
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91%2BQzwN%2B3PL._AC_SY445_.jpg",James Bond 007 Moonraker (1979)
+https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1670.MP4/index.m3u8
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91GhvgAQTvL._AC_SL1500_.jpg",James Bond 007 For Your Eyes Only (1981)
+https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1668.MP4/index.m3u8
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608174850_1.jpg",Tremors 1 ทูตนรกล้านปี (1990)
 https://www.all-movie.tv/Tremors%20%281990%29

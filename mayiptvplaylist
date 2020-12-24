@@ -113,10 +113,10 @@ https://www.doo2you.com/v2h-2tv/
 https://we-play.tv/watching/tv/hbo-hd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
-http://45.182.127.235:8000/play/a0b6
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://45.182.127.235:8000/play/a0b6
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
@@ -190,10 +190,10 @@ https://www.doo2you.com/fox-thai/
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
 https://www.we-play.tv/watching/tv/fox-thai
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV (EN)
 https://we-play.tv/watching/tv/warner-tv
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV (TH)
 https://doomovie.com/live/warner-tv-hd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/AXNHD.png",AXN HD
@@ -333,9 +333,6 @@ https://doomovie.com/live/explore-sci
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",True Explore Wild
 https://doomovie.com/live/explore-wild
 
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.234.in.th/images/2020/11/20/samrujrok.png",สำรวจโลก
-https://cdn6.goprimetime.info/feed/LC8/index.m3u8
-
 ---------------------------------------------------------------------------------------Sports------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True Premier Football HD 1
@@ -376,9 +373,6 @@ https://we-play.tv/watching/tv/true-sports-hd-2
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd3.png",True Sports HD 3
 https://we-play.tv/watching/tv/true-sports-hd-3
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/tsphd4.png",True Sports HD 4
-http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport2.png",True Sports 2
 https://www.doo2you.com/true-sport-2/
@@ -478,14 +472,8 @@ http://27.254.130.61/live01/ch18.m3u8?p=st
 #EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
 https://we-play.tv/watching/tv/true-spark-play
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
-https://doomovie.com/live/spark-play
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
 https://we-play.tv/watching/tv/true-spark-jump
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
-https://doomovie.com/live/spark-jump
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",Disney Channel
 http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8
@@ -783,7 +771,7 @@ https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1658.M
 #EXTINF:-1 group-title="James Bond 007 Collection" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk2OTg4MTk1NF5BMl5BanBnXkFtZTcwNjExNTgzNA@@._V1_.jpg",17. Golden Eye (1995)
 https://streamhee.com/1995_new/James.Bond.007.Goldeneye.1995.V-1/James.Bond.007.Goldeneye.1995.V-1.1080.mp4.m3u8
 
-#EXTINF:-1 group-title="James Bond 007 Collection" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81i9dwqmXIL._SL1500_.jpg",18. Tomorrow Never Dies (1997)
+#EXTINF:-1 group-title="James Bond 007 Collection" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/31349.jpg",18. Tomorrow Never Dies (1997)
 https://streamhee.com/1997_new/18.James.Bond.007.Tomorrow.Never.Dies.1997/18.James.Bond.007.Tomorrow.Never.Dies.1997.1080P.mp4.m3u8
 
 #EXTINF:-1 group-title="James Bond 007 Collection" tvg-logo="https://i.pinimg.com/originals/ba/99/38/ba9938165e9b070e5bbfedd5d38d2ffa.jpg",19. The World Is Not Enough (1999)

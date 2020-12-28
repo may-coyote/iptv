@@ -498,6 +498,18 @@ https://www.we-play.tv/watching/tv/nickelodeon
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1603277177_1.jpg",The Broken Hearts Gallery ฝากรักไว้ ในแกลเลอรี่ (2020)
+https://www.all-movie.tv/The%20Broken%20Hearts%20Gallery%20%282020%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1556604508_dsffff.jpg",Miss Bala สวย กล้า ท้าอันตราย (2019)
+https://www.all-movie.tv/Miss%20Bala%20%282019%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608908354_cover3.jpg",We cab be Heroes รวมพลังเด็กพันธุ์แกร่ง (2020)
+https://www.all-movie.tv/We%20can%20be%20Heroes%20%282020%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1604979580_1.jpg",Midnight at the Magnolia คืนแห่งรักที่แม็กโนเลีย (2020)
+https://www.all-movie.tv/Midnight%20at%20the%20Magnolia%20%282020%29
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1547018250_sweet-home_cover.jpg",Sweet Home คืนสยองวิมานสวรรค์ (2015)
 https://www.all-movie.tv/Sweet%20Home
 
@@ -762,7 +774,7 @@ https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1664.M
 #EXTINF:-1 group-title="James Bond 007 Collection" tvg-logo="https://image.posterlounge.it/images/l/1885885.jpg",13.1 Never Say Never Again (ภาคพิเศษ) (1983) 
 https://sm-cache1.mrtmovie.com/hls/content/nas05/mvc/M/Inter/Never_Say_Never_Again_1983/Never_Say_Never_Again_1983_TH.mp4/index.m3u8
 
-#EXTINF:-1 group-title="James Bond 007 Collection" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51jiqlWyW4L._SY445_.jpg",14. A View to a Kill (1985)
+#EXTINF:-1 group-title="James Bond 007 Collection" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/31335.jpg",14. A View to a Kill (1985)
 https://sm-cache1.mrtmovie.com/hls/content/nas01/movie/eng/chunklist_wmeng1662.MP4/index.m3u8
 
 #EXTINF:-1 group-title="James Bond 007 Collection" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tmvabkolL._AC_SY445_.jpg",15. The Living Daylights (1987)

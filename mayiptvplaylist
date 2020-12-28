@@ -496,9 +496,6 @@ https://doomovie.com/live/disney-xd
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
 https://we-play.tv/watching/tv/cartoon-club
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://sv1.picz.in.th/images/2020/12/18/jua97E.jpg",Animax
-http://203.154.177.124:8899/live/ch5/playlist.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0175_long.png",Aniplus
 https://we-play.tv/watching/tv/aniplus
 

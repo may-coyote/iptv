@@ -507,7 +507,10 @@ https://www.we-play.tv/watching/tv/nickelodeon
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
-EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/5e78fb628c363ac26e929957caf23854.jpg",Seventh Son บุตรชายคนที่ 7 จอมมหาเวทย์ (2014)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608884373_1.jpg",The Sentinel โคตรคนขัดคำสั่งตาย (2006)
+https://www.all-movie.tv/The%20Sentinel%20%282006%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/5e78fb628c363ac26e929957caf23854.jpg",Seventh Son บุตรชายคนที่ 7 จอมมหาเวทย์ (2014)
 https://www.all-movie.tv/Seventh%20Son%20%282014%29
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609074393_cover4.jpg",AK vs AK (2020)

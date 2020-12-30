@@ -41,11 +41,17 @@ https://www.we-play.tv/watching/tv/thai-pbs
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/TNN24.png",TNN 16
 https://www.doo2you.com/tnn16/
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/TNN24.png",TNN 16
+https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
 https://we-play.tv/watching/tv/true4u
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
-https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+http://183.182.100.184/live/true4u/chunklist.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/newtv.png",NEW TV
+http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/newtv.png",NEW TV
 https://www.doo2you.com/new-tv/
@@ -93,19 +99,28 @@ https://www.doo2you.com/pptv/
 https://www.we-play.tv/watching/tv/pptv-hd
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/gmm.png",GMM 25
-https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+http://27.254.130.61/live01/ch11.m3u8?p=st
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/gmm.png",GMM 25
+https://doomovie.com/live/gmm-channel
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/mono29.png",Mono 29
-https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/mono29.png",Mono 29
+https://bettopfivemovie.com/mono-29/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/new1logo.png",News 1
+https://server1.streamssl.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/new1logo.png",News 1
 https://www.doo2you.com/news-1/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/voice.png",Voice TV
-https://www.doo2you.com/voice-tv/
+https://bettopfivemovie.com/voice-tv/
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/v2h.png",V2H
-https://www.doo2you.com/v2h-2tv/
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/voice.png",Voice TV
+https://www.doo2you.com/voice-tv/
 
 ---------------------------------------------------------------------------------------Movies--------------------------------------------------------------------------------------
 
@@ -264,15 +279,6 @@ https://www.fwiptv.cc/player_demo.php?channel=89782",referer:"
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/bYGohUG.png",FWSOV
 https://www.fwiptv.cc/player_demo.php?channel=89781",referer:"
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg",Sanook Movies
-http://61.19.242.134/feed/LC53/index.m3u8 
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-s.png",Boxfilm
-http://61.19.242.134/feed/LC52/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://pbs.twimg.com/profile_images/1298842185450680320/5u2zBkTl_400x400.jpg",Samurai
-http://61.19.242.134/feed/LC2/index.m3u8
 
 -------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 

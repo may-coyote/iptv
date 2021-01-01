@@ -277,6 +277,9 @@ https://www.fwiptv.cc/player_demo.php?channel=89782",referer:"
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/bYGohUG.png",FWSOV
 https://www.fwiptv.cc/player_demo.php?channel=89781",referer:"
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/12/21/Rounded_20201221_092032.png",Action Hollywood Movies
+http://203.154.177.124:8899/live/ch7/chunks.m3u8
+
 -------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD

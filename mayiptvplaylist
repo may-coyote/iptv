@@ -166,7 +166,7 @@ http://45.182.127.235:8000/play/a0b8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2020/12/14/jlanBQ.jpg",HBO Xtreme
 http://45.182.127.235:8000/play/a0ba
 
-EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
+#EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
@@ -276,9 +276,6 @@ https://www.fwiptv.cc/player_demo.php?channel=89782",referer:"
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/bYGohUG.png",FWSOV
 https://www.fwiptv.cc/player_demo.php?channel=89781",referer:"
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/12/21/Rounded_20201221_092032.png",Action Hollywood Movies
-http://203.154.177.124:8899/live/ch7/chunks.m3u8
 
 -------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 

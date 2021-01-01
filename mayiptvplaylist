@@ -526,6 +526,9 @@ https://www.fwiptv.cc/player_demo.php?channel=89780",referer:"
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/20/nickelodeon.png",Nickelodeon
 https://www.we-play.tv/watching/tv/nickelodeon
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/28/Rounded_20201128_145033.png",Toonee
+https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
+
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608884373_1.jpg",The Sentinel โคตรคนขัดคำสั่งตาย (2006)

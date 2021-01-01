@@ -268,9 +268,6 @@ http://77.83.117.60:8888/02_HITSMOVIE_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITSMOVIE.png",Hits Movies
 https://www.doomovie-hd.com/?r=tv_view&id=234
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/yz6jzjz.png",Movie HD 1
-http://203.154.243.89:1423",referer:"
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/thrill.png",Thrill
 https://www.fwiptv.cc/player_demo.php?channel=718
 
@@ -497,7 +494,13 @@ https://we-play.tv/watching/tv/cartoon-network
 http://27.254.130.61/live01/ch18.m3u8?p=st
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
+https://doomovie.com/live/spark-play
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
 https://we-play.tv/watching/tv/true-spark-play
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
+https://doomovie.com/live/spark-jump
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
 https://we-play.tv/watching/tv/true-spark-jump
@@ -513,6 +516,9 @@ https://doomovie.com/live/disney-xd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
 https://we-play.tv/watching/tv/cartoon-club
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/20/animax.png",Animax
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0175_long.png",Aniplus
 https://we-play.tv/watching/tv/aniplus

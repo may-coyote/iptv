@@ -235,13 +235,13 @@ https://www.doo2you.com/true-film-hd/
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/25/Rounded_20201125_085433.png",True Series
 https://doofootball.livestream-cdn.com/iptv/sd-series.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/3zZzoIQEwwib4mRw4PhKS28py6f5FgfeBL0At4dO.png",True Asian Series HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tas.png",True Asian Series HD
 https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/3zZzoIQEwwib4mRw4PhKS28py6f5FgfeBL0At4dO.png",True Asian Series HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tas.png",True Asian Series HD
 https://www.doo2you.com/true-asia-series-hd/
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/Rounded_20201030_092614.png",True TVB
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",True TVB
 http://ip2121.com:8081/live/TVB/chunks.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",TVB ไทย
@@ -280,6 +280,9 @@ https://www.fwiptv.cc/player_demo.php?channel=89782",referer:"
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/bYGohUG.png",FWSOV
 https://www.fwiptv.cc/player_demo.php?channel=89781",referer:"
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://tristartv.co.uk/wp-content/uploads/2018/06/23-TrueMovies.uk_.jpg",True Movies
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1235
+
 -------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD
@@ -299,6 +302,9 @@ https://we-play.tv/watching/tv/tlc-hd
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
 https://we-play.tv/watching/tv/true-xzyte
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/Wvbm898YxA0lFGJH38ncypj3VyRH82Pebf1NRb7b.png",True Music
+https://doomovie.com/live/true-music
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png",Fox Life
 https://we-play.tv/watching/tv/fox-life
@@ -342,10 +348,10 @@ https://we-play.tv/watching/tv/nat-geo-wild
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/46_National_Geographic_HD.png",National Geographic
 https://we-play.tv/watching/tv/national-geographic
 
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/BBCLifeStyle.png",BBC Lifestyle
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png",BBC Lifestyle
 https://www.doo2you.com/bbc-life-style/
 
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Lifestyle
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth
 https://doomovie.com/live/bbc-earth
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",True Explore Life
@@ -485,7 +491,7 @@ https://doofootball.livestream-cdn.com/iptv/my-asp4.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/12/09/Rounded_20201117_113717.png",WWE Network
 http://77.83.117.60:8888/02_WWE_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/12/09/Rounded_20201117_113717.png",WWE Network
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logonoid.com/images/usa-network-logo.png",Usa Network
 http://cdnak19.cast4u.info:80/channels/4/10804.m3u8
 
 ---------------------------------------------------------------------------------------Kids----------------------------------------------------------------------------------------
@@ -511,11 +517,11 @@ https://we-play.tv/watching/tv/true-spark-jump
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",Disney Channel
 http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I",Disney Junior
-http://27.254.142.14/disneyjr.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I",Disney Junior (UK)
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/1112
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/20/disneyxd.png",Disney XD
-https://doomovie.com/live/disney-xd
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/20/disneyxd.png",Disney XD (UK)
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/221210
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
 https://we-play.tv/watching/tv/cartoon-club
@@ -525,6 +531,9 @@ https://we-play.tv/watching/tv/aniplus
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/eQHvpkV.png",FWTOON
 https://www.fwiptv.cc/player_demo.php?channel=89780",referer:"
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/MainLogo.png/revision/latest?cb=20191129184134",NickToons
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1242
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/20/nickelodeon.png",Nickelodeon
 https://www.we-play.tv/watching/tv/nickelodeon
@@ -940,6 +949,14 @@ https://streamhee.com/2012_new/23.James.Bond.007.Skyfall.2012/23.James.Bond.007.
 
 #EXTINF:-1 group-title="James Bond 007 Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/th/2/2a/Spectre_Thai_poster.jpg",24. Spectre (2015)
 https://streamhee.com/2015_new/24.James.Bond.007.Spectre.2015/24.James.Bond.007.Spectre.2015.1080P.mp4.m3u8
+
+-------------------------------------------------------------------------------Stairway to Heaven----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Stairway to Heaven" tvg-logo="https://nungdeeded.com/images/gallerys/20180718114008_1.jpg",EP.1
+https://cache-movie.all-movie.tv/hls/content/nas04/mvc/s/kr/Stairway_to_Heaven_T/EP01.mp4/index.m3u8?st=NU0oICZPOcYYeDiWi_lskQ&e=1609691266&u=freemovie
+
+#EXTINF:-1 group-title="Stairway to Heaven" tvg-logo="https://nungdeeded.com/images/gallerys/20180718114008_1.jpg",EP.2
+https://cache-movie.all-movie.tv/hls/content/nas04/mvc/s/kr/Stairway_to_Heaven_T/EP02.mp4/index.m3u8?st=NU0oICZPOcYYeDiWi_lskQ&e=1609691266&u=freemovie
 
 -------------------------------------------------------------------------------Zombie Detective----------------------------------------------------------------------------------
 

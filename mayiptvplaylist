@@ -1012,6 +1012,11 @@ https://cache-movie.all-movie.tv/hls/content/nas04/mvc/s/kr/Stairway_to_Heaven_T
 #EXTINF:-1 group-title="Stairway to Heaven" tvg-logo="https://nungdeeded.com/images/gallerys/20180718114008_1.jpg",EP.20 (END)
 https://cache-movie.all-movie.tv/hls/content/nas04/mvc/s/kr/Stairway_to_Heaven_T/EP20.mp4/index.m3u8?st=NU0oICZPOcYYeDiWi_lskQ&e=1609691266&u=freemovie
 
+-------------------------------------------------------------------------------Dating in the Kitchen----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Dating in the Kitchen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1600230908_45647878.jpg",EP.1
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/CN/Dating_in_the_Kitchen_2020_TH/EP01.mp4/index.m3u8?st=NU0oICZPOcYYeDiWi_lskQ&e=1609691266&u=freemovie
+
 -------------------------------------------------------------------------------Zombie Detective----------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Zombie Detective" tvg-logo="https://ptcdn.info/korea/2020/poster/YIwIwkeeOt-1599121965_o.jpg",EP.1

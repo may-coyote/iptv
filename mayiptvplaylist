@@ -98,10 +98,10 @@ https://www.doo2you.com/pptv/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/pptv.png",PPTV HD
 https://www.we-play.tv/watching/tv/pptv-hd
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/gmm.png",GMM 25
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
 http://27.254.130.61/live01/ch11.m3u8?p=st
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/gmm.png",GMM 25
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
 https://doomovie.com/live/gmm-channel
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/mono29.png",Mono 29

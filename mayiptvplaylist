@@ -217,9 +217,6 @@ https://doomovie.com/live/warner-tv-hd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV (EN)
 https://we-play.tv/watching/tv/warner-tv
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV (EN)
-http://203.154.177.124:8899/live/ch12/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/AXNHD.png",AXN HD
 https://www.doo2you.com/axn/
 
@@ -309,7 +306,7 @@ https://we-play.tv/watching/tv/fox-life
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/foodnetwork.png",Food Network
 https://we-play.tv/watching/tv/food-network
 
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",Afn
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",AFN
 https://we-play.tv/watching/tv/asian-food-channel
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/24_Blue_Ant_Ent.png",Blueant Entertainment
@@ -404,17 +401,8 @@ https://we-play.tv/watching/tv/true-sports-hd-3
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/tsphd4.png",True Sports HD 4
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013501.jpg",True Sports 1
-http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport2.png",True Sports 2
 https://www.doo2you.com/true-sport-2/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013732.jpg",True Sports 3
-http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013642.jpg",True Sports 4
-http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport5.png",True Sports 5
 https://we-play.tv/watching/tv/true-sports-5
@@ -497,9 +485,6 @@ https://doofootball.livestream-cdn.com/iptv/my-asp4.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/12/09/Rounded_20201117_113717.png",WWE Network
 http://77.83.117.60:8888/02_WWE_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logonoid.com/images/usa-network-logo.png",Usa Network
-http://cdnak19.cast4u.info:80/channels/4/10804.m3u8
-
 ---------------------------------------------------------------------------------------Kids----------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",Cartoon Network
@@ -523,12 +508,6 @@ https://we-play.tv/watching/tv/true-spark-jump
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",Disney Channel
 http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I",Disney Junior (UK)
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/1112
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/20/disneyxd.png",Disney XD (UK)
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/221210
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
 https://we-play.tv/watching/tv/cartoon-club
 
@@ -537,9 +516,6 @@ https://we-play.tv/watching/tv/aniplus
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/eQHvpkV.png",FWTOON
 https://www.fwiptv.cc/player_demo.php?channel=89780",referer:"
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/MainLogo.png/revision/latest?cb=20191129184134",NickToons
-http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/1242
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/20/nickelodeon.png",Nickelodeon
 https://www.we-play.tv/watching/tv/nickelodeon

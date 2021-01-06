@@ -616,6 +616,9 @@ http://s846397078.mialojamiento.es/xxx.php?ch=vivid-red
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609838313_1.jpg",Standing Up Falling Down (2020)
+https://www.all-movie.tv/Standing%20Up%20Falling%20Down%20%282019%29
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609640731_1.jpg",Anastasia : Once Upon a Time เจ้าหญิงอนาสตาเซียกับมิติมหัศจรรย์ (2020)
 https://www.all-movie.tv/Anastasia:%20Once%20Upon%20a%20Time%20%282020%29
 
@@ -746,6 +749,9 @@ https://www.all-movie.tv/The%20Christmas%20Chronicles%202%20%282020%29
 https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609839385_1.jpg",สาป ซ่อน ศพ (2020)
+https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%9B%20%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%20%E0%B8%A8%E0%B8%9E
 
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609405955_1.jpg",Master ล่าโกง อย่ายิงมันแค่โป้งเดียว (2016)
 https://www.all-movie.tv/%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%81%E0%B8%87%20%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%82%E0%B8%9B%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7

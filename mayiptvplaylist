@@ -546,48 +546,6 @@ https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 #EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV15 ภาษาต่างประเทศ
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
----------------------------------------------------------------------------------Top Secret----------------------------------------------------------------------------------------
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/BABES_TV_2018_NOIR.png/revision/latest/scale-to-width-down/300?cb=20191022114734",Babes TV
-"http://s846397078.mialojamiento.es/x.php?ch=babes-tv",
-"referer": "http://photocall.tv/"
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://vectorified.com/image/brazzers-logo-vector-5.png",Brazzers
-http://s846397078.mialojamiento.es/x.php?ch=brazzers_eu
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png",Dorcel TV
-http://s846397078.mialojamiento.es/x.php?ch=dorcel-tv
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://new.strah.tv/uploads/posts/2019-02/medium/1549285137_extasy_big.png",EXTASY HD
-http://s846397078.mialojamiento.es/x.php?ch=extasy-hd
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png",HUSTLER HD
-http://photocall.tv/k4Fv/xxx?ch=hustler
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://i.pinimg.com/600x315/4e/8f/dc/4e8fdc881468ccbf74882fee823fd3b4.jpg",Olala
-http://photocall.tv/k4Fv/xxx?ch=olala
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="http://iptv-pro.ru/Logotip-kanalov/okh-akh_hd.jpg",OX-AX HD
-http://photocall.tv/k4Fv/xxx?ch=oxax
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://img15.lostpic.net/2019/10/13/bcf2056804a4a7b5491595b62ab55a8e.png",PENTHOUSE QUICKIES
-http://photocall.tv/k4Fv/xxx?ch=penthouse_2
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://img15.lostpic.net/2019/10/13/71fceea1166c7f876c26645e9688c6d8.png",PENTHOUSE GOLD
-http://photocall.tv/k4Fv/xxx?ch=penthouse_g
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://seeklogo.com/images/P/playboy-logo-AE40B49AF6-seeklogo.com.png",PLAYBOY
-http://photocall.tv/k4Fv/xxx?ch=playboy
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Private_TV_%282014-.n.v.%29.png",PRIVATE
-http://photocall.tv/k4Fv/xxx?ch=private
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/39/Redlight_HD_%282010-.n.v.%29.png",REDLIGHT
-http://photocall.tv/k4Fv/xxx?ch=redlight
-
-#EXTINF:-1 group-title="Top Secret" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png",Vivid Red
-http://photocall.tv/k4Fv/xxx?ch=vividred
-
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609838313_1.jpg",Standing Up Falling Down (2020)

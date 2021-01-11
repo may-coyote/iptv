@@ -549,7 +549,7 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 ---------------------------------------------------------------------------------Top Secret----------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Top Secret" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/BABES_TV_2018_NOIR.png/revision/latest/scale-to-width-down/300?cb=20191022114734",Babes TV
-hhttp://s846397078.mialojamiento.es/x.php?ch=babes-tv
+http://s846397078.mialojamiento.es/x.php?ch=babes-tv","referer"
 
 #EXTINF:-1 group-title="Top Secret" tvg-logo="https://vectorified.com/image/brazzers-logo-vector-5.png",Brazzers
 http://s846397078.mialojamiento.es/x.php?ch=brazzers_eu

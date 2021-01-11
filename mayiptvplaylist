@@ -6,7 +6,7 @@
 https://www.doo2you.com/ch3-hd/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/3hd.png",3 HD
-https://www.we-play.tv/watching/tv/ch3-hd
+https://www.we-play.tv/watching/tv/ch3-hdl
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/5hd.png",5 HD
 https://www.doo2you.com/ch5-hd/
@@ -130,9 +130,6 @@ https://we-play.tv/watching/tv/hbo-hd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
-http://45.182.127.235:8000/play/a0b6
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
 
@@ -148,23 +145,11 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
 https://we-play.tv/watching/tv/hbo-family
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
-http://45.182.127.235:8000/play/a0b9
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
 https://we-play.tv/watching/tv/red-by-hbo
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2020/12/14/jlarqS.jpg",HBO 2 HD
-http://45.182.127.235:8000/play/a0b7
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2020/12/14/jla88n.jpg",HBO Plus
-http://45.182.127.235:8000/play/a0b8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2020/12/14/jlanBQ.jpg",HBO Xtreme
-http://45.182.127.235:8000/play/a0ba
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
@@ -195,12 +180,6 @@ https://www.doomovie-hd.com/?r=tv_view&id=126
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies (EN)
 https://www.we-play.tv/watching/tv/fox-family-movies
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2020/12/14/joYsvS.jpg",Fox Channel HD
-http://45.182.127.235:8000/play/a0e6
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2020/12/14/jorTPN.jpg",Fox Premium Classics
-http://45.182.127.235:8000/play/a09q
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
 https://www.doo2you.com/fox-thai/
@@ -481,9 +460,6 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/Rounded_20201110_093002.png",Astro Super Sports 4
 https://doofootball.livestream-cdn.com/iptv/my-asp4.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/12/09/Rounded_20201117_113717.png",WWE Network
-http://77.83.117.60:8888/02_WWE_720p/chunklist.m3u8
 
 ---------------------------------------------------------------------------------------Kids----------------------------------------------------------------------------------------
 

@@ -548,6 +548,18 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610523175_1.jpg",The Assistant (2019)
+https://www.all-movie.tv/The%20Assistant%20%282019%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1591776168_inheritance_cover.jpg",Inheritance มรดกซ่อนเงื่อน (2020)
+https://www.all-movie.tv/Inheritance%20%282020%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606461121_1.jpg",Boss Level ย้อนเวลาไล่ล่าฆ่าซ้ำ (2021)
+https://www.all-movie.tv/Boss%20Level%20%282021%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610528445_1.jpg",Blended ทริปอลวน รักอลเวง (2014)
+https://www.all-movie.tv/Blended%20%282014%29
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1584340654_bloodshot_cover.jpg",Bloodshot จักรกลเลือดดุ (2020)
 https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Bloodshot-2020/Bloodshot-TH51.mp4/index.m3u8?st=8yUrx_zJDHKiJbwUSELxjg&e=1610591144&u=AllMovie
 
@@ -703,6 +715,9 @@ https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610422595_1.jpg",เกมส์เมอร์เกมส์แม่ (2020)
+https://www.all-movie.tv/%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%81%E0%B8%A1%E0%B9%88%20%282020%29
+
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610443123_1.jpg",เฮ้ย ลูกเพ่ นี่ลูกพ่อ (2020)
 https://www.all-movie.tv/%E0%B9%80%E0%B8%AE%E0%B9%89%E0%B8%A2%20%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%80%E0%B8%9E%E0%B9%88%20%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%20%282020%29
 
@@ -779,6 +794,24 @@ https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%
 https://www.all-movie.tv/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2
 
 -------------------------------------------------------------------------------------VOD Trilogy-----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1553845059_rocky-1.jpg",Rocky 1 ราชากำปั้นทุบสังเวียน (1976)
+https://www.all-movie.tv/Rocky%201
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/e6dffb98c5604f4f4631aa4aa07a81cf.jpg",Rocky 2 ราชากำปั้นทุบสังเวียน (1979)
+https://www.all-movie.tv/Rocky%202
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1b0ab88794bc2338e872e58aea6491ad.jpg",Rocky 3 ราชากำปั้นทุบสังเวียน (1982)
+https://www.all-movie.tv/Rocky%203
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/7897c922bc09b1a3bd0bd6316d870f88.jpg",Rocky 4 ราชากำปั้นทุบสังเวียน (1985)
+https://www.all-movie.tv/Rocky%204
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/4e2e924ea00e23288b449ec00bc5e96f.jpg",Rocky 5 ราชากำปั้นทุบสังเวียน (1990)
+https://www.all-movie.tv/Rocky%205
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/41e6dfc0917264714695362b51ddf67f.jpg",Rocky 6 ราชากำปั้นทุบสังเวียน (2006)
+https://www.all-movie.tv/Rocky%206
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/3iGOWKCmMkwUMbLkiyW.jpg",Transporter 1 (2002)
 https://streamhee.com/2002_new/The.Transporter.2002/The.Transporter.2002.1080P.mp4.m3u8

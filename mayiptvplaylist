@@ -548,6 +548,24 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610167326_1.jpg",The Climb (2019)
+https://www.all-movie.tv/The%20Climb%20%282019%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610439681_1.jpg",The Judge สู้เพื่อพ่อ (2014)
+https://www.all-movie.tv/The%20Judge%20%282014%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609044723_1.jpg",Wonder Woman 1984 (2020)
+https://www.all-movie.tv/Wonder%20Woman%201984%20%282020%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610166727_1.jpg",The Kid Detective (2020)
+https://www.all-movie.tv/The%20Kid%20Detective%20%282020%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569300546_inside-man_cover.jpg",Inside Man : Most Wanted ปล้นข้ามโลก (2019)
+https://www.all-movie.tv/Inside%20Man:%20Most%20Wanted%20%282019%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608734794_cover1.jpg",The Midnight Sky สัญญาณสงัด (2020)
+https://www.all-movie.tv/The%20Midnight%20Sky%20%282020%29
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609838313_1.jpg",Standing Up Falling Down (2020)
 https://www.all-movie.tv/Standing%20Up%20Falling%20Down%20%282019%29
 
@@ -681,6 +699,9 @@ https://www.all-movie.tv/The%20Christmas%20Chronicles%202%20%282020%29
 https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610443123_1.jpg",เฮ้ย ลูกเพ่ นี่ลูกพ่อ (2020)
+https://www.all-movie.tv/%E0%B9%80%E0%B8%AE%E0%B9%89%E0%B8%A2%20%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%80%E0%B8%9E%E0%B9%88%20%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%20%282020%29
 
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609839385_1.jpg",สาป ซ่อน ศพ (2020)
 https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%9B%20%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%20%E0%B8%A8%E0%B8%9E

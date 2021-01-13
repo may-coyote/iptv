@@ -548,7 +548,7 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1584340654_bloodshot_cover.jpg",Bloodshot (2020)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1584340654_bloodshot_cover.jpg",Bloodshot จักรกลเลือดดุ (2020)
 https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Bloodshot-2020/Bloodshot-TH51.mp4/index.m3u8?st=8yUrx_zJDHKiJbwUSELxjg&e=1610591144&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610167326_1.jpg",The Climb (2019)

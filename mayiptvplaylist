@@ -548,6 +548,27 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610606428_1.jpg",Bury My Heart at Wounded Knee ฝังหัวใจข้าไว้ที่วูนเด็ดนี (2007)
+https://www.all-movie.tv/Bury%20My%20Heart%20at%20Wounded%20Knee%20%282007%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610606428_1.jpg",Einstein and Eddington (2008)
+https://www.all-movie.tv/Einstein%20and%20Eddington%20%282008%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610606428_1.jpg",Clara's Ghost (2018)
+https://www.all-movie.tv/Clara%27s%20Ghost%20%282018%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610606428_1.jpg",One True Thing ในดวงใจแม่ เธอคือรักแท้ (1998)
+https://www.all-movie.tv/One%20True%20Thing%20%281998%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610605414_1.jpg",Something the Lord Made บางสิ่งที่พระเจ้าสร้าง (2004)
+https://www.all-movie.tv/Something%20the%20Lord%20Made%20%282004%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610604858_1.jpg",Longford (2007)
+https://www.all-movie.tv/Longford%20%282006%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610603232_1.jpg",King of New York (1990)
+https://www.all-movie.tv/King%20of%20New%20York%20%281990%29
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610523175_1.jpg",The Assistant (2019)
 https://www.all-movie.tv/The%20Assistant%20%282019%29
 
@@ -715,6 +736,9 @@ https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610621358_1.jpg",ฮักบี้ บ้านบาก (2019)
+https://www.all-movie.tv/%E0%B8%AE%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%B5%E0%B9%89%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%81%20%282019%29
+
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610422595_1.jpg",เกมส์เมอร์เกมส์แม่ (2020)
 https://www.all-movie.tv/%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%81%E0%B8%A1%E0%B9%88%20%282020%29
 
@@ -814,16 +838,16 @@ https://www.all-movie.tv/Rocky%205
 https://www.all-movie.tv/Rocky%206
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/3iGOWKCmMkwUMbLkiyW.jpg",Transporter 1 (2002)
-https://streamhee.com/2002_new/The.Transporter.2002/The.Transporter.2002.1080P.mp4.m3u8
+https://www.all-movie.tv/Transporter%201
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/ruH1UFEw0uLsVPkB4CM.jpg",Transporter 2 (2005)
-https://streamhee.com/2005_new/Transporter.2.2005/Transporter.2.2005.1080P.mp4.m3u8
+https://www.all-movie.tv/Transporter%202
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/oDxn4QGQnxNYgVmbSh3.jpg",Transporter 3 (2008)
-https://streamhee.com/2008_new/Transporter.3.2008/Transporter.3.2008.1080P.mp4.m3u8
+https://www.all-movie.tv/Transporter%203
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/rq1w8n711nR6pD5upJK.jpg",Transporter 4 Refueled (2015)
-https://streamhee.com/2015_new/The.Transporter.Refueled.2015/The.Transporter.Refueled.2015.1080P.mp4.m3u8
+https://www.all-movie.tv/Transporter%204
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.biggmovienow.com/wp-content/uploads/2019/11/Mission-Impossible-1.jpg",Mission Impossible 1 (1996)
 https://www.doonung1234.com/movie/view/1143/Mission-Impossible-1--%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-(1996)

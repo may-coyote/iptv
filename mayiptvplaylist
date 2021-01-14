@@ -548,6 +548,12 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610439232_1.jpg",Shanghai Noon คู่ใหญ่ฟัดข้ามโลก (2000)
+https://www.all-movie.tv/Shanghai%20Noon%20%282000%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/3874.jpg",Shanghai Knights คู่ใหญ่ฟัดทลายโลก (2003)
+https://www.all-movie.tv/Shanghai%20Knights%20%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%9F%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81%20(2003)
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610606428_1.jpg",Bury My Heart at Wounded Knee ฝังหัวใจข้าไว้ที่วูนเด็ดนี (2007)
 https://www.all-movie.tv/Bury%20My%20Heart%20at%20Wounded%20Knee%20%282007%29
 

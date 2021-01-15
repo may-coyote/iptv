@@ -190,6 +190,9 @@ https://www.we-play.tv/watching/tv/fox-thai
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/20170709090502720443899.jpg",CTB
 https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/20170709090502720443899.jpg",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV (TH)
 https://doomovie.com/live/warner-tv-hd
 
@@ -255,6 +258,9 @@ https://www.fwiptv.cc/player_demo.php?channel=89782",referer:"
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/bYGohUG.png",FWSOV
 https://www.fwiptv.cc/player_demo.php?channel=89781",referer:"
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg",Sanook Movies
+https://cdn6.goprimetime.info/feed/LC53/index.m3u8
 
 -------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 

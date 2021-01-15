@@ -563,6 +563,21 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1594537925_123.jpg",Greyhound (2020)
+https://www.all-movie.tv/Greyhound%20(2020)
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608369658_1.jpg",Escape from Pretoria แผนลับแหกคุกพริทอเรีย (2020)
+https://www.all-movie.tv/Escape%20from%20Pretoria%20(2020)
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/e7b31dd5096cb9b0e927b0a9c57797ea.jpg",Attraction 1 มหาวิบัติเอเลี่ยนถล่มโลก (2017)
+https://www.all-movie.tv/ATTRACTION%202017
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1599029339_cover2.png",Attraction 2 มหาวิบัติเอเลี่ยนถล่มโลก (2020)
+https://www.all-movie.tv/Attraction%202%20Invasion%20%282020%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1586415883_american-sniper_cover.jpg",American Sniper (2014)
+https://www.all-movie.tv/American%20Sniper
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610439232_1.jpg",Shanghai Noon คู่ใหญ่ฟัดข้ามโลก (2000)
 https://www.all-movie.tv/Shanghai%20Noon%20%282000%29
 

@@ -563,6 +563,9 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610681671_1.jpg",Locked Down (2021)
+https://www.all-movie.tv/Locked%20Down%20(2021)
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1594537925_123.jpg",Greyhound (2020)
 https://www.all-movie.tv/Greyhound%20(2020)
 

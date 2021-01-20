@@ -551,6 +551,12 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1608346464_1.jpg",Need for Speed ซิ่งเต็มสปีดแค้น (2014)
+https://www.all-movie.tv/Need%20for%20Speed%20(2014)
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610095323_1.jpg",The Brothers Grimsby พี่น้องสายลับ (2016)
+https://www.all-movie.tv/The%20Brothers%20Grimsby%20(2016)
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1570183526_cover3.jpg",In the Tall Grass พงหลอนมรณะ (2019)
 https://www.all-movie.tv/In%20the%20Tall%20Grass
 
@@ -781,6 +787,9 @@ https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1601966597_3.jpg",Vanguard หน่วยพิทักษ์ฟัดข้ามโลก (2020)
+https://www.all-movie.tv/%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9F%E0%B8%B1%E0%B8%94%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81%20%E0%B9%81%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94
+
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1599541047_mulan-2020_cover2.jpg",มู่หลาน (2020)
 https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Asia/Mulan_2020/Mulan_2020_TH-1.mp4/index.m3u8?st=_dMzDpKTFTsxHQoVyXS8AA&e=1611167274&u=AllMovie
 
@@ -872,6 +881,15 @@ https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%
 https://www.all-movie.tv/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2
 
 -------------------------------------------------------------------------------------VOD Trilogy-----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/35194.jpg",The Godfather : Part 1 (1972)
+https://www.all-movie.tv/The%20Godfather%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%20%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%9F%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%A0%E0%B8%B2%E0%B8%84%201%20(1972)
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/35191.jpg",The Godfather : Part 2 (1974)
+https://www.all-movie.tv/The%20Godfather:%20Part%20II%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%20%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%9F%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%A0%E0%B8%B2%E0%B8%84%202%20(1974)
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1715.jpg",The Godfather : Part 3 (1990)
+https://www.all-movie.tv/The%20Godfather:%20Part%20III%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%20%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%9F%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%A0%E0%B8%B2%E0%B8%84%203%20(1990)
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/vKAWc1IbxBr7N1cS94Y.jpg",Sniper 1 นักฆ่าเลือดเย็น (1993)
 https://www.all-movie.tv/Sniper%20%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%201

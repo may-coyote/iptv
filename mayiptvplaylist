@@ -551,6 +551,21 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1570183526_cover3.jpg",In the Tall Grass พงหลอนมรณะ (2019)
+https://www.all-movie.tv/In%20the%20Tall%20Grass
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1549349431_1541388872_hunter-killer_cover.jpg",Hunter Killer สงครามอเมริกาผ่ารัสเซีย (2018)
+https://www.all-movie.tv/Hunter%20Killer
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1552468336_cover5.jpg",Triple Frontier ปล้น ล่า ท้านรก (2019)
+https://www.all-movie.tv/Triple%20Frontier
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1594370718_cover3.png",The Old Guard (2020)
+https://www.all-movie.tv/The%20Old%20Guard%20%282020%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610702642_cover3.jpg",Outside the Wire สมรภูมินอกลวดหนาม (2021)
+https://www.all-movie.tv/Outside%20the%20Wire%20%282021%29
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1603946894_cover3.png",Nobody Sleeps in the Woods Tonight คืนผวาป่าไร้เงา (2020)
 https://www.all-movie.tv/Nobody%20Sleeps%20in%20the%20Woods%20Tonight%20(2020)
 

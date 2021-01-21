@@ -560,6 +560,12 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606019956_1.jpg",Lone Survivor ปฏิบัติการพิฆาตสมรภูมิเดือด (2014)
+https://www.all-movie.tv/Lone%20Survivor%20%282013%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1604484842_2.jpg",Legacy of Lies (2020)
+https://www.all-movie.tv/Legacy%20of%20Lies%20(2020)
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1573620628_midway_cover.jpg",Midway อเมริกา ถล่ม ญี่ปุ่น (2019)
 https://www.all-movie.tv/Midway%202019
 

@@ -1217,6 +1217,34 @@ https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/James_Bond_007_20
 #EXTINF:-1 group-title="James Bond 007 Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/th/2/2a/Spectre_Thai_poster.jpg",24. Spectre (2015)
 https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/James_Bond_007_2015/James_Bond_007_2015_th.mp4/index.m3u8?st=_dMzDpKTFTsxHQoVyXS8AA&e=1611167274&u=AllMovie
 
+-------------------------------------------------------------------------------American Pie Collection----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="American Pie Collection" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/106e1cab7815a8b710b72bf086fc0d71.jpg",Episode 1
+https://cache-movie.all-movie.tv/hls/content/nas03/movie33/inter/American-Pie-Collection/American-Pie-1_T.mp4/index.m3u8?st=Wt6W5C3PO92TvubM3Qbq2Q&e=1611599736&u=AllMovie
+
+#EXTINF:-1 group-title="American Pie Collection" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/cdadbd44e7a4172f2d35f2bf09d41c1e.jpg",Episode 2
+https://cache-movie.all-movie.tv/hls/content/nas03/movie33/inter/American-Pie-Collection/American-Pie-2_T.mp4/index.m3u8?st=Wt6W5C3PO92TvubM3Qbq2Q&e=1611599736&u=AllMovie
+
+#EXTINF:-1 group-title="American Pie Collection" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/14c2eda660dfbef2218360f93e6073bf.jpg",Episode 3 The Wedding
+https://cache-movie.all-movie.tv/hls/content/nas03/movie33/inter/American-Pie-Collection/American-Pie-3_T.mp4/index.m3u8?st=Wt6W5C3PO92TvubM3Qbq2Q&e=1611599736&u=AllMovie
+
+#EXTINF:-1 group-title="American Pie Collection" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/5bf13bee872e0fba9ec97312854529c5.jpg",Episode 4 Reunion
+https://cache-movie.all-movie.tv/hls/content/nas03/movie33/inter/American-Pie-Collection/American-Pie-4_T.mp4/index.m3u8?st=Wt6W5C3PO92TvubM3Qbq2Q&e=1611599736&u=AllMovie
+
+#EXTINF:-1 group-title="American Pie Collection" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/489fbd5b4197bb23bb83b1e1d5cfe8e2.jpg",Episode 5 Band Camp
+https://cache-movie.all-movie.tv/hls/content/nas03/movie33/inter/American-Pie-Collection/American-Pie-5_T.mp4/index.m3u8?st=Wt6W5C3PO92TvubM3Qbq2Q&e=1611599736&u=AllMovie
+
+#EXTINF:-1 group-title="American Pie Collection" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/078fc794a9b1ea568b78d3654f0e5794.jpg",Episode 6 The Naked Mile
+https://cache-movie.all-movie.tv/hls/content/nas03/movie33/inter/American-Pie-Collection/American-Pie-6_T.mp4/index.m3u8?st=Wt6W5C3PO92TvubM3Qbq2Q&e=1611599736&u=AllMovie
+
+#EXTINF:-1 group-title="American Pie Collection" tvg-logo="https://www.zmoviehd.com/wp-content/uploads/2020/09/American-Pie-6-2007.jpg",Episode 7 Beta House
+https://www.zmoviehd.com/american-pie-6-presents-beta-house-2007/
+
+#EXTINF:-1 group-title="American Pie Collection" tvg-logo="https://www.zmoviehd.com/wp-content/uploads/2020/09/American-Pie-7-2009.jpg",Episode 8 The Book of Love
+https://www.zmoviehd.com/american-pie-7-presents-the-book-of-love-2009/
+
+#EXTINF:-1 group-title="American Pie Collection" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1601519475_01.jpg",Episode 9 Girls Rules
+https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/American_Pie_Presents_Girls_Rules_2020/American_Pie_Presents_Girls_Rules_2020_SE.mp4/index.m3u8?st=Wt6W5C3PO92TvubM3Qbq2Q&e=1611599736&u=AllMovie
 -------------------------------------------------------------------------------Stairway to Heaven----------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Stairway to Heaven ฝากรักไว้ที่ปลายฟ้า" tvg-logo="https://nungdeeded.com/images/gallerys/20180718114008_1.jpg",EP.1

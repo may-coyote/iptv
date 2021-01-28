@@ -163,6 +163,9 @@ https://www.doomovie-hd.com/?r=tv_view&id=39
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (EN)
 https://www.doomovie-hd.com/?r=tv_view&id=38
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (EN)
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies (TH)
 https://www.doomovie-hd.com/?r=tv_view&id=36
 
@@ -332,6 +335,9 @@ https://we-play.tv/watching/tv/lovenature-4k
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://imgcloud.fwiptv.cc/postor/20200314124605Discovery%20Channel.jpg",Discovery Channel
 https://we-play.tv/watching/tv/discovery-channel
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://imgcloud.fwiptv.cc/postor/20200314124605Discovery%20Channel.jpg",Discovery Channel
+https://laos-tech-live.b-cdn.net/sd-discovery_720/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://sv1.picz.in.th/images/2020/12/17/juBAvq.jpg",Discovery Asia
 https://we-play.tv/watching/tv/discovery-asia
@@ -1139,6 +1145,14 @@ https://www.all-movie.tv/Avengers%20Infinity%20War
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1556167682_avengers-endgame_cpver.jpg",The Avengers End Game (2019)
 https://www.all-movie.tv/Avengers%20EndGame
+
+-------------------------------------------------------------------------------------VOD Special-----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png",Phychosex
+https://video1.tizam.cc/old_films/PsychoSex4RUS.mp4
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png",Pregrada dlya
+https://video1.tizam.cc/new_films/pregrada_dlya_lyubvi.mp4
 
 -------------------------------------------------------------------------------------James Bond 007----------------------------------------------------------------------------------
 

@@ -566,6 +566,9 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609044723_1.jpg",Wonder Woman 1984 (2020)
+https://www.all-movie.tv/Wonder%20Woman%201984%20%282020%29
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606019956_1.jpg",Lone Survivor ปฏิบัติการพิฆาตสมรภูมิเดือด (2014)
 https://www.all-movie.tv/Lone%20Survivor%20%282013%29
 
@@ -664,9 +667,6 @@ https://www.all-movie.tv/The%20Climb%20%282019%29
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610439681_1.jpg",The Judge สู้เพื่อพ่อ (2014)
 https://www.all-movie.tv/The%20Judge%20%282014%29
-
-#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609044723_1.jpg",Wonder Woman 1984 (2020)
-https://www.all-movie.tv/Wonder%20Woman%201984%20%282020%29
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610166727_1.jpg",The Kid Detective (2020)
 https://www.all-movie.tv/The%20Kid%20Detective%20%282020%29

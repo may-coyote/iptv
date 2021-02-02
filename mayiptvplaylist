@@ -122,6 +122,9 @@ https://bettopfivemovie.com/voice-tv/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/voice.png",Voice TV
 https://www.doo2you.com/voice-tv/
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.altv.tv/_nuxt/img/92802e3.png",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
 ---------------------------------------------------------------------------------------Movies--------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
@@ -156,9 +159,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
 https://we-play.tv/watching/tv/cinemax
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (TH)
-https://www.doomovie-hd.com/?r=tv_view&id=39
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (EN)
 https://www.doomovie-hd.com/?r=tv_view&id=38
@@ -256,6 +256,9 @@ https://www.doomovie-hd.com/?r=tv_view&id=234
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/thrill.png",Thrill
 https://www.fwiptv.cc/player_demo.php?channel=718
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png",Kix
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/BvY9tl2.png",FWMOV
 https://www.fwiptv.cc/player_demo.php?channel=89782",referer:"
 
@@ -290,6 +293,9 @@ https://we-play.tv/watching/tv/tlc-hd
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
 https://we-play.tv/watching/tv/true-xzyte
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
+http://160.119.77.116:8081/iptv/hd-xzyte.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/Wvbm898YxA0lFGJH38ncypj3VyRH82Pebf1NRb7b.png",True Music
 https://doomovie.com/live/true-music
@@ -565,6 +571,21 @@ https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610782891_1.jpg",Sicario (2015)
+http://all-movie.tv/Sicario%20%282015%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1611125243_1.jpg",The Girl with the Dragon Tattoo (2019)
+http://all-movie.tv/The%20Girl%20with%20the%20Dragon%20Tattoo%20%282011%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1611644284_1.jpg",Transit 17 (2019)
+http://all-movie.tv/Transit%2017%20%282019%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1612065848_1.jpg",Sisters in Arms (2019)
+http://all-movie.tv/Sisters%20in%20Arms%20%282019%29
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1612079411_1.jpg",The Art of The Steal (2014)
+http://all-movie.tv/The%20Art%20of%20The%20Steal%20%282013%29
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1609044723_1.jpg",Wonder Woman 1984 (2020)
 https://www.all-movie.tv/Wonder%20Woman%201984%20%282020%29
@@ -874,9 +895,6 @@ https://www.all-movie.tv/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1554362689_cover9.jpg",จันดารา ปัจฉิมบท (Uncut Version) (2013)
 https://www.all-movie.tv/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%20%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9A%E0%B8%97%20%28Uncut%20Version%29
 
-#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1570445487_cover1.jpg",หอ หึ หึ (1992)
-https://www.all-movie.tv/%E0%B8%AB%E0%B8%AD%20%E0%B8%AB%E0%B8%B6%20%E0%B8%AB%E0%B8%B6
-
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1545124294_2499.png",2499 อันธพาลครองเมือง (1997)
 https://www.all-movie.tv/2499%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%9E%E0%B8%B2%E0%B8%A5%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87
 
@@ -1148,11 +1166,41 @@ https://www.all-movie.tv/Avengers%20EndGame
 
 -------------------------------------------------------------------------------------VOD Special-----------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="VOD Special" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png",Phychosex
-https://video1.tizam.cc/old_films/PsychoSex4RUS.mp4
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
 
-#EXTINF:-1 group-title="VOD Special" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png",Pregrada dlya
-https://video1.tizam.cc/new_films/pregrada_dlya_lyubvi.mp4
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Anal
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 group-title="VOD Special" tvg-logo="http://adultiptv.net/lists/logo.png",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
 
 -------------------------------------------------------------------------------------James Bond 007----------------------------------------------------------------------------------
 

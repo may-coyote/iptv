@@ -152,45 +152,33 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://we-play.tv/watching/tv/hbo-family
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
 https://we-play.tv/watching/tv/red-by-hbo
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
 https://we-play.tv/watching/tv/cinemax
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
 https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
-https://www.doomovie-hd.com/?r=tv_view&id=38
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
-http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+https://www.doomovie-hd.com/?r=tv_view&id=38
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies 
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies 
-https://www.doomovie-hd.com/?r=tv_view&id=36
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies 
 https://www.doo2you.com/fox-action-movies/
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies (EN)
-https://www.we-play.tv/watching/tv/fox-action-movies
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies (TH)
-https://www.doomovie-hd.com/?r=tv_view&id=125
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies (EN)
-https://www.doomovie-hd.com/?r=tv_view&id=126
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies (EN)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies
 https://www.we-play.tv/watching/tv/fox-family-movies
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
@@ -204,9 +192,6 @@ https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/20170709090502720443899.jpg",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV (TH)
-https://doomovie.com/live/warner-tv-hd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV (EN)
 https://we-play.tv/watching/tv/warner-tv
@@ -223,7 +208,7 @@ https://we-play.tv/watching/tv/true-film-hd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/pGi0l8Sh2X4kKwII7p23aqyX58nhiIAFAKL5a9C1.png",True Film HD 2
 https://doomovie.com/live/film-hd-2
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/truethaifirm.png",True Thai Film
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/truethaifirm.png",True Thai Film HD
 https://www.doo2you.com/true-film-hd/
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/25/Rounded_20201125_085433.png",True Series
@@ -243,12 +228,6 @@ https://www.doo2you.com/tvb-thai/
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",TVB ไทย
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",Paramount Channel
-https://we-play.tv/watching/tv/paramount-channel
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM
-https://we-play.tv/watching/tv/ccm
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM
 https://www.doofree88.com/live/celestial-classic-movies
@@ -277,28 +256,13 @@ https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b
 #EXTINF:-1 group-title="Movies" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-atlantic-1.png",Sky Atlantic
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/sky-atlantic-uk/
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg",Sanook Movies
-http://61.19.242.134/feed/LC53/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://f.ptcdn.info/741/071/000/qkd09u11hsoYgyO0be6c-o.jpg",Samurai Movies
-http://61.19.242.134/feed/LC2/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png",Box Film
-http://61.19.242.134/feed/LC52/index.m3u8
-
 -------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD
-https://we-play.tv/watching/tv/history-hd
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD
-https://doomovie.com/live/history
+https://laos-tech-live.b-cdn.net/hd-history_720/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",History H2
-https://we-play.tv/watching/tv/history-h2
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",History H2
-https://doomovie.com/live/h2
+https://laos-tech-live.b-cdn.net/hd-history2_720/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
 https://www.doo2you.com/true-x-zyte/

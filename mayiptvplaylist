@@ -187,6 +187,12 @@ https://www.doo2you.com/fox-thai/
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
 https://www.we-play.tv/watching/tv/fox-thai
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV
+https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/IadKP0HGGKXjQXKNj8ZCW4Kk4hT6PwhCbWVD9fMP.png",True Film Asia HD
+https://tv.trueid.net/live/film-asia-hd
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/20170709090502720443899.jpg",CTB
 https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
 
@@ -203,10 +209,13 @@ https://www.doo2you.com/axn/
 https://laos-tech-live.b-cdn.net/hd-axn_720/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
+https://laos-tech-live.b-cdn.net/hd-tfilm_720/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
 https://we-play.tv/watching/tv/true-film-hd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/pGi0l8Sh2X4kKwII7p23aqyX58nhiIAFAKL5a9C1.png",True Film HD 2
-https://doomovie.com/live/film-hd-2
+https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/truethaifirm.png",True Thai Film HD
 https://www.doo2you.com/true-film-hd/
@@ -256,6 +265,9 @@ https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b
 #EXTINF:-1 group-title="Movies" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-atlantic-1.png",Sky Atlantic
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/sky-atlantic-uk/
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/thrill.png",Thrill
+https://laos-tech-live.b-cdn.net/sd-thrill_480/index.m3u8
+
 -------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD
@@ -277,7 +289,7 @@ https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
 https://we-play.tv/watching/tv/tlc-hd
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/Wvbm898YxA0lFGJH38ncypj3VyRH82Pebf1NRb7b.png",True Music
-https://www.doofree88.com/live/true-music
+https://laos-tech-live.b-cdn.net/sd-tmusic_480/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png",Fox Life
 https://we-play.tv/watching/tv/fox-life
@@ -508,20 +520,26 @@ https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
 https://laos-tech-live.b-cdn.net/sd-sparkplay_480/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
-https://doomovie.com/live/spark-jump
+#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
+http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
-https://we-play.tv/watching/tv/true-spark-jump
+https://laos-tech-live.b-cdn.net/sd-sparkjump_480/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
+http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",Disney Channel
-http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8
+https://laos-tech-live.b-cdn.net/hd-disneyxd_720/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
 https://we-play.tv/watching/tv/cartoon-club
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doofree88.com/storage/live/iW7cw2A5stB1jEd8hYLxCXCemtkKZV48TrspkreI.png",Nick Jr.
+https://laos-tech-live.b-cdn.net/sd-nickjr_480/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1280px-Animax_logo.svg.png",Animax
 http://61.19.242.134/feed/LC38/index.m3u8

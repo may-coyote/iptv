@@ -146,6 +146,9 @@ https://we-play.tv/watching/tv/hbo-signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
 https://we-play.tv/watching/tv/hbo-family
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
@@ -259,11 +262,8 @@ https://www.fwiptv.cc/player_demo.php?channel=718
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png",Kix
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/BvY9tl2.png",FWMOV
-https://www.fwiptv.cc/player_demo.php?channel=89782",referer:"
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/bYGohUG.png",FWSOV
-https://www.fwiptv.cc/player_demo.php?channel=89781",referer:"
+#EXTINF:-1 group-title="Movies" tvg-logo="data:image/png;base64,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",&flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-movies-hd-premiere.png",Sky Movies HD Premiere
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/sky-movies-premiere/
@@ -323,6 +323,9 @@ https://we-play.tv/watching/tv/asian-food-channel
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/24_Blue_Ant_Ent.png",Blueant Entertainment
 https://we-play.tv/watching/tv/blueant-entertainment
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/24_Blue_Ant_Ent.png",Blueant Entertainment
+https://doofootball.livestream-cdn.com/iptv/hd-rtlcbs.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/25_Blue_Ant_Ex.png",Blueant Extreme
 https://we-play.tv/watching/tv/blueant-extreme
@@ -500,6 +503,18 @@ https://www.doo2you.com/sky-sports-main-event/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsBundesliga1.png",Sky Sports Bundesliga
 https://www.doo2you.com/sky-bundesliga/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/astro1.png",Astro Super Sports 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/astro2.png",Astro Super Sports 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/astro3.png",Astro Super Sports 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/Rounded_20201110_093002.png",Astro Super Sports 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
 ---------------------------------------------------------------------------------------Kids----------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",Cartoon Network
@@ -652,6 +667,39 @@ http://cdn.adultiptv.net/Lesbian.m3u8
 
 #EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Stepmom
 http://cdn.adultiptv.net/stepmom.m3u8
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 1 AV
+http://uotv.gearhostpreview.com/av.php?id=1
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 2 AV
+http://uotv.gearhostpreview.com/av.php?id=2
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 3 AV
+http://uotv.gearhostpreview.com/av.php?id=3
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 4 AV
+http://uotv.gearhostpreview.com/av.php?id=4
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 5 AV
+http://uotv.gearhostpreview.com/av.php?id=5
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 6 AV
+http://uotv.gearhostpreview.com/av.php?id=6
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 7 AV
+http://uotv.gearhostpreview.com/av.php?id=7
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 8 AV
+http://uotv.gearhostpreview.com/av.php?id=8
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 9 AV
+http://uotv.gearhostpreview.com/av.php?id=9
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 10 AV
+http://uotv.gearhostpreview.com/av.php?id=10
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Extasy/LeoTV HD
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 

@@ -163,16 +163,22 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
 https://we-play.tv/watching/tv/cinemax
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (EN)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
+https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
 https://www.doomovie-hd.com/?r=tv_view&id=38
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (EN)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
 http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies (TH)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies 
+https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies 
 https://www.doomovie-hd.com/?r=tv_view&id=36
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies (EN)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies 
 https://www.doo2you.com/fox-action-movies/
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies (EN)
@@ -207,6 +213,9 @@ https://we-play.tv/watching/tv/warner-tv
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/AXNHD.png",AXN HD
 https://www.doo2you.com/axn/
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/AXNHD.png",AXN HD
+https://laos-tech-live.b-cdn.net/hd-axn_720/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
 https://we-play.tv/watching/tv/true-film-hd
@@ -256,9 +265,6 @@ http://77.83.117.60:8888/02_HITSMOVIE_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITSMOVIE.png",Hits Movies
 https://www.doomovie-hd.com/?r=tv_view&id=234
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/thrill.png",Thrill
-https://www.fwiptv.cc/player_demo.php?channel=718
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png",Kix
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
@@ -299,6 +305,9 @@ https://www.doo2you.com/true-x-zyte/
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
 https://www.doofree88.com/live/x-zyte-hd
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",TLC
 https://we-play.tv/watching/tv/tlc-hd
@@ -342,6 +351,9 @@ https://we-play.tv/watching/tv/tvn
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",TVN
 https://www.doofree88.com/live/tvn
 
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",TVN
+https://laos-tech-live.b-cdn.net/hd-tvn_480/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="data:image/jpeg;base64,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",Crime+ Investigation
 http://61.19.242.134/feed/LC43/index.m3u8
 
@@ -361,10 +373,16 @@ https://we-play.tv/watching/tv/discovery-channel
 https://laos-tech-live.b-cdn.net/sd-discovery_720/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://sv1.picz.in.th/images/2020/12/17/juBAvq.jpg",Discovery Asia
-https://we-play.tv/watching/tv/discovery-asia
+https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
+https://laos-tech-live.b-cdn.net/hd-natgeowild_720/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
 https://we-play.tv/watching/tv/nat-geo-wild
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/46_National_Geographic_HD.png",National Geographic
+https://laos-tech-live.b-cdn.net/hd-natgeowild_720/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/46_National_Geographic_HD.png",National Geographic
 https://we-play.tv/watching/tv/national-geographic
@@ -376,13 +394,25 @@ https://www.doo2you.com/national-geographic-hd/
 https://www.doo2you.com/bbc-life-style/
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth
+https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth
 https://doomovie.com/live/bbc-earth
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",True Explore Life
+https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",True Explore Life
 https://www.doofree88.com/live/explore-life
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",True Explore SCi
+https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",True Explore SCi
 https://www.doofree88.com/live/explore-sci
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",True Explore Wild
+https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",True Explore Wild
 https://www.doofree88.com/live/explore-wild
@@ -523,6 +553,9 @@ https://we-play.tv/watching/tv/cartoon-network
 #EXTINF:-1 group-title="Kids" tvg-logo="https://sv1.picz.in.th/images/2020/12/18/juaKtS.jpg",Boomerang
 http://27.254.130.61/live01/ch18.m3u8?p=st
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://sv1.picz.in.th/images/2020/12/18/juaKtS.jpg",Boomerang
+https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
 https://doomovie.com/live/spark-play
 
@@ -539,6 +572,9 @@ https://we-play.tv/watching/tv/true-spark-jump
 http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
 https://we-play.tv/watching/tv/cartoon-club
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1280px-Animax_logo.svg.png",Animax
@@ -546,9 +582,6 @@ http://61.19.242.134/feed/LC38/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0175_long.png",Aniplus
 https://we-play.tv/watching/tv/aniplus
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/eQHvpkV.png",FWTOON
-https://www.fwiptv.cc/player_demo.php?channel=89780",referer:"
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/28/Rounded_20201128_145033.png",Toonee
 https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8

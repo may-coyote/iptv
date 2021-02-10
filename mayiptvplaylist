@@ -3,31 +3,52 @@
 ----------------------------------------------------------------------------------Digital TV---------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/3hd.png",3 HD
+https://laos-tech-live.b-cdn.net/hd-ch3_720/index.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/3hd.png",3 HD
 https://www.doo2you.com/ch3-hd/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/5hd.png",5 HD
+https://laos-tech-live.b-cdn.net/hd-ch5_720/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/5hd.png",5 HD
 https://www.doo2you.com/ch5-hd/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/7hd.png",7 HD
+https://laos-tech-live.b-cdn.net/hd-ch7_720/index.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/7hd.png",7 HD
 https://www.doo2you.com/ch7-hd/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/mcothd.png",MCOT HD
+https://laos-tech-live.b-cdn.net/hd-mcot_720/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/mcothd.png",MCOT HD
 https://www.doo2you.com/mcot-hd/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nbt.png",NBT
+https://laos-tech-live.b-cdn.net/sd-nbt_720/index.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nbt.png",NBT
 https://www.doo2you.com/nbt/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/tpbs.png",Thai PBS
+https://laos-tech-live.b-cdn.net/hd-tpbs_720/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/tpbs.png",Thai PBS
 https://www.doo2you.com/thai-pbs/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/TNN24.png",TNN 16
-https://www.doo2you.com/tnn16/
+https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/TNN24.png",TNN 16
-https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/chunks.m3u8
+https://www.doo2you.com/tnn16/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
+https://laos-tech-live.b-cdn.net/sd-24u_480/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/newtv.png",NEW TV
 http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8
@@ -42,7 +63,13 @@ https://www.doo2you.com/workpoint-tv/
 https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nation.png",Nation Channel
+https://laos-tech-live.b-cdn.net/sd-nation_480/index.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nation.png",Nation Channel
 https://www.doo2you.com/nation/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/one.png",One HD
+https://laos-tech-live.b-cdn.net/hd-gmmone_720/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/one.png",One HD
 https://www.doo2you.com/one/
@@ -51,19 +78,28 @@ https://www.doo2you.com/one/
 https://www.doo2you.com/ch-8/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/8.png",CH 8
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+https://laos-tech-live.b-cdn.net/hd-ch8_480/index.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/thairath.png",ไทยรัฐ TV
+https://laos-tech-live.b-cdn.net/hd-thairath_720/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/thairath.png",ไทยรัฐ TV
 https://www.doo2you.com/thairath/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/amarin.png",Amarin TV
+https://laos-tech-live.b-cdn.net/hd-amarin_720/index.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/amarin.png",Amarin TV
 https://www.doo2you.com/amarin-tv/
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/pptv.png",PPTV HD
+https://laos-tech-live.b-cdn.net/hd-pptv_720/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/pptv.png",PPTV HD
 https://www.doo2you.com/pptv/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
-http://27.254.130.61/live01/ch11.m3u8?p=st
+https://laos-tech-live.b-cdn.net/sd-gmmchannel_480/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
 https://doomovie.com/live/gmm-channel
@@ -72,7 +108,7 @@ https://doomovie.com/live/gmm-channel
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/mono29.png",Mono 29
-https://bettopfivemovie.com/mono-29/
+https://laos-tech-live.b-cdn.net/hd-mono_480/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/new1logo.png",News 1
 https://server1.streamssl.com/stream/news1_hi.m3u8
@@ -152,6 +188,9 @@ https://laos-tech-live.b-cdn.net/hd-tfilm_720/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/truethaifirm.png",True Thai Film HD
+https://laos-tech-live.b-cdn.net/sd-thaifilm_480/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/truethaifirm.png",True Thai Film HD
 https://www.doo2you.com/true-film-hd/
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/25/Rounded_20201125_085433.png",True Series
@@ -171,6 +210,9 @@ https://www.doo2you.com/tvb-thai/
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",TVB ไทย
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM
+https://laos-tech-live.b-cdn.net/sd-celestial_480/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM
 https://www.doofree88.com/live/celestial-classic-movies
@@ -279,55 +321,58 @@ https://www.doofree88.com/live/explore-wild
 https://www.doo2you.com/true-premier-hd-1/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True Premier Football HD 1
-https://www.doo2you.com/true-premier-hd-1-backup/
+https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True Premier Football HD 2
 https://www.doo2you.com/true-premier-hd-2/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True Premier Football HD 2
-https://doomovie.com/live/premier-football-hd-2
+https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True Premier Football HD 3
 https://www.doo2you.com/true-premier-hd-3/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True Premier Football HD 3
-https://doomovie.com/live/premier-football-hd-3
+https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True Premier Football HD 4
 https://www.doo2you.com/true-premier-hd-4/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True Premier Football HD 4
-https://doomovie.com/live/premier-football-hd-4
+https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png",True Premier Football HD 5
-https://doomovie.com/live/premier-football-hd-5
+https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png",True Premier Football HD 5
 https://doofootball.livestream-cdn.com/iptv/epl-5.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd1.png",True Sports HD 1
-https://we-play.tv/watching/tv/true-sports-hd
+https://laos-tech-live.b-cdn.net/hd-tsport1_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd2.png",True Sports HD 2
-https://we-play.tv/watching/tv/true-sports-hd-2
+https://laos-tech-live.b-cdn.net/hd-tsport2_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd3.png",True Sports HD 3
-https://we-play.tv/watching/tv/true-sports-hd-3
+https://laos-tech-live.b-cdn.net/hd-tsport3_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/tsphd4.png",True Sports HD 4
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport2.png",True Sports 2
+https://laos-tech-live.b-cdn.net/sd-tsport2_480/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport2.png",True Sports 2
 https://www.doo2you.com/true-sport-2/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport5.png",True Sports 5
-https://we-play.tv/watching/tv/true-sports-5
+https://laos-tech-live.b-cdn.net/sd-tsport5_480/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport6.png",True Sports 6
-https://we-play.tv/watching/tv/true-sports-6
+https://laos-tech-live.b-cdn.net/sd-tsport6_480/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport7.png",True Sports 7
-https://we-play.tv/watching/tv/true-sports-7
+https://laos-tech-live.b-cdn.net/sd-tsport7_480/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSportTennis.png",True Tennis HD
 https://www.doo2you.com/true-sport-tennis/
@@ -361,9 +406,6 @@ https://www.doo2you.com/bt-sports-2/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/BTSport3HD.png",BT Sports HD 3
 https://www.doo2you.com/bt-sports-3/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",3BB Sports 1
-https://we-play.tv/watching/tv/3bb-sports-1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsEpl.png",Sky Sports EPL
 https://www.doo2you.com/sky-sports-epl/

@@ -128,22 +128,37 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 ---------------------------------------------------------------------------------------Movies--------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hbo-hd/chunks.m3u8?nimblesessionid=40744811&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIxIDQ6NDA6NTMgQU0maGFzaF92YWx1ZT1tSE1FdDNTVmdHS2t0S3FzYnRSMEFnPT0mdmFsaWRtaW51dGVzPTIw
+https://we-play.tv/watching/tv/hbo-hd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
+https://we-play.tv/watching/tv/hbo-hits
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBO Signature
+https://we-play.tv/watching/tv/hbo-signature
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
+https://we-play.tv/watching/tv/hbo-family
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
+https://we-play.tv/watching/tv/red-by-hbo
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
+https://we-play.tv/watching/tv/cinemax
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
@@ -167,6 +182,9 @@ https://www.doo2you.com/fox-action-movies/
 https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
+https://we-play.tv/watching/tv/fox-thai
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
 https://www.doo2you.com/fox-thai/
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV
@@ -179,10 +197,10 @@ https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/AXNHD.png",AXN HD
-https://www.doo2you.com/axn/
+https://laos-tech-live.b-cdn.net/hd-axn_720/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/AXNHD.png",AXN HD
-https://laos-tech-live.b-cdn.net/hd-axn_720/index.m3u8
+https://www.doo2you.com/axn/
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
 https://laos-tech-live.b-cdn.net/hd-tfilm_720/index.m3u8
@@ -249,14 +267,17 @@ https://laos-tech-live.b-cdn.net/sd-thrill_480/index.m3u8
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD
 https://laos-tech-live.b-cdn.net/hd-history_720/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History HD
+https://we-play.tv/watching/tv/history-hd
+
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",History H2
 https://laos-tech-live.b-cdn.net/hd-history2_720/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
-https://www.doo2you.com/true-x-zyte/
+https://laos-tech-live.b-cdn.net/hd-xzyte_720/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
-https://www.doofree88.com/live/x-zyte-hd
+https://www.doo2you.com/true-x-zyte/
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
 https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
@@ -286,6 +307,9 @@ http://61.19.242.134/feed/LC32/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-discovery_720/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://sv1.picz.in.th/images/2020/12/17/juBAvq.jpg",Discovery Asia
+https://laos-tech-live.b-cdn.net/hd-discovery_720/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://sv1.picz.in.th/images/2020/12/17/juBAvq.jpg",Discovery Asia
 https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
@@ -304,45 +328,45 @@ https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",True Explore Life
-https://www.doofree88.com/live/explore-life
+https://laos-tech-live.b-cdn.net/sd-explife_480/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",True Explore SCi
 https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",True Explore SCi
-https://www.doofree88.com/live/explore-sci
+https://laos-tech-live.b-cdn.net/sd-expsci_480/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",True Explore Wild
 https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",True Explore Wild
-https://www.doofree88.com/live/explore-wild
+https://laos-tech-live.b-cdn.net/sd-expwild_480/index.m3u8
 
 ---------------------------------------------------------------------------------------Sports------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True Premier Football HD 1
-https://www.doo2you.com/true-premier-hd-1/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True Premier Football HD 1
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True Premier Football HD 2
-https://www.doo2you.com/true-premier-hd-2/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True Premier Football HD 1
+https://www.doo2you.com/true-premier-hd-1/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True Premier Football HD 2
 https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True Premier Football HD 3
-https://www.doo2you.com/true-premier-hd-3/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True Premier Football HD 2
+https://www.doo2you.com/true-premier-hd-2/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True Premier Football HD 3
 https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True Premier Football HD 4
-https://www.doo2you.com/true-premier-hd-4/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True Premier Football HD 3
+https://www.doo2you.com/true-premier-hd-3/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True Premier Football HD 4
 https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True Premier Football HD 4
+https://www.doo2you.com/true-premier-hd-4/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png",True Premier Football HD 5
 https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
@@ -360,7 +384,7 @@ https://laos-tech-live.b-cdn.net/hd-tsport2_720/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-tsport3_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/tsphd4.png",True Sports HD 4
-http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
+https://laos-tech-live.b-cdn.net/hd-tsport4_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport2.png",True Sports 2
 https://laos-tech-live.b-cdn.net/sd-tsport2_480/index.m3u8
@@ -379,6 +403,9 @@ https://laos-tech-live.b-cdn.net/sd-tsport7_480/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSportTennis.png",True Tennis HD
 https://www.doo2you.com/true-sport-tennis/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/NBAPremiumTVHD.png",NBA TV
+https://laos-tech-live.b-cdn.net/hd-nba_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/NBAPremiumTVHD.png",NBA TV
 https://www.doo2you.com/nba-premium-tv/
@@ -470,6 +497,9 @@ http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 https://laos-tech-live.b-cdn.net/hd-disneyxd_720/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
+https://laos-tech-live.b-cdn.net/sd-cartoonclub_480/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doofree88.com/storage/live/iW7cw2A5stB1jEd8hYLxCXCemtkKZV48TrspkreI.png",Nick Jr.
@@ -530,6 +560,39 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------TV Special-----------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Extasy/LeoTV HD
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 1 AV
+http://uotv.gearhostpreview.com/av.php?id=1
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 2 AV
+http://uotv.gearhostpreview.com/av.php?id=2
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 3 AV
+http://uotv.gearhostpreview.com/av.php?id=3
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 4 AV
+http://uotv.gearhostpreview.com/av.php?id=4
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 5 AV
+http://uotv.gearhostpreview.com/av.php?id=5
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 6 AV
+http://uotv.gearhostpreview.com/av.php?id=6
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 7 AV
+http://uotv.gearhostpreview.com/av.php?id=7
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 8 AV
+http://uotv.gearhostpreview.com/av.php?id=8
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 9 AV
+http://uotv.gearhostpreview.com/av.php?id=9
+
+#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 10 AV
+http://uotv.gearhostpreview.com/av.php?id=10
+
 #EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",MILF
 http://cdn.adultiptv.net/milf.m3u8
 
@@ -565,39 +628,6 @@ http://cdn.adultiptv.net/fetish.m3u8
 
 #EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 1 AV
-http://uotv.gearhostpreview.com/av.php?id=1
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 2 AV
-http://uotv.gearhostpreview.com/av.php?id=2
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 3 AV
-http://uotv.gearhostpreview.com/av.php?id=3
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 4 AV
-http://uotv.gearhostpreview.com/av.php?id=4
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 5 AV
-http://uotv.gearhostpreview.com/av.php?id=5
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 6 AV
-http://uotv.gearhostpreview.com/av.php?id=6
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 7 AV
-http://uotv.gearhostpreview.com/av.php?id=7
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 8 AV
-http://uotv.gearhostpreview.com/av.php?id=8
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 9 AV
-http://uotv.gearhostpreview.com/av.php?id=9
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Asia 10 AV
-http://uotv.gearhostpreview.com/av.php?id=10
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",Extasy/LeoTV HD
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
@@ -1092,22 +1122,22 @@ https://www.all-movie.tv/Transporter%203
 https://www.all-movie.tv/Transporter%204
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.biggmovienow.com/wp-content/uploads/2019/11/Mission-Impossible-1.jpg",Mission Impossible 1 (1996)
-https://www.doonung1234.com/movie/view/1143/Mission-Impossible-1--%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-(1996)
+https://cache-movie.all-movie.tv/hls/content/nas01/movie/eng/chunklist_wmeng3827.MP4/index.m3u8?st=6iVJek3PHP3g5J0Sc6LbWA&e=1613065537&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://www.biggmovienow.com/wp-content/uploads/2019/11/Mission-Impossible-2.jpg",Mission Impossible 2 (2000)
-https://www.doonung1234.com/movie/view/1144/Mission-Impossible-2-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-(2000)
+https://cache-movie.all-movie.tv/hls/content/nas01/movie/eng/chunklist_wmeng3829.MP4/index.m3u8?st=6iVJek3PHP3g5J0Sc6LbWA&e=1613065537&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cy.lnwfile.com/slvp2u.jpg",Mission Impossible 3 (2006)
-https://www.doonung1234.com/movie/view/1145/Mission-Impossible-3-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-(2006)
+https://cache-movie.all-movie.tv/hls/content/nas01/movie/eng/chunklist_wmeng3831.MP4/index.m3u8?st=6iVJek3PHP3g5J0Sc6LbWA&e=1613065537&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://movie285.com/wp-content/uploads/2019/04/107.jpg",Mission Impossible 4 (2011)
-https://www.doonung1234.com/movie/view/1146/Mission-Impossible-4-Ghost-Protocol-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2-(2011)
+https://cache-movie.all-movie.tv/hls/content/nas01/movie/eng/chunklist_wmeng3833.MP4/index.m3u8?st=6iVJek3PHP3g5J0Sc6LbWA&e=1613065537&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://moviedoofree.com/uploads/images/vrpt8meie34c4844o.png",Mission Impossible 5 (2015)
-https://www.doonung1234.com/movie/view/1147/Mission-Impossible-5-Rogue-Nation-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-5-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AD%E0%B8%B3%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%87-(2015)-(2160P)
+https://cache-movie.all-movie.tv/hls/content/nas01/movie/eng/chunklist_wmeng3471.MP4/index.m3u8?st=6iVJek3PHP3g5J0Sc6LbWA&e=1613065537&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://i.pinimg.com/736x/db/97/2a/db972a653f05bf7377f01c6b6f90f154.jpg",Mission Impossible 6 (2018)
-https://www.doonung1234.com/movie/view/994/Mission--Impossible-Fallout-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99--%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C-(2018)-[-Final-]
+https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Mission_Impossible_6_2018/Mission_Impossible_6_2018_th.mp4/index.m3u8?st=6iVJek3PHP3g5J0Sc6LbWA&e=1613065537&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://movie2uhd.com/wp-content/uploads/2019/08/f03560539529850e876296423f1755a2.jpg",Indiana Jones 1 and Raiders of The Lost Ark (1981) 
 https://www.doonung1234.com/movie/view/1134/Indiana-Jones-1-(1981)-%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%9F%E0%B9%89%E0%B8%B2-1

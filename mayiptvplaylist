@@ -289,7 +289,13 @@ https://laos-tech-live.b-cdn.net/sd-tmusic_480/index.m3u8
 https://www.doo2you.com/food-network-uk/
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/24_Blue_Ant_Ent.png",Blueant Entertainment
-https://doofootball.livestream-cdn.com/iptv/hd-rtlcbs.stream/playlist.m3u8
+https://we-play.tv/watching/tv/blueant-entertainment
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/25_Blue_Ant_Ex.png",Blueant Extreme
+https://we-play.tv/watching/tv/blueant-extreme
+
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://imgcloud.fwiptv.cc/postor/20200313173526wakuwakujapan.jpg",Waku Waku Japan
+https://we-play.tv/watching/tv/waku-waku-japan
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",TVN
 https://www.doofree88.com/live/tvn
@@ -297,11 +303,8 @@ https://www.doofree88.com/live/tvn
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",TVN
 https://laos-tech-live.b-cdn.net/hd-tvn_480/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="data:image/jpeg;base64,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",Crime+ Investigation
-http://61.19.242.134/feed/LC43/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="data:image/jpeg;base64,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",เจริญ เคเบิ้ลทีวี Channel
-http://61.19.242.134/feed/LC32/index.m3u8
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/03_Animal-Planet.jpg",Animal Planet
+https://we-play.tv/watching/tv/animal-planet
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://imgcloud.fwiptv.cc/postor/20200314124605Discovery%20Channel.jpg",Discovery Channel
 https://laos-tech-live.b-cdn.net/sd-discovery_720/index.m3u8
@@ -504,9 +507,6 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/m
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doofree88.com/storage/live/iW7cw2A5stB1jEd8hYLxCXCemtkKZV48TrspkreI.png",Nick Jr.
 https://laos-tech-live.b-cdn.net/sd-nickjr_480/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1280px-Animax_logo.svg.png",Animax
-http://61.19.242.134/feed/LC38/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/28/Rounded_20201128_145033.png",Toonee
 https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
@@ -1627,6 +1627,128 @@ https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP16-1.
 
 #EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.17
 https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP17-1.mp4/index.m3u8?st=xM6bgsFRz7ZwbpC2DVAqjw&e=1612788463&u=freemovie
+
+------------------------------------------------------------------------------Hospital Ship----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.1
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP01.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.2
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP02.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.3
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP03.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.4
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP04.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.5
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP05.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.6
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP06.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.7
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP07.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.8
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP08.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.9
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP09.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.10
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP10.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.11
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP11.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.12
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP12.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.13
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP13.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.14
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP14.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.15
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP15.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.16
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP16.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.17
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP17.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.18
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP18.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.19
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP19.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.20
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP20.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.21
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP21.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.22
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP22.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.23
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP23.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.24
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP24.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.25
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP25.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.26
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP26.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.27
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP27.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.28
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP28.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.29
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP29.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.30
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP30.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.31
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP31.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.32
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP32.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.33
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP33.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.34
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP34.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.35
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP35.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.36
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP36.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.37
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP37.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.38
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP38.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.39
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP39.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.40
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP40.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
 
 -----------------------------------------------------------------------------------โซมะยอดนักปรุง ปี 1------------------------------------------------------------------------
 

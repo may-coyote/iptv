@@ -1626,7 +1626,16 @@ https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP15-1.
 https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP16-1.mp4/index.m3u8?st=xM6bgsFRz7ZwbpC2DVAqjw&e=1612788463&u=freemovie
 
 #EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.17
-https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP17-1.mp4/index.m3u8?st=xM6bgsFRz7ZwbpC2DVAqjw&e=1612788463&u=freemovie
+https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP17-2.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.18
+https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP18-1.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.19
+https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP19-1.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
+
+#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.20 (END)
+https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP20-1.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
 
 ------------------------------------------------------------------------------Hospital Ship----------------------------------------------------------------------------------
 
@@ -1747,7 +1756,7 @@ https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP38
 #EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.39
 https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP39.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
 
-#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.40
+#EXTINF:-1 group-title="Hospital Ship" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.40 (END)
 https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP40.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
 
 -----------------------------------------------------------------------------------โซมะยอดนักปรุง ปี 1------------------------------------------------------------------------

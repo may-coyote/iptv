@@ -505,6 +505,9 @@ https://laos-tech-live.b-cdn.net/sd-nickjr_480/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/28/Rounded_20201128_145033.png",Toonee
 https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.234.in.th/images/2020/11/28/Rounded_20201128_145033.png",Tom & Jerry
+http://watch.bravo-iptv.com:8777/spider_zHFmqD/3PRYOPX8/955
+
 ---------------------------------------------------------------------------------Education----------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV1 ประถมศึกษาปีที่ 1

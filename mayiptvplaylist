@@ -59,16 +59,16 @@ http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/newtv.png",NEW TV
 https://www.doo2you.com/new-tv/
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/wp.png",Workpoint TV
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/qLrCoDW0bWCFmRh2Iea3ezDhESYET1fL4NYb9wbS.png",Workpoint TV
 https://www.doo2you.com/workpoint-tv/
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/wp.png",Workpoint TV
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/qLrCoDW0bWCFmRh2Iea3ezDhESYET1fL4NYb9wbS.png",Workpoint TV
 https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nation.png",Nation Channel
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/T80UjOlcnu52ikcZ05G40W5kPDQt5dGahCUK2F2S.png",Nation Channel
 https://laos-tech-live.b-cdn.net/sd-nation_480/index.m3u8
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nation.png",Nation Channel
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/T80UjOlcnu52ikcZ05G40W5kPDQt5dGahCUK2F2S.png",Nation Channel
 https://www.doo2you.com/nation/
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/one.png",One HD
@@ -107,11 +107,11 @@ https://laos-tech-live.b-cdn.net/sd-gmmchannel_480/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
 https://doomovie.com/live/gmm-channel
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/mono29.png",Mono 29
-https://laos-tech-live.b-cdn.net/hd-mono_480/index.m3u8
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.234.in.th/images/2020/11/17/mono29.png",Mono 29
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",Mono 29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",Mono 29
+https://laos-tech-live.b-cdn.net/hd-mono_480/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/new1logo.png",News 1
 https://www.doo2you.com/news-1/
@@ -249,7 +249,7 @@ https://laos-tech-live.b-cdn.net/hd-history_720/index.m3u8
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/history.png",History HD
 https://we-play.tv/watching/tv/history-hd
 
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",History H2
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/JDWsk9v20OtNZPSUiZ1PVCNj5hc8wRNwHGEKbcF4.png",History H2
 https://we-play.tv/watching/tv/history-h2
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
@@ -288,7 +288,7 @@ https://laos-tech-live.b-cdn.net/hd-discovery_720/index.m3u8
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://sv1.picz.in.th/images/2020/12/17/juBAvq.jpg",Discovery Asia
 https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
+#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/U84m9B0Nwx2YvL7Gjc7nMFGxdK4B5I0tmJJ9SdE0.jpg",Nat Geo Wild
 https://laos-tech-live.b-cdn.net/hd-natgeowild_720/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/46_National_Geographic_HD.png",National Geographic
@@ -359,7 +359,7 @@ https://laos-tech-live.b-cdn.net/hd-tsport2_720/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd3.png",True Sports HD 3
 https://laos-tech-live.b-cdn.net/hd-tsport3_720/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/tsphd4.png",True Sports HD 4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd4.png",True Sports HD 4
 https://laos-tech-live.b-cdn.net/hd-tsport4_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport2.png",True Sports 2
@@ -415,6 +415,9 @@ https://we-play.tv/watching/tv/bt-sport-3-hd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/BTSport3HD.png",BT Sports HD 3
 https://www.doo2you.com/bt-sports-3/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/BTSport3HD.png",BT Sports ESPN HD
+https://www.doo2you.com/doballsod/tv/54
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/SkySportsEpl.png",Sky Sports EPL
 https://www.doo2you.com/sky-sports-epl/

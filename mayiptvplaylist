@@ -613,6 +613,9 @@ http://cdn.adultiptv.net/gangbang.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1598326318_01.jpg",Ava มาแล้วฆ่า (2020)
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/M/Inter/Ava_2020/Ava_2020_TH.mp4/index.m3u8?st=nNgeaPLrASRqwORwrvlsZA&e=1614614030&u=AllMovie
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1612672223_1.jpg",Knives Out ฆาตกรรมหรรษา ใครฆ่าคุณปู่ (2019)
 https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Knives_Out_2019/Knives_Out_2019_TH.mp4/index.m3u8?st=nNgeaPLrASRqwORwrvlsZA&e=1614614030&u=AllMovie
 

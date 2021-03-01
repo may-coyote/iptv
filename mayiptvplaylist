@@ -613,6 +613,12 @@ http://cdn.adultiptv.net/gangbang.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1612672223_1.jpg",Knives Out ฆาตกรรมหรรษา ใครฆ่าคุณปู่ (2019)
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Knives_Out_2019/Knives_Out_2019_TH.mp4/index.m3u8?st=nNgeaPLrASRqwORwrvlsZA&e=1614614030&u=AllMovie
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1613803922_1.jpg",Inception จิตพิฆาตโลก (2010)
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Inception_2010/Inception_2010_TH.mp4/index.m3u8?st=nNgeaPLrASRqwORwrvlsZA&e=1614614030&u=AllMovie
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610161829_1.jpg",Monster Hunter (2021)
 https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Monster_Hunter_2021/Monster-Hunter-T.mp4/index.m3u8?st=nNgeaPLrASRqwORwrvlsZA&e=1614614030&u=AllMovie
 
@@ -887,6 +893,9 @@ https://www.all-movie.tv/The%20Christmas%20Chronicles%202%20%282020%29
 https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1612936318_1.jpg",Sky Hunter ฝูงบินเกียรติยศ (2017)
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/asia/Sky_Hunter_2017/Sky_Hunter_2017_th.mp4/index.m3u8?st=nNgeaPLrASRqwORwrvlsZA&e=1614614030&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://watchnung.com/cover/1568961699.jpg",หวานมันส์ ฉันคือเธอ ภาค 1 (1987)
 https://doomovie.online/6640/

@@ -613,8 +613,8 @@ http://cdn.adultiptv.net/gangbang.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610161829_1.jpg",Monster Hunter (2020)
-https://www.all-movie.tv/Monster%20Hunter%20(2020)
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1610161829_1.jpg",Monster Hunter (2021)
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Monster_Hunter_2021/Monster-Hunter-T.mp4/index.m3u8?st=nNgeaPLrASRqwORwrvlsZA&e=1614614030&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1547182401_cover5.jpg",Mary Poppins (1967)
 https://www.all-movie.tv/Mary%20Poppins

@@ -656,7 +656,7 @@ https://cache-movie.all-movie.tv/hls/content/nas01/mvc/m/inter/Jumanji-the-next-
 https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Asia/Godzilla_2_2019/Godzilla_2_2019_TH.mp4/index.m3u8?st=U7p0W6IFz8SjetLGyoO_7Q&e=1614794043&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://www.doofree88.com/storage/images/2021/1/i91HseW6nxdh925QZzzKj1pn7ZaYpMeXBltIeZGW.jpg",Finding Ohana (2021)
-https://laostech.b-cdn.net/SA05/evd/vd1072-Finding-Ohana-2021-HDTH.mp4/index.m3u8
+https://www.all-movie.tv/Finding%20Ohana%20(2021)
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1598326318_01.jpg",Ava มาแล้วฆ่า (2020)
 https://cache-movie.all-movie.tv/hls/content/nas06/mvc/M/Inter/Ava_2020/Ava_2020_TH.mp4/index.m3u8?st=nNgeaPLrASRqwORwrvlsZA&e=1614614030&u=AllMovie
@@ -941,6 +941,9 @@ https://www.all-movie.tv/The%20Christmas%20Chronicles%202%20%282020%29
 https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1614761483_cover4.jpg",อ้ายคนหล่อลวง (2020)
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/thai/The_Con_Heartist_2020/The_Con_Heartist_T.mp4/index.m3u8?st=U7p0W6IFz8SjetLGyoO_7Q&e=1614794043&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1612936318_1.jpg",Sky Hunter ฝูงบินเกียรติยศ (2017)
 https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/asia/Sky_Hunter_2017/Sky_Hunter_2017_th.mp4/index.m3u8?st=nNgeaPLrASRqwORwrvlsZA&e=1614614030&u=AllMovie

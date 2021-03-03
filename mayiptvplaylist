@@ -616,6 +616,12 @@ http://cdn.adultiptv.net/gangbang.m3u8
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1578378211_the-next-level_cover.jpg",Jumanji : The Next Level (2019)
+https://cache-movie.all-movie.tv/hls/content/nas01/mvc/m/inter/Jumanji-the-next-level/Jumanji-the-next-level_T.mp4/index.m3u8?st=U7p0W6IFz8SjetLGyoO_7Q&e=1614794043&u=AllMovie
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1605348237_11.jpg",Godzilla 2 (2019)
+https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Asia/Godzilla_2_2019/Godzilla_2_2019_TH.mp4/index.m3u8?st=U7p0W6IFz8SjetLGyoO_7Q&e=1614794043&u=AllMovie
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://www.doofree88.com/storage/images/2021/1/i91HseW6nxdh925QZzzKj1pn7ZaYpMeXBltIeZGW.jpg",Finding Ohana (2021)
 https://laostech.b-cdn.net/SA05/evd/vd1072-Finding-Ohana-2021-HDTH.mp4/index.m3u8
 

@@ -167,7 +167,7 @@ https://we-play.tv/watching/tv/cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://adictosalatele.com/logos/hbo2.png",HBO2
-https://24x7rn95pbmdv5ec.ezcdn462.net:8443/hls/x5r58d0omlmqph.m3u8?s=_d4CWZ3g_yElMAWnwaJ1cQ&e=1614843553
+https://24x7rn95pbmdv5ec.ezcdn462.net:8443/hls/playlist.m3u8?s=_d4CWZ3g_yElMAWnwaJ1cQ&e=1614843553
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
 https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/playlist.m3u8

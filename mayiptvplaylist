@@ -130,10 +130,10 @@ https://we-play.tv/watching/tv/topnews
 
 ---------------------------------------------------------------------------------------Movies--------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO
 https://we-play.tv/watching/tv/hbo-hd
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
@@ -166,7 +166,7 @@ https://we-play.tv/watching/tv/cinemax
 #EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://adictosalatele.com/logos/hbo2.png",HBO2
+#EXTINF:-1 group-title="Movies" tvg-logo="https://adictosalatele.com/logos/hbo2.png",HBO 2
 https://24x7rn95pbmdv5ec.ezcdn462.net:8443/hls/playlist.m3u8?s=_d4CWZ3g_yElMAWnwaJ1cQ&e=1614843553
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 

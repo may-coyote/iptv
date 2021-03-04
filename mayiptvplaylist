@@ -469,18 +469,6 @@ http://27.254.130.61/live01/ch18.m3u8?p=st
 #EXTINF:-1 group-title="Kids" tvg-logo="https://sv1.picz.in.th/images/2020/12/18/juaKtS.jpg",Boomerang
 https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
-https://laos-tech-live.b-cdn.net/sd-sparkplay_480/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/35_True_Spark_Play.png",True Spark Play
-http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
-https://laos-tech-live.b-cdn.net/sd-sparkjump_480/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/36_True_Spark_Jump.png",True Spark Jump
-http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",Disney Channel
 https://laos-tech-live.b-cdn.net/hd-disneyxd_720/index.m3u8
 

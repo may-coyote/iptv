@@ -3,37 +3,37 @@
 ----------------------------------------------------------------------------------Digital TV---------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/3hd.png",3 HD
-https://laos-tech-live.b-cdn.net/hd-ch3_720/index.m3u8
+https://laos-tech-live.b-cdn.net/hd-ch3_720/index.m3u8?token=hdgRDx92RvZOemwSqCuhUg&expires=1615261762
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/3hd.png",3 HD
 https://www.doo2you.com/doballsod/tv/13
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/5hd.png",5 HD
-https://laos-tech-live.b-cdn.net/hd-ch5_720/index.m3u8
+https://laos-tech-live.b-cdn.net/hd-ch5_720/index.m3u8?token=illREaHi1eDkuJQ1CcCyQA&expires=1615261856
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/5hd.png",5 HD
 https://www.doo2you.com/doballsod/tv/1
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/7hd.png",7 HD
-https://laos-tech-live.b-cdn.net/hd-ch7_720/index.m3u8
+https://laos-tech-live.b-cdn.net/hd-ch7_720/index.m3u8?token=CHodmlLO5eI8hqK8ltISVg&expires=1615261907
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/7hd.png",7 HD
 https://www.doo2you.com/doballsod/tv/14
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/mcothd.png",MCOT HD
-https://laos-tech-live.b-cdn.net/hd-mcot_720/index.m3u8
+https://laos-tech-live.b-cdn.net/hd-mcot_720/index.m3u8?token=j77-9ToW4XKKvfyMsy-vcA&expires=1615261954
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/mcothd.png",MCOT HD
 https://www.doo2you.com/doballsod/tv/9
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nbt.png",NBT
-https://laos-tech-live.b-cdn.net/sd-nbt_720/index.m3u8
+https://laos-tech-live.b-cdn.net/sd-nbt_720/index.m3u8?token=zjh6MOOP0qfomNbZ8Q5Y6Q&expires=1615261996
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nbt.png",NBT
 https://www.doo2you.com/doballsod/tv/3
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/tpbs.png",Thai PBS
-https://laos-tech-live.b-cdn.net/hd-tpbs_720/index.m3u8
+https://laos-tech-live.b-cdn.net/hd-tpbs_720/index.m3u8?token=FsH7UP2eaYoIKhOX6GVmGQ&expires=1615262143
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/tpbs.png",Thai PBS
 https://www.doo2you.com/doballsod/tv/12

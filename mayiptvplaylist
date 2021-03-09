@@ -8,11 +8,17 @@ https://laos-tech-live.b-cdn.net/hd-ch3_720/index.m3u8?token=hdgRDx92RvZOemwSqCu
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/3hd.png",3 HD
 https://www.doo2you.com/doballsod/tv/13
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/3hd.png",3 HD
+https://we-play.tv/watching/tv/ch3-hd
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/5hd.png",5 HD
 https://laos-tech-live.b-cdn.net/hd-ch5_720/index.m3u8?token=illREaHi1eDkuJQ1CcCyQA&expires=1615261856
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/5hd.png",5 HD
 https://www.doo2you.com/doballsod/tv/1
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/5hd.png",5 HD
+https://we-play.tv/watching/tv/ch5-hd
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/7hd.png",7 HD
 https://laos-tech-live.b-cdn.net/hd-ch7_720/index.m3u8?token=CHodmlLO5eI8hqK8ltISVg&expires=1615261907
@@ -20,11 +26,17 @@ https://laos-tech-live.b-cdn.net/hd-ch7_720/index.m3u8?token=CHodmlLO5eI8hqK8ltI
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/7hd.png",7 HD
 https://www.doo2you.com/doballsod/tv/14
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/7hd.png",7 HD
+https://we-play.tv/watching/tv/ch7-hd
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/mcothd.png",MCOT HD
 https://laos-tech-live.b-cdn.net/hd-mcot_720/index.m3u8?token=j77-9ToW4XKKvfyMsy-vcA&expires=1615261954
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/mcothd.png",MCOT HD
 https://www.doo2you.com/doballsod/tv/9
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/mcothd.png",MCOT HD
+https://we-play.tv/watching/tv/mcot-hd
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nbt.png",NBT
 https://laos-tech-live.b-cdn.net/sd-nbt_720/index.m3u8?token=zjh6MOOP0qfomNbZ8Q5Y6Q&expires=1615261996
@@ -32,26 +44,35 @@ https://laos-tech-live.b-cdn.net/sd-nbt_720/index.m3u8?token=zjh6MOOP0qfomNbZ8Q5
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nbt.png",NBT
 https://www.doo2you.com/doballsod/tv/3
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nbt.png",NBT
+https://we-play.tv/watching/tv/11-nbt
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/tpbs.png",Thai PBS
 https://laos-tech-live.b-cdn.net/hd-tpbs_720/index.m3u8?token=FsH7UP2eaYoIKhOX6GVmGQ&expires=1615262143
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/tpbs.png",Thai PBS
 https://www.doo2you.com/doballsod/tv/12
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/tpbs.png",Thai PBS
+https://we-play.tv/watching/tv/thai-pbs
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.altv.tv/_nuxt/img/92802e3.png",ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/TNN24.png",TNN 16
-https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/chunks.m3u8
+https://laos-tech-live.b-cdn.net/sd-tnn24_480/index.m3u8?token=UEnXS03oNM5sZoA7ICBwbw&expires=1615265533
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/TNN24.png",TNN 16
 https://www.doo2you.com/doballsod/tv/18
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
-http://183.182.100.184/live/true4u/chunklist.m3u8
+https://laos-tech-live.b-cdn.net/sd-24u_480/index.m3u8?token=RIkSXHwtWvDoVakJxUPepg&expires=1615265563
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
-https://laos-tech-live.b-cdn.net/sd-24u_480/index.m3u8
+https://www.doo2you.com/doballsod/tv/6
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
+https://we-play.tv/watching/tv/true4u
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/newtv.png",NEW 18
 http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8
@@ -65,17 +86,26 @@ https://www.doo2you.com/doballsod/tv/2
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/qLrCoDW0bWCFmRh2Iea3ezDhESYET1fL4NYb9wbS.png",Workpoint TV
 https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/qLrCoDW0bWCFmRh2Iea3ezDhESYET1fL4NYb9wbS.png",Workpoint TV
+https://we-play.tv/watching/tv/workpoint
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/T80UjOlcnu52ikcZ05G40W5kPDQt5dGahCUK2F2S.png",Nation Channel
 https://laos-tech-live.b-cdn.net/sd-nation_480/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/T80UjOlcnu52ikcZ05G40W5kPDQt5dGahCUK2F2S.png",Nation Channel
 https://www.doo2you.com/doballsod/tv/17
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/T80UjOlcnu52ikcZ05G40W5kPDQt5dGahCUK2F2S.png",Nation Channel
+https://we-play.tv/watching/tv/nationtv
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/one.png",One HD
 https://laos-tech-live.b-cdn.net/hd-gmmone_720/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/one.png",One HD
 https://www.doo2you.com/doballsod/tv/10
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/one.png",One HD
+https://we-play.tv/watching/tv/one-hd
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/8.png",CH 8
 https://www.doo2you.com/doballsod/tv/8
@@ -89,11 +119,17 @@ https://laos-tech-live.b-cdn.net/hd-thairath_720/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/thairath.png",ไทยรัฐ TV
 https://www.doo2you.com/doballsod/tv/11
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/thairath.png",ไทยรัฐ TV
+https://we-play.tv/watching/tv/thairath-tv
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/amarin.png",Amarin HD 34
 https://laos-tech-live.b-cdn.net/hd-amarin_720/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/amarin.png",Amarin HD 34
 https://www.doo2you.com/doballsod/tv/15
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/amarin.png",Amarin HD 34
+https://we-play.tv/watching/tv/amarin-tv
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/pptv.png",PPTV HD
 https://laos-tech-live.b-cdn.net/hd-pptv_720/index.m3u8
@@ -101,17 +137,26 @@ https://laos-tech-live.b-cdn.net/hd-pptv_720/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/pptv.png",PPTV HD
 https://www.doo2you.com/doballsod/tv/16
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/pptv.png",PPTV HD
+https://we-play.tv/watching/tv/pptv-hd
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
 https://laos-tech-live.b-cdn.net/sd-gmmchannel_480/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
 https://www.doo2you.com/doballsod/tv/7
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
+https://we-play.tv/watching/tv/gmm25
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",Mono 29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",Mono 29
 https://laos-tech-live.b-cdn.net/hd-mono_480/index.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",Mono 29
+https://we-play.tv/watching/tv/mono29
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/new1logo.png",News 1
 https://server1.streamssl.com/stream/news1_hi.m3u8

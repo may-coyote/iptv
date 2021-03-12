@@ -160,9 +160,6 @@ https://we-play.tv/watching/tv/cinemax
 #EXTINF:-1 group-title="Movies" tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://adictosalatele.com/logos/hbo2.png",HBO 2
-https://24x7rn95pbmdv5ec.ezcdn462.net:8443/hls/playlist.m3u8?s=_d4CWZ3g_yElMAWnwaJ1cQ&e=1614843553
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
 https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/playlist.m3u8
 
@@ -485,45 +482,6 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 -------------------------------------------------------------------------------------TV Special-----------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/BABES_TV_2018_NOIR.png/revision/latest/scale-to-width-down/300?cb=20191022114734",Babes TV
-http://photocall.tv/kR2g/xxx?ch=babestv
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://vectorified.com/image/brazzers-logo-vector-5.png",Brazzers
-http://photocall.tv/kR2g/xxx?ch=brazzers
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png",Dorcel TV
-http://photocall.tv/kR2g/xxx?ch=dorcel
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://new.strah.tv/uploads/posts/2019-02/medium/1549285137_extasy_big.png",EXTASY HD
-http://photocall.tv/kR2g/xxx?ch=extasy
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://hustlerhd.eu/images/logoHustlerHD.jpg",HUSTLER HD
-http://photocall.tv/kR2g/xxx?ch=hustler
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://www.bluehustler.com/images/logoBlueHustler.jpg",BLUE HUSTLER
-http://photocall.tv/kR2g/xxx?ch=hustler_blue
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://i.pinimg.com/600x315/4e/8f/dc/4e8fdc881468ccbf74882fee823fd3b4.jpg",Olala
-http://photocall.tv/kR2g/xxx?ch=olala
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="http://iptv-pro.ru/Logotip-kanalov/okh-akh_hd.jpg",OX-AX HD
-http://photocall.tv/kR2g/xxx?ch=oxax
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://img15.lostpic.net/2019/10/13/bcf2056804a4a7b5491595b62ab55a8e.png",PENTHOUSE QUICKIES
-http://photocall.tv/kR2g/xxx?ch=penthouse_2
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://img15.lostpic.net/2019/10/13/71fceea1166c7f876c26645e9688c6d8.png",PENTHOUSE GOLD
-http://photocall.tv/kR2g/xxx?ch=penthouse_g
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://seeklogo.com/images/P/playboy-logo-AE40B49AF6-seeklogo.com.png",PLAYBOY
-http://photocall.tv/kR2g/xxx?ch=playboy
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Private_TV_%282014-.n.v.%29.png",PRIVATE
-http://photocall.tv/kR2g/xxx?ch=private
-
-#EXTINF:-1 group-title="TV Special" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png",Vivid Red
-http://photocall.tv/kR2g/xxx?ch=vividred
-
 #EXTINF:-1 group-title="TV Special" tvg-logo="http://adultiptv.net/lists/logo.png",NYX Media
 http://uotv.gearhostpreview.com/av.php?id=7
 
@@ -555,6 +513,9 @@ http://uotv.gearhostpreview.com/av.php?id=9
 http://uotv.gearhostpreview.com/av.php?id=10
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1603442334_1.jpg",The Witches (2020)
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/The_Witches_2020/The_Witches_2020_TH.mp4/index.m3u8?st=21QiOrQ-7y_OocJypRoTUg&e=1615586211&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1578378211_the-next-level_cover.jpg",Jumanji : The Next Level (2019)
 https://cache-movie.all-movie.tv/hls/content/nas01/mvc/m/inter/Jumanji-the-next-level/Jumanji-the-next-level_T.mp4/index.m3u8?st=U7p0W6IFz8SjetLGyoO_7Q&e=1614794043&u=AllMovie

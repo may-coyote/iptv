@@ -238,31 +238,19 @@ https://laos-tech-live.b-cdn.net/sd-thrill_480/index.m3u8
 -------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/history.png",History HD
-https://laos-tech-live.b-cdn.net/hd-history_720/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/history.png",History HD
 https://we-play.tv/watching/tv/history-hd
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/JDWsk9v20OtNZPSUiZ1PVCNj5hc8wRNwHGEKbcF4.png",History H2
 https://we-play.tv/watching/tv/history-h2
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
-https://laos-tech-live.b-cdn.net/hd-xzyte_720/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
 https://www.doo2you.com/true-x-zyte/
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
-https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/foodnetwork.png",Food Network
 https://www.doo2you.com/food-network-uk/
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/24_Blue_Ant_Ent.png",Blueant Entertainment
 https://we-play.tv/watching/tv/blueant-entertainment
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/24_Blue_Ant_Ent.png",Blueant Entertainment
-https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/rtl-cbs-th/
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/25_Blue_Ant_Ex.png",Blueant Extreme
 https://we-play.tv/watching/tv/blueant-extreme
@@ -274,43 +262,16 @@ https://we-play.tv/watching/tv/waku-waku-japan
 https://we-play.tv/watching/tv/animal-planet
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://imgcloud.fwiptv.cc/postor/20200314124605Discovery%20Channel.jpg",Discovery Channel
-https://laos-tech-live.b-cdn.net/sd-discovery_720/index.m3u8
+https://we-play.tv/watching/tv/discovery-channel
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://sv1.picz.in.th/images/2020/12/17/juBAvq.jpg",Discovery Asia
-https://laos-tech-live.b-cdn.net/hd-discovery_720/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://sv1.picz.in.th/images/2020/12/17/juBAvq.jpg",Discovery Asia
-https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8
+https://we-play.tv/watching/tv/discovery-asia
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/U84m9B0Nwx2YvL7Gjc7nMFGxdK4B5I0tmJJ9SdE0.jpg",Nat Geo Wild
-https://laos-tech-live.b-cdn.net/hd-natgeowild_720/index.m3u8
+https://we-play.tv/watching/tv/nat-geo-wild
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/46_National_Geographic_HD.png",National Geographic
-https://www.doo2you.com/national-geographic-hd/
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png",BBC Lifestyle
-https://www.doo2you.com/bbc-life-style/
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth
-https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",True Explore Life
-https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",True Explore Life
-https://laos-tech-live.b-cdn.net/sd-explife_480/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",True Explore SCi
-https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",True Explore SCi
-https://laos-tech-live.b-cdn.net/sd-expsci_480/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",True Explore Wild
-https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",True Explore Wild
-https://laos-tech-live.b-cdn.net/sd-expwild_480/index.m3u8
+https://we-play.tv/watching/tv/national-geographic
 
 ---------------------------------------------------------------------------------------Sports------------------------------------------------------------------------------------
 
@@ -809,6 +770,9 @@ https://www.all-movie.tv/The%20Christmas%20Chronicles%202%20%282020%29
 https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1614759575_1.jpg",รักหนูมั้ย (2020)
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/thai/Do_you_love_me_2020/Do_you_love_me_2020_T.mp4/index.m3u8?st=21QiOrQ-7y_OocJypRoTUg&e=1615586211&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1614761483_cover4.jpg",อ้ายคนหล่อลวง (2020)
 https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/thai/The_Con_Heartist_2020/The_Con_Heartist_T.mp4/index.m3u8?st=U7p0W6IFz8SjetLGyoO_7Q&e=1614794043&u=AllMovie

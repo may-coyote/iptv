@@ -353,9 +353,6 @@ https://www.doo2you.com/bt-sports-2/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/BTSport3HD.png",BT Sports HD 3
 https://we-play.tv/watching/tv/bt-sport-3-hd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/btsportespn.png",BT Sports ESPN HD
-https://www.doo2you.com/doballsod/tv/54
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/astro1.png",Astro Super Sports 1
 https://we-play.tv/watching/tv/astro-supersport-1
 
@@ -770,6 +767,9 @@ https://www.all-movie.tv/The%20Christmas%20Chronicles%202%20%282020%29
 https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1595475820_00000.jpg",มือปืนโลกพระจันทร์ 2 (2020)
+https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Thai/Sodemacom_Killer_2020/Sodemacom_Killer_2020_TH.mp4/index.m3u8?st=21QiOrQ-7y_OocJypRoTUg&e=1615586211&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1614759575_1.jpg",รักหนูมั้ย (2020)
 https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/thai/Do_you_love_me_2020/Do_you_love_me_2020_T.mp4/index.m3u8?st=21QiOrQ-7y_OocJypRoTUg&e=1615586211&u=AllMovie

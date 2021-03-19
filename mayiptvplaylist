@@ -517,6 +517,9 @@ http://uotv.gearhostpreview.com/av.php?id=10
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1615615094_cover1.jpg",Yes Day (2021)
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Yes_Day_2021/Yes_Day_T.mp4/index.m3u8?st=3fLqlYsqxRdQi_KdrdbddA&e=1616162328&u=AllMovie
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1603442334_1.jpg",The Witches (2020)
 https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/The_Witches_2020/The_Witches_2020_TH.mp4/index.m3u8?st=21QiOrQ-7y_OocJypRoTUg&e=1615586211&u=AllMovie
 
@@ -922,6 +925,15 @@ https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%
 https://www.all-movie.tv/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2
 
 -------------------------------------------------------------------------------------VOD Trilogy-----------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/69b13beee4fdd2b9372aeb4f5b043f65.jpg",John Wick 1 (2014)
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/John-wick1-2/John-wick_T.mp4/index.m3u8?st=3fLqlYsqxRdQi_KdrdbddA&e=1616162328&u=AllMovie
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/e3e4af91d627d9931c1fa1b5991ebddc.jpg",John Wick 2 (2017)
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/John-wick1-2/John-wick-2_T.mp4/index.m3u8?st=3fLqlYsqxRdQi_KdrdbddA&e=1616162328&u=AllMovie
+
+#EXTINF:-1 group-title="VOD Trilogy" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1558001641_fdffdsdfdf.jpg",John Wick 3 (2019)
+https://cache-movie.all-movie.tv/hls/content/nas04/mvc/m/inter/John-Wick-3-Zoom/John-wick-3_THD.mp4/index.m3u8?st=3fLqlYsqxRdQi_KdrdbddA&e=1616162328&u=AllMovie
 
 #EXTINF:-1 group-title="VOD Trilogy" tvg-logo="http://www.fivestarproduction.co.th/wp-content/uploads/122-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%B9.jpg",บุญชู ภาค 1 (1988)
 https://www.moviemocha.com/series/boonchoo-%e0%b8%9a%e0%b8%b8%e0%b8%8d%e0%b8%8a%e0%b8%b9-%e0%b8%a0%e0%b8%b2%e0%b8%84-1-8/?ep=1
@@ -1577,190 +1589,6 @@ https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/CN/Miss_Truth_2020_TH/E
 #EXTINF:-1 group-title="Miss Truth นิติเวชหญิงแห่งต้าถัง" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1584776011_123456.jpg",EP.36 (END)
 https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/CN/Miss_Truth_2020_TH/EP36-1.mp4/index.m3u8?st=xM6bgsFRz7ZwbpC2DVAqjw&e=1612788463&u=freemovie
 
--------------------------------------------------------------------------------Mr.Queen----------------------------------------------------------------------------------
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.1
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Mr_Queen_S/EP01-1.mp4/index.m3u8?st=QneJFlS4Sty8daxTqH18RA&e=1610663581&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.2
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Mr_Queen_S/EP02-1.mp4/index.m3u8?st=QneJFlS4Sty8daxTqH18RA&e=1610663581&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.3
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Mr_Queen_S/EP03-1.mp4/index.m3u8?st=QneJFlS4Sty8daxTqH18RA&e=1610663581&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.4
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Mr_Queen_S/EP04-1.mp4/index.m3u8?st=QneJFlS4Sty8daxTqH18RA&e=1610663581&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.5
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Mr_Queen_S/EP05.mp4/index.m3u8?st=nn-RSW9iQfSb-q8h-WOFIQ&e=1610699587&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.6
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Mr_Queen_S/EP06-1.mp4/index.m3u8?st=QneJFlS4Sty8daxTqH18RA&e=1610663581&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.7
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Mr_Queen_S/EP07.mp4/index.m3u8?st=nn-RSW9iQfSb-q8h-WOFIQ&e=1610699587&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.8
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Mr_Queen_S/EP08-1.mp4/index.m3u8?st=QneJFlS4Sty8daxTqH18RA&e=1610663581&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.9
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Mr_Queen_S/EP09.mp4/index.m3u8?st=nn-RSW9iQfSb-q8h-WOFIQ&e=1610699587&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.10
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP10-1.mp4/index.m3u8?st=nn-RSW9iQfSb-q8h-WOFIQ&e=1610699587&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.11
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP11.mp4/index.m3u8?st=bbErk285qhKUhnxaE2tNNg&e=1611059687&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.12
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP12-1.mp4/index.m3u8?st=bbErk285qhKUhnxaE2tNNg&e=1611059687&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.13
-https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP13.mp4/index.m3u8?st=xM6bgsFRz7ZwbpC2DVAqjw&e=1612788463&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.14
-https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP14-1.mp4/index.m3u8?st=xM6bgsFRz7ZwbpC2DVAqjw&e=1612788463&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.15
-https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP15-1.mp4/index.m3u8?st=xM6bgsFRz7ZwbpC2DVAqjw&e=1612788463&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.16
-https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP16-1.mp4/index.m3u8?st=xM6bgsFRz7ZwbpC2DVAqjw&e=1612788463&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.17
-https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP17-2.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.18
-https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP18-1.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.19
-https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP19-1.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Mr.Queen" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1610349542_fdsfsfsd44fd3.jpg",EP.20 (END)
-https://cache-edge2.movieclubhd.tv/hls/content/nas03/mvc/s/kr/Mr_Queen_S/EP20-1.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-------------------------------------------------------------------------------Hospital Ship เรือรัก เรือพยาบาล----------------------------------------------------------------------------------
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.1
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP01.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.2
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP02.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.3
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP03.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.4
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP04.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.5
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP05.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.6
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP06.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.7
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP07.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.8
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP08.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.9
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP09.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.10
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP10.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.11
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP11.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.12
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP12.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.13
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP13.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.14
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP14.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.15
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP15.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.16
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP16.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.17
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP17.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.18
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP18.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.19
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP19.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.20
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP20.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.21
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP21.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.22
-https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/KR/Hospital_Ship_T/EP22.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.23
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP23.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.24
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP24.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.25
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP25.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.26
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP26.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.27
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP27.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.28
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP28.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.29
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP29.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.30
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP30.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.31
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP31.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.32
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP32.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.33
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP33.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.34
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP34.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.35
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP35.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.36
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP36.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.37
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP37.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.38
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP38.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.39
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP39.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
-#EXTINF:-1 group-title="Hospital Ship เรือรัก เรือพยาบาล" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/8d31c8fa5a9aedbc5a0dc0a02c334246.jpg",EP.40 (END)
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/s/kr/Hospital_Ship_T/EP40.mp4/index.m3u8?st=A1MXg-OFJz1nRvrjS8Eh_Q&e=1614001979&u=freemovie
-
 ------------------------------------------------------------------------------Legend of Fei นางโจร----------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Legend of Fei นางโจร" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608104158_112.jpg",EP.1
@@ -1915,59 +1743,6 @@ https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/CN/Legend_of_Fei_2020_T
 
 #EXTINF:-1 group-title="Legend of Fei นางโจร" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/1608104158_112.jpg",EP.51 (END)
 https://cache-movie.all-movie.tv/hls/content/nas06/mvc/S/CN/Legend_of_Fei_2020_TH/EP51-1.mp4/index.m3u8?st=u1RE-nn_DcE4E2LOdgY8Mw&e=1613569858&u=freemovie
-
-------------------------------------------------------------------------------The Emperor : Owner of the Mask----------------------------------------------------------------------------------
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.1
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP01.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.2
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP02.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.3
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP03.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.4
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP04.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.5
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP05.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.6
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP06.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.7
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP07.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.8
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP08-1.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.9
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP09.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.10
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP10.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.11
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP11.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.12
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP12.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.13
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP13.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.14
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP14.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.15
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP15.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.16
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP16.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
-
-#EXTINF:-1 group-title="The Emperor : Owner of the Mask" tvg-logo="https://cdn-img.movieclub.tv/img_series_vertical/4565d05817022fc862d76fd22323024e.jpg",EP.17 (END)
-https://cache-movie.all-movie.tv/hls/content/nas05/mvc/S/KR/The_Emperor_Owner_of_the_Mask_T/EP17.mp4/index.m3u8?st=QnSGD_CtdjXUmZkY3kFKjg&e=1613497783&u=freemovie
 
 -----------------------------------------------------------------------------------โซมะยอดนักปรุง ปี 1------------------------------------------------------------------------
 

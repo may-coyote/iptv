@@ -517,6 +517,9 @@ http://uotv.gearhostpreview.com/av.php?id=10
 
 -------------------------------------------------------------------------------------VOD Inter Movies------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1616135272_1.jpg",Deadly lllusions หลอน ลวง ตาย (2021)
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Deadly_Illusions_2021/Deadly_Illusions_2021_TH.mp4/index.m3u8?st=aDsd1uRv4SnDFIWvjvymXA&e=1616198330&u=AllMovie
+
 #EXTINF:-1 group-title="VOD Inter Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1615615094_cover1.jpg",Yes Day (2021)
 https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Yes_Day_2021/Yes_Day_T.mp4/index.m3u8?st=3fLqlYsqxRdQi_KdrdbddA&e=1616162328&u=AllMovie
 

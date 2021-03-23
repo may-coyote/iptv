@@ -250,6 +250,9 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="data:image/png;base64,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",&flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREtBfjW210fg6jxp7rqXNYivMGTs35g24enfDNLwicMw6SbTk4&usqp=CAU",&PriveHd
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/thrill.png",Thrill
 https://laos-tech-live.b-cdn.net/sd-thrill_480/index.m3u8
 
@@ -342,13 +345,25 @@ https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl5_480p/playlist.
 https://doofootball.livestream-cdn.com/iptv/epl-5.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd1.png",True Sports HD 1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd1.png",True Sports HD 1
 https://we-play.tv/watching/tv/true-sports-hd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd2.png",True Sports HD 2
+https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd2.png",True Sports HD 2
 https://we-play.tv/watching/tv/true-sports-hd-2
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd3.png",True Sports HD 3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/2sporthd3.png",True Sports HD 3
 https://we-play.tv/watching/tv/true-sports-hd-3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.234.in.th/images/2020/11/20/tsphd4.png",True Sports HD 4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doo2you.com/icon/TrueSport2.png",True Sports 2
 https://we-play.tv/watching/tv/true-sports-2

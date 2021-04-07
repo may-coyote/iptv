@@ -194,10 +194,7 @@ https://we-play.tv/watching/tv/fox-thai
 https://www.doo2you.com/doballsod/tv/158
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV
-https://www.doofree88.com/live/warner-tv-hd
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV
-https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8
+https://dbsport-n1.worldwidetv.club:449/hmcb4rf66f-th1/hd-warnertv_720/chunks.m3u8?nimblesessionid=2059507&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjEgMTowMTozOSBQTSZoYXNoX3ZhbHVlPW9WUXVEOWNMTzJNelJLTytRdEt0OXc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMDE1MTY3fGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNnwxNjE3ODAwNDk5fGhkLXdhcm5lcnR2fDIwMTUxNjd8MjEwLjI0Ni45NC4y
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/20170709090502720443899.jpg",CTB
 https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
@@ -215,7 +212,7 @@ https://www.doo2you.com/doballsod/tv/156
 https://www.doofree88.com/live/axn-hd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
-https://laos-tech-live.b-cdn.net/hd-tfilm_720/index.m3u8
+https://dbsport-n1.worldwidetv.club:449/hmcb4rf66f-th1/hd-tfilm_720/chunks.m3u8?nimblesessionid=2059572&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjEgMTowMjoyMCBQTSZoYXNoX3ZhbHVlPUEyVlUvYjZ0UU5LV3ZQOW5ZQW5FK1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01MTQ5NDQyfGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNnwxNjE3ODAwNTQwfGhkLXRmaWxtfDUxNDk0NDJ8MjEwLjI0Ni45NC4y
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
 https://www.doofree88.com/live/film-hd
@@ -223,17 +220,14 @@ https://www.doofree88.com/live/film-hd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/pGi0l8Sh2X4kKwII7p23aqyX58nhiIAFAKL5a9C1.png",True Film HD 2
 https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/pGi0l8Sh2X4kKwII7p23aqyX58nhiIAFAKL5a9C1.png",True Film HD 2
-https://www.doofree88.com/live/film-hd-2
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/25/Rounded_20201125_085433.png",True Series
-https://doofootball.livestream-cdn.com/iptv/sd-series.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tas.png",True Asian Series HD
 https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tas.png",True Asian Series HD
-https://www.doo2you.com/doballsod/tv/160
+https://dbsport-n1.worldwidetv.club:449/hmcb4rf66f-th1/hd-asian_720/chunks.m3u8?nimblesessionid=2059694&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjEgMTowNDoyMCBQTSZoYXNoX3ZhbHVlPVZZVzJKck4yd0FsUHZydmtPTnp2dnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD00NjY2NzA1fGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNnwxNjE3ODAwNjYwfGhkLWFzaWFufDQ2NjY3MDV8MjEwLjI0Ni45NC4y
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",Paramount Channel
+https://dbsport-n1.worldwidetv.club:449/hmcb4rf66f-th1/hd-paramount_720/chunks.m3u8?nimblesessionid=2059468&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjEgMTowMTowMyBQTSZoYXNoX3ZhbHVlPWdtSFJGVEF6cjJ3UGs4dDgxeUxVWHc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xOTg4NzM3fGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNnwxNjE3ODAwNDYzfGhkLXBhcmFtb3VudHwxOTg4NzM3fDIxMC4yNDYuOTQuMg==
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",True TVB
 http://ip2121.com:8081/live/TVB/chunks.m3u8
@@ -250,7 +244,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="data:image/png;base64,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",&flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREtBfjW210fg6jxp7rqXNYivMGTs35g24enfDNLwicMw6SbTk4&usqp=CAU",&PriveHd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREtBfjW210fg6jxp7rqXNYivMGTs35g24enfDNLwicMw6SbTk4&usqp=CAU",&PriveHd
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/thrill.png",Thrill
@@ -268,7 +262,7 @@ https://www.doofree88.com/live/history
 https://we-play.tv/watching/tv/history-h2
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/TrueXzyte.png",True X-Zyte HD
-https://www.doo2you.com/true-x-zyte/
+https://dbsport-n1.worldwidetv.club:449/hmcb4rf66f-th1/hd-xzyte_720/chunks.m3u8?nimblesessionid=2059108&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjEgMTI6NTQ6MDQgUE0maGFzaF92YWx1ZT1aWVh4aFhnOE0xeS95U1dvOThOeFlnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MzI3NDk1NnxodHRwczovL2Rvb2JhbGw2Ni5jb20vfE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OS4wLjQzODkuMTE0IFNhZmFyaS81MzcuMzZ8MTYxNzgwMDA0NHxoZC14enl0ZXwzMjc0OTU2fDIxMC4yNDYuOTQuMg==
 
 #EXTINF:-1 group-title="Entertainment & Documentary" tvg-logo="https://doo2you.com/icon/foodnetwork.png",Food Network
 https://www.doo2you.com/food-network-uk/

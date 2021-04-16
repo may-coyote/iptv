@@ -218,7 +218,7 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 https://www.we-play.tv/watching/tv/axn-hd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/AXNHD.png",AXN HD
-https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f,"referer":"https://dooball66.com/"
+"https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f","referer":"https://dooball66.com/"
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
 https://dbsport-n1.worldwidetv.club:449/hmcb4rf66f-th1/hd-tfilm_720/chunks.m3u8?nimblesessionid=2059572&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjEgMTowMjoyMCBQTSZoYXNoX3ZhbHVlPUEyVlUvYjZ0UU5LV3ZQOW5ZQW5FK1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01MTQ5NDQyfGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNnwxNjE3ODAwNTQwfGhkLXRmaWxtfDUxNDk0NDJ8MjEwLjI0Ni45NC4y

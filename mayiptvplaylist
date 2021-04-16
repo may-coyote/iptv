@@ -142,6 +142,12 @@ https://we-play.tv/watching/tv/hbo-hd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/1zeerawtdlgq0bu/HBO2%20HD.png?dl=0",HBO2
+http://bos.00387.info:8080/HBO2/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/grk5aruhf78iqak/HBO3%20HD.png?dl=0",HBO3
+http://bos.00387.info:8080/HBO3/index.m3u8?token=test
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
 
@@ -173,40 +179,25 @@ https://we-play.tv/watching/tv/cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
-https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/playlist.m3u8
+https://www.we-play.tv/watching/tv/fox-movies
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
-http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
-https://www.doomovie-hd.com/?r=tv_view&id=38
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium 
-https://www.doofree88.com/live/fox-movies-premium-th
+http://ip2121.com:8081/live2/foxprem/chunks.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies 
-https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies 
-https://www.doo2you.com/doballsod/tv/157
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action Movies 
-https://www.doofree88.com/live/fox-action-movies-th
+https://www.we-play.tv/watching/tv/fox-action-movies
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies
 https://we-play.tv/watching/tv/fox-family-movies
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png",Fox Family Movies
-https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8
+https://mediasv.online/tvchannel_x1/fox-family/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
 https://we-play.tv/watching/tv/fox-thai
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
-https://www.doo2you.com/doballsod/tv/158
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",Warner TV
-https://dbsport-n1.worldwidetv.club:449/hmcb4rf66f-th1/hd-warnertv_720/chunks.m3u8?nimblesessionid=2059507&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjEgMTowMTozOSBQTSZoYXNoX3ZhbHVlPW9WUXVEOWNMTzJNelJLTytRdEt0OXc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMDE1MTY3fGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNnwxNjE3ODAwNDk5fGhkLXdhcm5lcnR2fDIwMTUxNjd8MjEwLjI0Ni45NC4y
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/i3hnpb3jflnop1u/Action%20Hollywood.png?dl=0",ACTION HOLLYWOOD MOVIES
+http://203.154.177.124:8899/live/ch7/chunks.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/20170709090502720443899.jpg",CTB
 https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
@@ -223,35 +214,65 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/xegzhpjw9lnqmku/BoxFilm.png?dl=0",BOX FILM
 https://cdn6.goprimetime.info/feed/LC52/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
-https://dbsport-n1.worldwidetv.club:449/hmcb4rf66f-th1/hd-tfilm_720/chunks.m3u8?nimblesessionid=2059572&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjEgMTowMjoyMCBQTSZoYXNoX3ZhbHVlPUEyVlUvYjZ0UU5LV3ZQOW5ZQW5FK1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01MTQ5NDQyfGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNnwxNjE3ODAwNTQwfGhkLXRmaWxtfDUxNDk0NDJ8MjEwLjI0Ni45NC4y
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/cleqr9x26c922x9/samurai.png?dl=0",SAMURAI
+http://61.19.242.134:80/feed/LC2/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/lcwt1ik9vosxoks/sanook.png?dl=0",SANOOK
+http://61.19.242.134:80/feed/LC53/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/8thj6qu5qhvn89t/sun.png?dl=0",SUN
+http://61.19.242.134:80/feed/LC1/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/qiooko4uvq1bme8/mchannel.png?dl=0",M CHANNEL
+https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/vfgpxsflgougj9o/Hits.png?dl=0",Hits
+https://mediasv.online/tvchannel_x1/hits/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/yobngd18yxnxs22/HitsMovies.png?dl=0",Hits Movies
+https://mediasv.online/tvchannel_x1/hitsmovie/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/gnmoja9k99i7vkw/1.png?dl=0",Movies 1
+http://196.53.248.18:8081/live/banner0003/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/201u2yu1j352pdo/2.png?dl=0",Movies 2
+http://196.53.248.18:8081/live/banner002/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/vjp9979iolam2ej/3.png?dl=0",Movies 3
+http://196.53.248.18:8081/live/action001/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/2twwhamy2vh7q9q/4.png?dl=0",Movies 4
+http://196.53.248.18:8081/live/invest02/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/9q4wfd7hcqknvzw/5.png?dl=0",Movies 5
+http://gg.gg/aslive1
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/2mhuk6yww59hc8y/6.png?dl=0",Movies 6
+http://gg.gg/aslive2
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/frq73074hf3xi2m/7.png?dl=0",Movies 7
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/wam4e7i0jg726vx/truefilmasia.png?dl=0",True Film Asia HD
+http://gg.gg/truefa
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/wam4e7i0jg726vx/truefilmasia.png?dl=0",True Movie Hits HD
+http://gg.gg/truemh
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/keh3pzwmcuanm21/TrueSeries.png?dl=0",True Series
+http://gg.gg/truesr-exe
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
-https://www.doofree88.com/live/film-hd
+http://gg.gg/truefhd1
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/pGi0l8Sh2X4kKwII7p23aqyX58nhiIAFAKL5a9C1.png",True Film HD 2
-https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tas.png",True Asian Series HD
-https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tas.png",True Asian Series HD
-https://dbsport-n1.worldwidetv.club:449/hmcb4rf66f-th1/hd-asian_720/chunks.m3u8?nimblesessionid=2059694&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjEgMTowNDoyMCBQTSZoYXNoX3ZhbHVlPVZZVzJKck4yd0FsUHZydmtPTnp2dnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD00NjY2NzA1fGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNnwxNjE3ODAwNjYwfGhkLWFzaWFufDQ2NjY3MDV8MjEwLjI0Ni45NC4y
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",Paramount Channel
-https://dbsport-n1.worldwidetv.club:449/hmcb4rf66f-th1/hd-paramount_720/chunks.m3u8?nimblesessionid=2059468&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjEgMTowMTowMyBQTSZoYXNoX3ZhbHVlPWdtSFJGVEF6cjJ3UGs4dDgxeUxVWHc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xOTg4NzM3fGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNnwxNjE3ODAwNDYzfGhkLXBhcmFtb3VudHwxOTg4NzM3fDIxMC4yNDYuOTQuMg==
+http://gg.gg/truefa2
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",True TVB
-http://ip2121.com:8081/live/TVB/chunks.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",TVB ไทย
-https://www.doo2you.com/tvb-thai/
+https://mediasv.online/tvchannel_x1/tvb/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",TVB ไทย
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png",Kix
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="data:image/png;base64,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",&flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -260,7 +281,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/thrill.png",Thrill
-https://laos-tech-live.b-cdn.net/sd-thrill_480/index.m3u8
+http://61.19.242.134:80/feed/LC26/index.m3u8
 
 -------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 

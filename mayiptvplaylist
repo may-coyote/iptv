@@ -196,9 +196,6 @@ https://mediasv.online/tvchannel_x1/fox-family/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/foxthai.png",Fox Thai
 https://we-play.tv/watching/tv/fox-thai
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/i3hnpb3jflnop1u/Action%20Hollywood.png?dl=0",ACTION HOLLYWOOD MOVIES
-http://203.154.177.124:8899/live/ch7/chunks.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/20170709090502720443899.jpg",CTB
 https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
 
@@ -219,9 +216,6 @@ http://61.19.242.134:80/feed/LC2/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/lcwt1ik9vosxoks/sanook.png?dl=0",SANOOK
 http://61.19.242.134:80/feed/LC53/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/8thj6qu5qhvn89t/sun.png?dl=0",SUN
-http://61.19.242.134:80/feed/LC1/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/qiooko4uvq1bme8/mchannel.png?dl=0",M CHANNEL
 https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
@@ -256,7 +250,7 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/wam4e7i0jg726vx/truefilmasia.png?dl=0",True Film Asia HD
 http://gg.gg/truefa
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/wam4e7i0jg726vx/truefilmasia.png?dl=0",True Movie Hits HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/igd0g9njeyvkcgm/truemoviehits.png?dl=0",True Movie Hits HD
 http://gg.gg/truemh
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/keh3pzwmcuanm21/TrueSeries.png?dl=0",True Series

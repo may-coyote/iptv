@@ -5,65 +5,26 @@
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/3hd.png",3 HD
 https://we-play.tv/watching/tv/ch3-hd
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/3hd.png",3 HD
-https://cdn6.goprimetime.info//feed//ch3hd//index.m3u8
-
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/5hd.png",5 HD
 https://we-play.tv/watching/tv/ch5-hd
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/5hd.png",5 HD
-https://cdn6.goprimetime.info//feed//ch5hd//index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/7hd.png",7 HD
 https://we-play.tv/watching/tv/ch7-hd
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/7hd.png",7 HD
-https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8
-
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/mcothd.png",MCOT HD
 https://we-play.tv/watching/tv/mcot-hd
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/mcothd.png",MCOT HD
-https://cdn6.goprimetime.info/feed//chmcothd/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nbt.png",NBT
 https://we-play.tv/watching/tv/11-nbt
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/nbt.png",NBT
-https://cdn6.goprimetime.info/feed/chnbt/index.m3u8
-
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/tpbs.png",Thai PBS
 https://we-play.tv/watching/tv/thai-pbs
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/tpbs.png",Thai PBS
-https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.altv.tv/_nuxt/img/92802e3.png",ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/TNN24.png",TNN 16
-https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/TNN24.png",TNN 16
-https://cdn6.goprimetime.info/feed/chtnn/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
 https://we-play.tv/watching/tv/true4u
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/true4u.png",True4U
-https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/newtv.png",NEW 18
-https://cdn6.goprimetime.info/feed/newtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/newtv.png",NEW 18
-https://cdn6.goprimetime.info/feed/newtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/qLrCoDW0bWCFmRh2Iea3ezDhESYET1fL4NYb9wbS.png",Workpoint TV
-https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/qLrCoDW0bWCFmRh2Iea3ezDhESYET1fL4NYb9wbS.png",Workpoint TV
-https://cdn6.goprimetime.info/feed/chworkpoint/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/qLrCoDW0bWCFmRh2Iea3ezDhESYET1fL4NYb9wbS.png",Workpoint TV
 https://we-play.tv/watching/tv/workpoint
@@ -71,17 +32,8 @@ https://we-play.tv/watching/tv/workpoint
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/T80UjOlcnu52ikcZ05G40W5kPDQt5dGahCUK2F2S.png",Nation Channel
 https://we-play.tv/watching/tv/nationtv
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/T80UjOlcnu52ikcZ05G40W5kPDQt5dGahCUK2F2S.png",Nation Channel
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
-
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/one.png",One HD
 https://we-play.tv/watching/tv/one-hd
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/one.png",One HD
-https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/8.png",CH 8
-https://cdn6.goprimetime.info/feed/ch8/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/8.png",CH 8
 http://stream.rs.co.th/ch8-hi/index.m3u8
@@ -89,29 +41,14 @@ http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/thairath.png",ไทยรัฐ TV
 https://we-play.tv/watching/tv/thairath-tv
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/thairath.png",ไทยรัฐ TV
-https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
-
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/amarin.png",Amarin HD 34
 https://we-play.tv/watching/tv/amarin-tv
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/amarin.png",Amarin HD 34
-https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/pptv.png",PPTV HD
 https://we-play.tv/watching/tv/pptv-hd
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://doo2you.com/icon/pptv.png",PPTV HD
-https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
-
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
 https://we-play.tv/watching/tv/gmm25
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
-https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",Mono 29
-https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",Mono 29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
@@ -141,12 +78,6 @@ https://we-play.tv/watching/tv/hbo-hd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/1zeerawtdlgq0bu/HBO2%20HD.png?dl=0",HBO2
-http://bos.00387.info:8080/HBO2/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/grk5aruhf78iqak/HBO3%20HD.png?dl=0",HBO3
-http://bos.00387.info:8080/HBO3/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
 https://we-play.tv/watching/tv/hbo-hits
@@ -208,18 +139,6 @@ https://www.we-play.tv/watching/tv/axn-hd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/y8k88m1lxmmm2ee/Bollywood.png?dl=0",Bollywood Channel
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/xegzhpjw9lnqmku/BoxFilm.png?dl=0",BOX FILM
-https://cdn6.goprimetime.info/feed/LC52/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/cleqr9x26c922x9/samurai.png?dl=0",SAMURAI
-http://61.19.242.134:80/feed/LC2/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/lcwt1ik9vosxoks/sanook.png?dl=0",SANOOK
-http://61.19.242.134:80/feed/LC53/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/qiooko4uvq1bme8/mchannel.png?dl=0",M CHANNEL
-https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/vfgpxsflgougj9o/Hits.png?dl=0",Hits
 https://mediasv.online/tvchannel_x1/hits/playlist.m3u8
 
@@ -273,9 +192,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREtBfjW210fg6jxp7rqXNYivMGTs35g24enfDNLwicMw6SbTk4&usqp=CAU",&PriveHd
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.234.in.th/images/2020/11/20/thrill.png",Thrill
-http://61.19.242.134:80/feed/LC26/index.m3u8
 
 -------------------------------------------------------------------------Entertainment & Documentary-----------------------------------------------------------------------------
 
@@ -881,6 +797,9 @@ https://www.all-movie.tv/The%20Christmas%20Chronicles%202%20%282020%29
 https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="data:image/jpeg;base64,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",อีเรียมซิ่ง (2021)
+https://nungth.b-cdn.net/vod/eamsng.mp4
 
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://movie2uhd.com/wp-content/uploads/2021/03/Mon-Ruk-Dok-Pak-Bung-222x300.jpg",มนต์รักดอกผักบุ้ง เลิกคุยทั้งอำเภอ (2021)
 https://xxx.77player.xyz/hls/5ca83b0a6eafd0152fbe6733e33b3b1a/5ca83b0a6eafd0152fbe6733e33b3b1a.m3u8

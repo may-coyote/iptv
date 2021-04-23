@@ -798,6 +798,9 @@ https://www.all-movie.tv/Mank%20%282020%29
 
 -------------------------------------------------------------------------------------VOD Asian Movies-----------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1619080032_1.jpg",พริกขี้หนูกับหมูแฮม
+https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Thai/PICK_KEE_NU_2532/PICK_KEE_NU_2532_TH.mp4/index.m3u8?st=E8OKclK6Co2E290jYwX7sA&e=1619196139&u=AllMovie
+
 #EXTINF:-1 group-title="VOD Asian Movies" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1618843064_cover1.jpg",อีเรียมซิ่ง (2020)
 https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Thai/E_Riam_Sing_2020/E_Riam_Sing_T.mp4/index.m3u8?st=E8OKclK6Co2E290jYwX7sA&e=1619196139&u=AllMovie
 

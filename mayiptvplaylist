@@ -166,6 +166,12 @@ http://gg.gg/aslive2
 #EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/frq73074hf3xi2m/7.png?dl=0",Movies 7
 http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/0n9h6uzh6fzjvem/8.png?dl=0",Movies 8
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/zvil657s3yb2h52/9.png?dl=0",Movies 9
+http://gg.gg/sky4nutv
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/wam4e7i0jg726vx/truefilmasia.png?dl=0",True Film Asia HD
 http://gg.gg/truefa
 
@@ -180,6 +186,9 @@ http://gg.gg/truefhd1
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doofree88.com/storage/live/pGi0l8Sh2X4kKwII7p23aqyX58nhiIAFAKL5a9C1.png",True Film HD 2
 http://gg.gg/truefa2
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/bugeuy99ai37sf5/3BBAsian.png?dl=0",3BB Asian
+https://boxmovielive.com/live/3bb.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://doo2you.com/icon/tvb.png",True TVB
 https://mediasv.online/tvchannel_x1/tvb/playlist.m3u8

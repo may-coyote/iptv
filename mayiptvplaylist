@@ -1,493 +1,97 @@
 {
+"name": "May PlayList",
+"author": "May",
+"image": "https://thumbs.dreamstime.com/z/may-clip-art-whimsical-cartoon-text-doodle-month-44872799.jpg",
+"url": "http://gg.gg/Lite_by_freelist",
+
+
+"groups": [
+
+
+	
+{
 "name": "Digital TV",
-"author": "Playlist by MaY",
-"image": "https://dl.dropbox.com/s/khk919ocl53midu/Rounded_20201001_092306.png?dl=0",
-"url": "http://tiny.cc/dig55015",
-"info": "", "stations": 
-[ 
-{
-"name":"CH3 HD",
-"image":"https://dl.dropbox.com/s/oevle6y9kohjx28/CH3-1.png?dl=0",
-"url": "http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8",
-"playInNatPlayer": "true"
+"image": "https://www.234.in.th/images/2021/03/26/Digital-tv.png",
+"url": "https://dl.dropbox.com/s/svj233qo8e04c23/Digital.w3u?dl=0",
+"import": false
 },	
 {
-"name":"CH3 HD",
-"image":"https://dl.dropbox.com/s/oevle6y9kohjx28/CH3-1.png?dl=0",
-"url": "https://cdn6.goprimetime.info//feed//ch3hd//index.m3u8",
-"desktop":"true"
+"name": "World News",
+"image": "https://dl.dropbox.com/s/64kq6w4grcl5pyj/World%20news.png?dl=0",
+"url": "https://dl.dropbox.com/s/3pijim1cdrt4lft/News.w3u?dl=0",
+"import": false
 },
 {
-"name":"CH3 HD",
-"image":"https://dl.dropbox.com/s/oevle6y9kohjx28/CH3-1.png?dl=0",
-"url": "https://cdn6.goprimetime.info//feed//ch3hd//tracks-v1a1/mono.m3u8",
-"desktop":"true"
+"name": "ทีวีต่างประเทศ",
+"image": "https://dl.dropbox.com/s/zg765mpbvl3qq2j/worldtv.png?dl=0",
+"url": "https://dl.dropbox.com/s/p9y83vs9uy06e1r/TV-other.w3u?dl=0",
+"import": false
 },	
 {
-"name":"CH5 HD",
-"image":"https://dl.dropbox.com/s/i8bry7z3j9rjl5m/CH5-1.png?dl=0",
-"url": "https://cdn6.goprimetime.info//feed//ch5hd//index.m3u8",
-"desktop":"true"
+"name": "Education",
+"image": "https://www.234.in.th/images/2021/03/26/Education.md.png",
+"url": "https://dl.dropbox.com/s/ekty4y4cec2n3rr/Education.w3u?dl=0",
+"import": false
 },
 {
-"name":"CH5 HD",
-"image":"https://dl.dropbox.com/s/i8bry7z3j9rjl5m/CH5-1.png?dl=0",
-"url":"http://916309128f3e.sn.(I Love You)mynetname.net:1935/aslive/5hd/chunklist_w1215236803.m3u8",
-"playInNatPlayer": "true"
+"name": "TV&MOVIES",
+"image": "https://www.234.in.th/images/2021/03/26/movie-live.png",
+"url": "https://dl.dropbox.com/s/46fv77pg4ncvbpz/Movies.w3u?dl=0",
+"import": false
 },
 {
-"name":"CH5 HD",
-"image":"https://dl.dropbox.com/s/i8bry7z3j9rjl5m/CH5-1.png?dl=0",
-"url": "https://cdn6.goprimetime.info//feed//ch5hd//tracks-v1a1/mono.m3u8",
-"desktop":"true"
+"name": "Entertainment",
+"image": "https://www.234.in.th/images/2021/03/26/Entertian.md.png",
+"url": "https://dl.dropbox.com/s/yteka2inzr2r2li/Entertainment.w3u?dl=0",
+"import": false
 },
 {
-"name":"CH7 HD",
-"image":"https://dl.dropbox.com/s/mpkc8xydbh793sd/CH7-1.png?dl=0",
-"url":"https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8",
-"referer": "https://www.ch7.com/"
+"name": "Knowledge",
+"image": "https://www.234.in.th/images/2021/03/26/knowledge.md.png",
+"url": "https://dl.dropbox.com/s/dy3ufqd1p79mcid/Knowledge.w3u?dl=0",
+"import": false 
 },
 {
-"name":"CH7 HD",
-"image":"https://dl.dropbox.com/s/mpkc8xydbh793sd/CH7-1.png?dl=0",
-"url": "https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8",
-"referer":"https://doomovie.com/"
+"name": "Kids Zone",
+"image": "https://www.234.in.th/images/2021/03/26/kid-zone.md.png",
+"url": "https://dl.dropbox.com/s/s5cd1zcvm62y5ue/Kids.w3u?dl=0",
+"import": false 
 },
 {
-"name":"CH7 HD",
-"image":"https://dl.dropbox.com/s/mpkc8xydbh793sd/CH7-1.png?dl=0",
-"url": "https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8",
-"desktop":"true"
+"name": "Sports",
+"image": "https://www.234.in.th/images/2021/03/26/sport.md.png",
+"url": "https://dl.dropbox.com/s/79rel17w592xwwg/Sports.w3u?dl=0",
+"import": false 
+},		
+{
+"name": "Thai Radio",
+"image": "https://www.234.in.th/images/2021/03/26/Radio.md.png",
+"url": "https://dl.dropbox.com/s/k490g5fawdjxq3e/Radio.w3u?dl=0",
+"import": false 
 },
 {
-"name": "MCOT HD",  
-"image": "https://dl.dropbox.com/s/4a9v1t58vsnoh5p/mcot30.png?dl=0",  
-"url": "https://cdn6.goprimetime.info/feed//chmcothd/tracks-v1a1/mono.m3u8",
-"desktop":"true"
+"name": "หนังใหม่",
+"image": "https://www.234.in.th/images/2021/03/26/4AykXVfU_400x400.png",
+"url": "https://dl.dropbox.com/s/e131mkboioieiqx/T2.w3u?dl=0",
+"import": false 
 },
 {
-"name": "MCOT HD",  
-"image": "https://dl.dropbox.com/s/4a9v1t58vsnoh5p/mcot30.png?dl=0", 
-"url": "https://cdn6.goprimetime.info/feed//chmcothd/playlist.m3u8",
-"desktop":"true"
-},
-{
-"name": "MCOT HD",  
-"image": "https://dl.dropbox.com/s/4a9v1t58vsnoh5p/mcot30.png?dl=0", 
-"url": "http://27.254.130.61/live01/ch12.m3u8?p=st",
-"playInNatPlayer": "true"
-},
-{
-"name": "NBT",  
-"image": "https://dl.dropbox.com/s/znwodgr8hepn5dq/NBT-1.png?dl=0",  
-"url": "https://cdn6.goprimetime.info/feed/chnbt/index.m3u8",
-"desktop":"true"
-},
-{
-"name":"NBT",
-"image": "https://dl.dropbox.com/s/znwodgr8hepn5dq/NBT-1.png?dl=0",  
-"url": "http://122.155.92.8:1935/live/ch1_L.sdp/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name":"NBT",
-"image": "https://dl.dropbox.com/s/znwodgr8hepn5dq/NBT-1.png?dl=0",  
-"url": "http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "TNN16",  
-"image": "https://dl.dropbox.com/s/35rbafuwhmdz3f6/TNN16.png?dl=0",  
-"url": "https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8",
-"referer":"https://www.doo2you.com/"
-},
-{
-"name": "TNN16",  
-"image": "https://dl.dropbox.com/s/35rbafuwhmdz3f6/TNN16.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chtnn/tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "TNN16",  
-"image": "https://dl.dropbox.com/s/35rbafuwhmdz3f6/TNN16.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chtnn/index.m3u8",
-"desktop":"true"
-
-},
-{
-"name": "Thai TPBS",
-"image": "https://dl.dropbox.com/s/rfeyfrmciwgqp9s/thaipbs.png?dl=0",  
-"url": "http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
-"referer": "https://www.thaipbs.or.th/"
-},
-{
-"name": "Thai TPBS",
-"image": "https://dl.dropbox.com/s/rfeyfrmciwgqp9s/thaipbs.png?dl=0",   
-"url": "https://cdn6.goprimetime.info/feed/chthaipbs/tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "Thai TPBS",
-"image": "https://dl.dropbox.com/s/rfeyfrmciwgqp9s/thaipbs.png?dl=0",    
-"url": "https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8",
-"desktop":"true"
-},
-{
-"name": "Nation TV",
-"image": "https://dl.dropbox.com/s/cuowzzuc7cxtths/nation22.png?dl=0",  
-"url": "https://cdn6.goprimetime.info/feed/chnation/tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "Nation TV",
-"image": "https://dl.dropbox.com/s/cuowzzuc7cxtths/nation22.png?dl=0",  
-"url": "http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Nation TV",
-"image": "https://dl.dropbox.com/s/cuowzzuc7cxtths/nation22.png?dl=0",  
-"url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
-"desktop":"true"
-},
-{
-"name": "Workpoint TV",  
-"image": "https://dl.dropbox.com/s/1mslk458kzyapvz/workpoint1.png?dl=0",  
-"url": "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Workpoint TV",  
-"image": "https://dl.dropbox.com/s/1mslk458kzyapvz/workpoint1.png?dl=0",  
-"url": "https://cdn6.goprimetime.info/feed/chworkpoint/tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "Workpoint TV",  
-"image": "https://dl.dropbox.com/s/1mslk458kzyapvz/workpoint1.png?dl=0",   
-"url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
-"desktop":"true"
-},
-{
-"name": "TRUE4U",
-"image": "https://dl.dropbox.com/s/yg2hq9y3s3nlo44/unnamed.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chtrue4u/tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "TRUE4U",
-"image": "https://dl.dropbox.com/s/yg2hq9y3s3nlo44/unnamed.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
-"desktop":"true"
-},
-{
-
-"name": "TRUE4U",
-"image": "https://dl.dropbox.com/s/yg2hq9y3s3nlo44/unnamed.png?dl=0",
-"url": "https://true4u.com/live/",
-"playInNatPlayer": "true"
-},
-{
-"name": "GMM Channel",
-"image": "https://dl.dropbox.com/s/53vkdyekoyx2pnm/GMM25.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chgmm/tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "GMM Channel",
-"image": "https://dl.dropbox.com/s/53vkdyekoyx2pnm/GMM25.png?dl=0",
-"url": "http://27.254.130.61/live01/ch11.m3u8?p=st",
-"playInNatPlayer": "true"
-},
-{
-"name": "GMM Channel",
-"image": "https://dl.dropbox.com/s/53vkdyekoyx2pnm/GMM25.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
-"desktop":"true"
-},
-{
-"name": "MONO29 TH",
-"image": "https://dl.dropbox.com/s/kmlfajgx0o5te21/mono.png?dl=0",
-"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8",
-"referer": "https://mono29.com/"
-},
-{
-
-"name": "MONO29 TH",
-"image": "https://dl.dropbox.com/s/kmlfajgx0o5te21/mono.png?dl=0",
-"url": "https://cdn6.goprimetime.info//feed//chmono29//index.m3u8",
-"desktop":"true"
-},
-{
-"name": "MONO29 TH",
-"image": "https://dl.dropbox.com/s/kmlfajgx0o5te21/mono.png?dl=0",
-"url": "https://cdn6.goprimetime.info//feed//chmono29//tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "MONO29 EN",
-"image": "https://dl.dropbox.com/s/kmlfajgx0o5te21/mono.png?dl=0",
-"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080EN.stream/chunklist.m3u8",
-"referer": "https://mono29.com/"
-},
-{
-"name": "MONO29 EN",
-"image": "https://dl.dropbox.com/s/kmlfajgx0o5te21/mono.png?dl=0",
-"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080EN.stream/chunklist_w1190737845.m3u8",
-"referer": "https://mono29.com/"
-},
-{
-"name": "ONE",
-"image": "https://dl.dropbox.com/s/p3pjdih157d83f0/one31.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chonehd/tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "ONE",
-"image": "https://dl.dropbox.com/s/p3pjdih157d83f0/one31.png?dl=0",
-"url": "http://one31-rlbwkq.cdn.byteark.com:80/live/playlist_720p/index.m3u8",
-"referer":"https://www.one31.net/"
-},
-{
-"name": "ONE",
-"image": "https://dl.dropbox.com/s/p3pjdih157d83f0/one31.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chonehd/index.m3u8",
-"desktop":"true"
-},
-{
-"name": "Thairath TV",
-"image": "https://dl.dropbox.com/s/f3ivcme1v0p2xdb/thairath32.png?dl=0",
-"url": "https://live.thairath.co.th:443/trtv2/thairath_tv_output_group_720p.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Thairath TV",
-"image": "https://dl.dropbox.com/s/f3ivcme1v0p2xdb/thairath32.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chthairath/index.m3u8",
-"desktop":"true"
-},
-{
-"name": "Thairath TV",
-"image": "https://dl.dropbox.com/s/f3ivcme1v0p2xdb/thairath32.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chthairath/tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "AMARIN TV",
-"image": "https://dl.dropbox.com/s/h0n5r9m4wyd67an/amarin1.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chamarin/tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "AMARIN TV",
-"image": "https://dl.dropbox.com/s/h0n5r9m4wyd67an/amarin1.png?dl=0",
-"url": "http://27.254.130.61/live01/ch13.m3u8?p=st",
-"desktop":"true"
-},
-{
-"name": "AMARIN TV",
-"image": "https://dl.dropbox.com/s/h0n5r9m4wyd67an/amarin1.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chamarin/index.m3u8",
-"desktop":"true"
-},
-{
-
-"name": "PPTV HD",
-"image": "https://dl.dropbox.com/s/bdy3930urdo58pe/pptv36.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chpptvhd/tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "PPTV HD",
-"image": "https://dl.dropbox.com/s/bdy3930urdo58pe/pptv36.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
-"desktop":"true"
-},
-{
-"name": "PPTV HD",
-"image": "https://dl.dropbox.com/s/bdy3930urdo58pe/pptv36.png?dl=0",
-"url": "http://27.254.130.61/live01/ch2.m3u8?p=st",
-"desktop":"true"
-},
-{
-"name": "CH8",
-"image": "https://dl.dropbox.com/s/tnrkd91612f0iso/CH8-1.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/ch8/index.m3u8",
-"desktop":"true"
-},
-{
-"name": "CH8",
-"image": "https://dl.dropbox.com/s/tnrkd91612f0iso/CH8-1.png?dl=0",
-"url": "http://stream.rs.co.th/ch8-hi/index.m3u8",
-"referer": "http://stream.rs.co.th/"
-},
-{
-"name": "CH8",
-"image": "https://dl.dropbox.com/s/tnrkd91612f0iso/CH8-1.png?dl=0",
-"url": "https://www.thaich8.com/live?var_link=720p",
-"referer": "https://www.thaich8.com/"
-},
-{
-"name": "NEWTV",
-"image": "https://dl.dropbox.com/s/fi3fl3ba1cturfd/New18.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/newtv/playlist.m3u8",
-"desktop":"true"
-},
-{
-"name": "NEWTV",
-"image": "https://dl.dropbox.com/s/fi3fl3ba1cturfd/New18.png?dl=0",
-"url": "https://cdn6.goprimetime.info/feed/newtv/tracks-v1a1/mono.m3u8",
-"desktop":"true"
-},
-{
-"name": "NEWTV",
-"image": "https://dl.dropbox.com/s/fi3fl3ba1cturfd/New18.png?dl=0",
-"url": "https://cdnlive.goprimetime.info//feed//newtv//index.m3u8",
-"desktop":"true"
-},
-{
-"name": "NEW1",
-"image": "https://dl.dropbox.com/s/0rmdteaxjlobfmc/news1.png?dl=0",
-"url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "NEW1",
-"image": "https://dl.dropbox.com/s/0rmdteaxjlobfmc/news1.png?dl=0",
-"url": "http://news1.live14.com/stream/news1_hi.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "NEW1",
-"image": "https://dl.dropbox.com/s/0rmdteaxjlobfmc/news1.png?dl=0",
-"url": "https://www.doo2you.com/news-1/",
-"referer": "https://www.doo2you.com/"
-},
-{
-"name": "TPTV",
-"image": "https://dl.dropbox.com/s/5r3uztgopkhls3x/TPTV.png?dl=0",
-"url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "TPTV",
-"image": "https://dl.dropbox.com/s/5r3uztgopkhls3x/TPTV.png?dl=0",
-"url":"http://live.parliament.go.th/livestream/encoder3/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-
-"name": "ALTV4",
-"image": "https://dl.dropbox.com/s/svvncw2qxvy7v5o/ALTV4.png?dl=0",
-"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
-"referer": "https://www.thaipbs.or.th/"
-}, 
-{
-"name": "Voice TV",
-"image": "https://dl.dropbox.com/s/f8ghzgirm524enp/voicetv21.png?dl=0",             
-"url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/voice_480p/playlist.m3u8",
-"referer": "https://www.doo2you.com/",
-"playInNatPlayer": "true"
-}, 
-{
-"name": "ฟ้าวันใหม่", 
-"image": "https://dl.dropbox.com/s/cu95nwbyjjg6n1n/Blue%20Sky.png?dl=0",          
-"url":"https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w1819939365.m3u8",
-"referer": "https://www.blueskychannel.tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
-}, 
-{
-"name": "TOP News", 
-"image": "https://dl.dropbox.com/s/de73nraduzromwq/top%20news.png?dl=0",          
-"url":"https://live.topnews.co.th/hls/topnews.m3u8",
-"referer": "https://www.topnews.co.th/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
-}, 
-{
-"name": "PM News TV", 
-"image": "https://dl.dropbox.com/s/sxcjs94nqiyfuuo/Pm%20news.png?dl=0",          
-"url":"https://live1.thaitvstream.com:443/play/pmnewstv/index.m3u8",
-"playInNatPlayer": "true"
-}, 
-{
-"name":"Police TV",
-"image":"https://dl.dropbox.com/s/oosk2til7qrhi0k/Police.png?dl=0",
-"url":"https://www.tvjaa.com/policetv.html",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-
-
-
-}]
-
+"name": "ขุดกรุหนังเก่า",
+"image": "https://www.dropbox.com/s/pdrsr2bzwv6uu37/Old%20movie.png?dl=1",
+"url": "https://dl.dropbox.com/s/tp81mo0cy7d8gbv/OldMovies.w3u?dl=0",
+"import": false 
 },	
+{
+"name": "หนังสงคราม",
+"image": "https://www.dropbox.com/s/b9aw0mgx85dde43/war%20movies.png?dl=1",
+"url": "https://www.dropbox.com/s/sim1wqpfsg79e3s/T9.w3u?dl=1",
+"import": false 
+},	
+{
+"name": "หนังตามคำขอ",
+"image": "https://www.dropbox.com/s/0ioj1nha86k5tzf/Movies%20Req.png?dl=1",
+"url": "https://www.dropbox.com/s/10x540viv0dobz4/T8.w3u?dl=1",
+"import": false  
+},
 ]
 }
-http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",CH5
-https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",CH5
-http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/chunklist_w1215236803.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",NBT
-http://916309128f3e.sn.mynetname.net:1935/aslive/nbthd/chunklist_w1864354223.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",TPBS
-http://bit.ly/2mB15nj
-#EXTINF:-1 group-title="ฟรีทีวี",NEW 18TV
-https://cdn6.goprimetime.info//feed//newtv//index.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",NEW 18TV
-http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/chunklist_w1906188811.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",Nation 22
-http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",Nation 22
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/nation_480p/playlist.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",Workpoint23
-https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",Workpoint23
-http://916309128f3e.sn.mynetname.net:1935/aslive/workpoint/chunklist_w1265339050.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",True4U 24
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/true4u_480p/chunks.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",GMM25
-http://916309128f3e.sn.mynetname.net:1935/aslive/gmm25/chunklist_w2135572054.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",GMM25
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/gmm25_480p/playlist.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",CH8 27
-http://stream.rs.co.th/ch8-hi/index.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",MONO 29
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w997174519.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",MONO 29
-http://27.254.130.56/live01/ch3.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",MCOT 30
-https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",ONE 31
-https://one31-rlbwkq.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",THAIRATH32
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",CH3
-http://916309128f3e.sn.mynetname.net:1935/aslive/3hd/chunklist_w1814553337.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",CH3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/3hd_480p/chunks.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",AMARIN34
-https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",AMARIN34
-http://916309128f3e.sn.mynetname.net:1935/aslive/amarintv/chunklist_w339683889.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",CH7
-https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",CH7
-http://916309128f3e.sn.mynetname.net:1935/aslive/7hd/chunklist_w736802247.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",TPTV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี",PPTV36
-http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist_w1517173526.m3u8
-#EXTINF:-1 group-title="ฟรีทีวี", TOPNews
-http://live.topnews.co.th/hls/topnews.m3u8
-
-"name": "TNN2",  
-"image": "https://dl.dropbox.com/s/0ranfbql9vbciuh/Tnn2.png?dl=0",  
-"url": "http://160.119.77.117/iptv/sd-tnn2.stream/chunks.m3u8",
-"playInNatPlayer": "true"
-},
-{
-(https://tc-live1.sanook.com/live/22302_ch5.m3u8)

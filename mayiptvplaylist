@@ -71,6 +71,13 @@
 },
 
 {
+"name":"Series 4 U",
+"image":"https://c0.klipartz.com/pngpicture/577/281/sticker-png-leukemia-lymphoma-society-student-school-series-logo-text-people-logo-test-television-show.png",
+"url":"https://bit.ly/3sXfczP",
+"import": false
+},
+    
+{
 "name":"Cartoons Netflix",
 "image":"https://i.pinimg.com/originals/78/f4/89/78f489ac7bb0fbd68614a8d561e44b47.jpg",
 "url":"http://gg.gg/ANIME-KFLIX"
@@ -90,5 +97,12 @@
 "url":"http://gg.gg/TOP-IMDB-KFLIX"
 "import": false
 },
+
+{
+"name": "Movie Collection",
+"image": "https://image.shutterstock.com/shutterstock/photos/652244032/display_1500/stock-vector-logo-movie-collection-652244032.jpg",
+"url": "https://bit.ly/3eeO8rN",
+"import": false
+},	
 ]
 }

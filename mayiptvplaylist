@@ -13,35 +13,89 @@
 "url": "https://dl.dropbox.com/s/svj233qo8e04c23/Digital.w3u?dl=0",
 "import": false
 },	
+
 {
 "name": "Movies",
 "image": "https://www.234.in.th/images/2021/03/26/movie-live.png",
 "url": "https://dl.dropbox.com/s/46fv77pg4ncvbpz/Movies.w3u?dl=0",
 "import": false
 },
+
 {
 "name": "Entertainment",
 "image": "https://www.234.in.th/images/2021/03/26/Entertian.md.png",
 "url": "https://dl.dropbox.com/s/yteka2inzr2r2li/Entertainment.w3u?dl=0",
 "import": false
 },
+
 {
-"name": "Knowledge",
+"name": "Documentary",
 "image": "https://www.234.in.th/images/2021/03/26/knowledge.md.png",
 "url": "https://dl.dropbox.com/s/dy3ufqd1p79mcid/Knowledge.w3u?dl=0",
 "import": false 
 },
+
 {
 "name": "Sports",
 "image": "https://www.234.in.th/images/2021/03/26/sport.md.png",
 "url": "https://dl.dropbox.com/s/hf11eh8sl8h9n6n/Sports.w3u?dl=0",
 "import": false 
 },	
+
 {
-"name": "Kids Zone",
+"name": "Kids",
 "image": "https://www.234.in.th/images/2021/03/26/kid-zone.md.png",
 "url": "https://dl.dropbox.com/s/s5cd1zcvm62y5ue/Kids.w3u?dl=0",
 "import": false 
+},
+
+{
+"name": "New Movies",
+"image": "https://www.234.in.th/images/2021/03/26/4AykXVfU_400x400.png",
+"url": "https://dl.dropbox.com/s/e131mkboioieiqx/T2.w3u?dl=0",
+"import": false 
+},
+
+{
+"name":"Movies Netflix",
+"image":"https://www.dropbox.com/s/bkirachmvkkzglg/2.gif?dl=1",
+"url":"http://gg.gg/MO-NETFLIX-KFLIX"
+"import": false
+},
+
+{
+"name":"Series Netflix",
+"image":"https://www.dropbox.com/s/i65l1rb6lwksbqa/3.gif?dl=1",
+"url":"http://gg.gg/SE-NETFLIX-KFLIX"
+"import": false
+},
+
+{
+"name":"Cartoons Netflix",
+"image":"https://www.dropbox.com/s/65jwklanb4tcrv6/4.gif?dl=1",
+"url":"http://gg.gg/ANIME-KFLIX"
+"import": false
+},
+
+{
+"name":"Movies Best in the Year",
+"image":"https://www.dropbox.com/s/29xx1391smbgjye/8.gif?dl=1",
+"url":"http://gg.gg/M-YEAR-KFLIX"
+"import": false
+},
+
+{
+"name":"Movies Top IMDb",
+"image":"https://www.dropbox.com/s/wus8y7pswanq1uz/6.gif?dl=1",
+"url":"http://gg.gg/TOP-IMDB-KFLIX"
+"import": false
+},
+
+{
+"name":"Tom & Jerry",
+"image":"https://www.dropbox.com/s/r44an4kln9nc2ur/5.gif?dl=1",
+"url":"http://gg.gg/TOM-JERRY-KFLIX"
+"import": false
 },
 ]
 }

@@ -51,12 +51,6 @@
 "import": false 
 },
 {
-"name": "Movies Request",
-"image": "https://bestoftelegram.com/groups/img/hindimovierequest.jpg",
-"url": "https://www.dropbox.com/s/10x540viv0dobz4/T8.w3u?dl=1",
-"import": false 
-},
-{
 "name": "Movies Netflix",
 "image": "https://assets.brand.microsites.netflix.io/assets/493f5bba-81a4-11e9-bf79-066b49664af6_cm_1440w.png?v=26",
 "url": "http://gg.gg/MO-NETFLIX-KFLIX",
@@ -73,13 +67,7 @@
 "image": "https://i.pinimg.com/originals/78/f4/89/78f489ac7bb0fbd68614a8d561e44b47.jpg",
 "url": "http://gg.gg/ANIME-KFLIX",
 "import": false 
-},	
-{
-"name": "Series +",
-"image": "https://c0.klipartz.com/pngpicture/577/281/sticker-png-leukemia-lymphoma-society-student-school-series-logo-text-people-logo-test-television-show.png",
-"url": "https://bit.ly/3sXfczP",
-"import": false 
-},	
+},		
 {
 "name": "Best Movies of the Year",
 "image": "https://image.freepik.com/free-vector/golden-label-movie-year_1017-7695.jpg",
@@ -93,9 +81,9 @@
 "import": false  
 },
 {
-"name": "Movie Collection",
-"image": "https://image.shutterstock.com/shutterstock/photos/652244032/display_1500/stock-vector-logo-movie-collection-652244032.jpg",
-"url": "https://bit.ly/3eeO8rN",
+"name": "Movie & Series",
+"image": "https://lh3.googleusercontent.com/MZ6c02GUPG2wTetGp3h3QSw6WRpIqV9m4J60z0IMEbKITLsJWf1tkjGf5SiVQK0qe1q-",
+"url": "http://bit.ly/NanyangTV",
 "import": false  
 },
 ]

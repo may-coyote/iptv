@@ -7,19 +7,19 @@
 {
 "name": "Digital TV",
 "image": "https://i.pinimg.com/originals/1a/d4/a8/1ad4a8f29d683a2fb0ddd3cab4c1de6b.jpg",
-"url": "https://dl.dropboxusercontent.com/s/gjta36gofbcn4pd/wp-tvthai.txt",
+"url": "https://docs.google.com/uc?export=download&id=1BvX-rcWYVbsO_g9qRzi4mh0K48wX8_N9",
 "import": false
 },	
 {
 "name": "Movies",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uO9sxiM9gXXx4v9slhTuvF-pyzzcHbAlZg&usqp=CAU",
-"url": "https://dl.dropbox.com/s/k98tbbxja1b6ok1/Movies.w3u?dl=0",
+"url": "https://docs.google.com/uc?export=download&id=1CYvZ4lGPYVgGqXomjcuyQnHaIavmlNgQ",
 "import": false
 },
 {
-"name": "Entertainment",
+"name": "Good TV",
 "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/O_entertainment_logo.jpg",
-"url": "https://dl.dropbox.com/s/csipea2a2okploy/weplaytv.w3u?dl=0",
+"url": "https://docs.google.com/uc?export=download&id=1CV-CH3twuxjvwVFsf2t2uh2g-Tr170Wv",
 "import": false
 },
 {
@@ -31,7 +31,7 @@
 {
 "name": "Kids",
 "image": "https://image.shutterstock.com/image-vector/child-logo-260nw-359834360.jpg",
-"url": "https://www.dropbox.com/s/kzxhxsydm07w8oc/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99.txt?dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1CS3TTtZdWI30NuYcmEJLlV0hQlpFm6h4",
 "import": false 
 },
 {
@@ -39,6 +39,12 @@
 "image": "data:image/png;base64,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",
 "url": "https://www.dropbox.com/s/g2muh5085bsuld8/dooball66v1.w3u?dl=1",
 "import": false 
+},
+{
+"name": "Sport Plus",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkv-qlz6mPYY6_hnqeKOaJk0viGB946iJIQ&usqp=CAU",
+"url": "https://docs.google.com/uc?export=download&id=1LH8nWenqyZetoaAqpZr8dLULAdYTXdHQ",
+"import": false
 },
 {
 "name": "Inter Cinema",

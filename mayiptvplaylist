@@ -29,9 +29,15 @@
 "import": false 
 },
 {
-"name": "Sport 1",
+"name": "Sport",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXq4FwX96VBQUkSG34WUA0psO7ThZD5qGEZw&usqp=CAU",
-"url": "https://drive.google.com/uc?id=15HPO_TxNrAauH36-pBPyTBdILqxD7fcy",
+"url": "https://pastebin.com/EhARAHhP",
+"import": false 
+},
+{
+"name": "Sport Backup",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXq4FwX96VBQUkSG34WUA0psO7ThZD5qGEZw&usqp=CAU",
+"url": "https://drive.google.com/uc?id=1mfn1WFgLRrDXQuToQNrabdCmUACI4nut",
 "import": false 
 },
 ]

@@ -11,12 +11,6 @@
 "import": false
 },
 {
-"name": "Digital TV Backup",
-"image": "https://i.pinimg.com/originals/1a/d4/a8/1ad4a8f29d683a2fb0ddd3cab4c1de6b.jpg",
-"url": "https://www.dropbox.com/s/r5t4i9b2xa4mk2n/digital-tv.txt?dl=1",
-"import": false
-},	
-{
 "name": "Movie Channel",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uO9sxiM9gXXx4v9slhTuvF-pyzzcHbAlZg&usqp=CAU",
 "url": "https://drive.google.com/uc?export=download&id=18xI6wlTPQK7OkOd9BlI5i7s74pA3IojH",
@@ -35,19 +29,7 @@
 "import": false
 },
 {
-"name": "Kids Backup",
-"image": "https://image.shutterstock.com/image-vector/child-logo-260nw-359834360.jpg",
-"url": "https://pastebin.com/edit/6WiM0gAC",
-"import": false 
-},
-{
-"name": "Sport",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXq4FwX96VBQUkSG34WUA0psO7ThZD5qGEZw&usqp=CAU",
-"url": "https://pastebin.com/EhARAHhP",
-"import": false 
-},
-{
-"name": "Sport Backup",
+"name": "Sports",
 "image": "https://as2.ftcdn.net/v2/jpg/03/02/12/83/1000_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",
 "url": "https://drive.google.com/uc?export=download&id=1DKqFO_DZdyBYQMK4yhjXNUnj9JJhV5Lp",
 "import": false 

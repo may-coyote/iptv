@@ -1,39 +1,40 @@
 {
-"name": "ต้าวอ้วน TV",
-"author": "ไอต้าวอ้วน",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJVLVRvcU3DELFIesAm-mrpzNmywnC3hiQw&usqp=CAU",
+"name": "ต้าวอ้วน TV V.2",
+"author": "ต้าวอ้วน",
+"image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
 "url": "https://shorturl.asia/Rixoq",
-"groups": [	
+"groups": [
+ 
+ 
 {
-"name": "Digital TV",
+"name": "ฟรีทีวี",
 "image": "https://www.banidea.com/wp-content/uploads/2014/04/TV-Digital-Thai-Logo.png",
 "url": "https://drive.google.com/uc?export=download&id=1UzTAKMRcZTuTRmhzkH7mVALu0co26Du6",
 "import": false
 },
 {
-"name": "Movie Channel",
+"name": "สารคดี",
+"image": "https://i.pinimg.com/originals/a7/59/7f/a7597f0db79302ae9506f1d557dfd318.gif",
+"url": "https://drive.google.com/uc?export=download&id=1fTi3XEFsZBY7X2gRKJf3-zs4U022ljrn",
+"import": false
+},
+{
+"name": "หนัง",
 "image": "https://cdn.pixabay.com/animation/2023/07/17/14/42/14-42-39-468_512.gif",
 "url": "https://drive.google.com/uc?export=download&id=18xI6wlTPQK7OkOd9BlI5i7s74pA3IojH",
 "import": false
 },
 {
-"name": "Documentary",
-"image": "https://cdn.imgbin.com/1/7/24/imgbin-documentary-film-music-real-estate-property-manager-logo-distracted-driving-QfNxxzT91Z7A1Eetxn9dUeVSZ.jpg",
-"url": "https://drive.google.com/uc?export=download&id=1fTi3XEFsZBY7X2gRKJf3-zs4U022ljrn",
-"import": false 
-},
-{
-"name": "Kids",
-"image": "https://logo.com/image-cdn/images/kts928pd/production/5ae242cc9a57120e2552098bfaed35e9654f5578-400x385.png?w=1080&q=72",
+"name": "การ์ตูน",
+"image": "https://www.gifservice.fr/img/gif-vignette-small/4ded534c7ecdc8742dc74159f4dd0a26/160997-movies-cartoons-dragon-ball-z-logo.gif",
 "url": "https://drive.google.com/uc?export=download&id=1R8L6UzJPFXZlFUcc3cAVrHs5te-gvdEZ",
 "import": false
 },
 {
-"name": "Sports",
-"image": "https://as2.ftcdn.net/v2/jpg/03/02/12/83/1000_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",
+"name": "กีฬา",
+"image": "http://www.sw2.ac.th/images/Aey/Sport63/vx2kj8.gif",
 "url": "https://drive.google.com/uc?export=download&id=1DKqFO_DZdyBYQMK4yhjXNUnj9JJhV5Lp",
-"import": false 
-
+"import": false
 },
 ]
 }

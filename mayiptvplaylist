@@ -12,7 +12,7 @@
 },
 {
 "name": "Movie Channel",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uO9sxiM9gXXx4v9slhTuvF-pyzzcHbAlZg&usqp=CAU",
+"image": "https://cdn.pixabay.com/animation/2023/07/17/14/42/14-42-39-468_512.gif",
 "url": "https://drive.google.com/uc?export=download&id=18xI6wlTPQK7OkOd9BlI5i7s74pA3IojH",
 "import": false
 },
@@ -33,7 +33,7 @@
 "image": "https://as2.ftcdn.net/v2/jpg/03/02/12/83/1000_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",
 "url": "https://drive.google.com/uc?export=download&id=1DKqFO_DZdyBYQMK4yhjXNUnj9JJhV5Lp",
 "import": false 
-},
 
+},
 ]
 }

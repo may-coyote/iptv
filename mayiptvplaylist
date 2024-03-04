@@ -13,15 +13,9 @@
 "import": false
 },
 {
-"name": "สารคดี",
-"image": "https://i.pinimg.com/originals/a7/59/7f/a7597f0db79302ae9506f1d557dfd318.gif",
-"url": "https://drive.google.com/uc?export=download&id=1fTi3XEFsZBY7X2gRKJf3-zs4U022ljrn",
-"import": false
-},
-{
 "name": "หนัง",
 "image": "https://cdn.pixabay.com/animation/2023/07/17/14/42/14-42-39-468_512.gif",
-"url": "https://drive.google.com/uc?export=download&id=18xI6wlTPQK7OkOd9BlI5i7s74pA3IojH",
+"url": "https://raw.githubusercontent.com/MrRobot07011997/wiseplay/main/movies",
 "import": false
 },
 {

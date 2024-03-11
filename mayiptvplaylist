@@ -11,9 +11,15 @@
 "import": false
 },
 {
-"name": "Platinum TV (Backup)",
+"name": "Platinum TV (Backup 1)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgJOhOuFvXpxvnU-WiHprpimzSFbJc6xAfE3nYSqTZeLFXObR0z5oG8VrBq-UxVEuTnk&usqp=CAU",
 "url": "https://bit.ly/3v8YuR5",
+"import": false
+},
+{
+"name": "Platinum TV (Backup 2)",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0o61FoaSW6FVgzccPsCu3p6HCJfoX394yGMGFiEk7sGx4uDExLbyT9xc&s=10",
+"url": "https://pastebin.com/YpDkAZPg",
 "import": false
 },
 {

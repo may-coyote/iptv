@@ -5,6 +5,12 @@
 "url": "https://tinyurl.com/2zzyj7hf",
 "groups": [
 {
+"name": "Legal TV",
+"image": "https://iili.io/23SA3jj.jpg",
+"url": "http://tiny.cc/LEGALIPTV",
+"import": false
+},
+{
 "name": "Platinum TV",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgJOhOuFvXpxvnU-WiHprpimzSFbJc6xAfE3nYSqTZeLFXObR0z5oG8VrBq-UxVEuTnk&usqp=CAU",
 "url": "https://bit.ly/3v8YuR5",
@@ -14,24 +20,6 @@
 "name": "Platinum TV (Backup)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0o61FoaSW6FVgzccPsCu3p6HCJfoX394yGMGFiEk7sGx4uDExLbyT9xc&s=10",
 "url": "https://pastebin.com/YpDkAZPg",
-"import": false
-},
-{
-"name": "Movies",
-"image": "https://cdn.pixabay.com/animation/2023/07/17/14/42/14-42-39-468_512.gif",
-"url": "https://raw.githubusercontent.com/MrRobot07011997/wiseplay/main/movies",
-"import": false
-},
-{
-"name": "Series",
-"image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ea822917909291.5635632fd644f.jpg",
-"url": "http://tiny.cc/aydwxz",
-"import": false
-},
-{
-"name": "Cartoon Anime",
-"image": "https://www.shutterstock.com/image-vector/anime-eyes-vision-fire-pop-260nw-1550802335.jpg",
-"url": "https://pastebin.com/raw/idwVNZGQ",
 "import": false
 },
 ]
